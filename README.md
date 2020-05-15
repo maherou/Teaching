@@ -1,2 +1,1 @@
-# SJU
-St. John's University, Scientist in Residence Activities
+## Mike Heroux Teaching Website

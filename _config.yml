@@ -1,0 +1,35 @@
+title: Mike Heroux Home Page
+description: > # this means to ignore newlines until "baseurl:"
+  Home page for Mike Heroux.
+permalink: ':title/'
+baseurl: "/Teaching" # the subpath of your site, e.g. /blog
+url: "https://maherou.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Michael Heroux # add your name
+author-img: HerouxSpeaking.jpg # add your photo
+about-author: Senior Scientist at Sandia National Laboratories and Scientist in Residence at St. John's University. # add description
+social-google: citations?user=3o3TleEAAAAJ&hl=en
+social-stack-overflow: users/4480512/michael-heroux
+social-github: maherou # add your Github handle
+social-linkedin: michael-heroux-763590 # add your Linkedin handle
+social-email: maherou@gmail.com # add your Email address
+
+# Disqus
+discus-identifier: # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

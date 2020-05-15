@@ -1,0 +1,274 @@
+<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><table><tr><td><pre style="margin: 0; line-height: 125%">  1
+  2
+  3
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+ 31
+ 32
+ 33
+ 34
+ 35
+ 36
+ 37
+ 38
+ 39
+ 40
+ 41
+ 42
+ 43
+ 44
+ 45
+ 46
+ 47
+ 48
+ 49
+ 50
+ 51
+ 52
+ 53
+ 54
+ 55
+ 56
+ 57
+ 58
+ 59
+ 60
+ 61
+ 62
+ 63
+ 64
+ 65
+ 66
+ 67
+ 68
+ 69
+ 70
+ 71
+ 72
+ 73
+ 74
+ 75
+ 76
+ 77
+ 78
+ 79
+ 80
+ 81
+ 82
+ 83
+ 84
+ 85
+ 86
+ 87
+ 88
+ 89
+ 90
+ 91
+ 92
+ 93
+ 94
+ 95
+ 96
+ 97
+ 98
+ 99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137</pre></td><td><pre style="margin: 0; line-height: 125%"><span style="color: #557799">#include &lt;cstdlib&gt;</span>
+<span style="color: #557799">#include &lt;cstdio&gt;</span>
+<span style="color: #557799">#include &lt;iostream&gt;</span>
+<span style="color: #557799">#include &lt;cmath&gt;</span>
+<span style="color: #557799">#include &lt;vector&gt;</span>
+<span style="color: #557799">#include &lt;omp.h&gt;</span>
+
+<span style="color: #333399; font-weight: bold">void</span> <span style="color: #0066BB; font-weight: bold">computeStartStop</span>(<span style="color: #333399; font-weight: bold">int</span> myThreadNum, <span style="color: #333399; font-weight: bold">int</span> numThreads, <span style="color: #333399; font-weight: bold">int</span> loopLength, <span style="color: #333399; font-weight: bold">int</span> <span style="color: #333333">&amp;</span> myStart, <span style="color: #333399; font-weight: bold">int</span> <span style="color: #333333">&amp;</span> myStop, <span style="color: #333399; font-weight: bold">bool</span> debug <span style="color: #333333">=</span> <span style="color: #007020">false</span>);
+
+<span style="color: #008800; font-weight: bold">template</span><span style="color: #333333">&lt;</span><span style="color: #008800; font-weight: bold">class</span> <span style="color: #BB0066; font-weight: bold">Scalar</span><span style="color: #333333">&gt;</span> <span style="color: #333399; font-weight: bold">void</span> scanSum(std<span style="color: #333333">::</span>vector<span style="color: #333333">&lt;</span>Scalar<span style="color: #333333">&gt;</span> <span style="color: #333333">&amp;</span> v) {
+
+  <span style="color: #333399; font-weight: bold">int</span> numThreads;
+<span style="color: #557799">#pragma omp parallel</span>
+  numThreads <span style="color: #333333">=</span> omp_get_num_threads();
+
+  std<span style="color: #333333">::</span>vector<span style="color: #333333">&lt;</span>Scalar<span style="color: #333333">&gt;</span> globalScanStarts(numThreads);
+
+<span style="color: #557799">#pragma omp parallel</span>
+{
+  <span style="color: #333399; font-weight: bold">int</span> myThreadNum <span style="color: #333333">=</span> omp_get_thread_num();
+  <span style="color: #333399; font-weight: bold">int</span> myStart, myStop;
+  computeStartStop(myThreadNum, numThreads, v.size(), myStart, myStop, <span style="color: #007020">true</span>);
+
+  <span style="color: #008800; font-weight: bold">for</span> (<span style="color: #333399; font-weight: bold">int</span> j <span style="color: #333333">=</span> myStart<span style="color: #333333">+</span><span style="color: #0000DD; font-weight: bold">1</span>; j<span style="color: #333333">&lt;</span>myStop; <span style="color: #333333">++</span>j) v[j] <span style="color: #333333">+=</span> v[j<span style="color: #333333">-</span><span style="color: #0000DD; font-weight: bold">1</span>];
+
+  globalScanStarts[myThreadNum] <span style="color: #333333">=</span> v[myStop<span style="color: #333333">-</span><span style="color: #0000DD; font-weight: bold">1</span>];
+}
+
+  <span style="color: #008800; font-weight: bold">for</span> (<span style="color: #333399; font-weight: bold">int</span> i<span style="color: #333333">=</span><span style="color: #0000DD; font-weight: bold">1</span>; i<span style="color: #333333">&lt;</span>numThreads; <span style="color: #333333">++</span>i) globalScanStarts[i] <span style="color: #333333">+=</span> globalScanStarts[i<span style="color: #333333">-</span><span style="color: #0000DD; font-weight: bold">1</span>];
+
+<span style="color: #557799">#pragma omp parallel</span>
+{
+  <span style="color: #333399; font-weight: bold">int</span> myThreadNum <span style="color: #333333">=</span> omp_get_thread_num();
+  <span style="color: #333399; font-weight: bold">int</span> myStart, myStop;
+  computeStartStop(myThreadNum, numThreads, v.size(), myStart, myStop, <span style="color: #007020">true</span>);
+
+  <span style="color: #008800; font-weight: bold">if</span> (myThreadNum<span style="color: #333333">&gt;</span><span style="color: #0000DD; font-weight: bold">0</span>) {  <span style="color: #888888">// Thread 0 does nothing</span>
+     Scalar offset <span style="color: #333333">=</span> globalScanStarts[myThreadNum<span style="color: #333333">-</span><span style="color: #0000DD; font-weight: bold">1</span>];
+     <span style="color: #008800; font-weight: bold">for</span> (<span style="color: #333399; font-weight: bold">int</span> j <span style="color: #333333">=</span> myStart; j<span style="color: #333333">&lt;</span>myStop; <span style="color: #333333">++</span>j) v[j] <span style="color: #333333">+=</span> offset;
+  }
+}
+
+  <span style="color: #008800; font-weight: bold">return</span>;
+}
+
+
+<span style="color: #333399; font-weight: bold">int</span> main(<span style="color: #333399; font-weight: bold">int</span> argc, <span style="color: #333399; font-weight: bold">char</span> <span style="color: #333333">*</span> argv[]) {
+
+  <span style="color: #008800; font-weight: bold">if</span> (argc<span style="color: #333333">!=</span><span style="color: #0000DD; font-weight: bold">4</span>) {
+    std<span style="color: #333333">::</span>cout <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot;Usage: &quot;</span> <span style="color: #333333">&lt;&lt;</span> argv[<span style="color: #0000DD; font-weight: bold">0</span>] <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot; numThreads numSamples numTrials&quot;</span> <span style="color: #333333">&lt;&lt;</span> std<span style="color: #333333">::</span>endl;
+    exit(<span style="color: #0000DD; font-weight: bold">1</span>);
+  }
+  <span style="color: #888888">// Set variable values based on arguments</span>
+  <span style="color: #333399; font-weight: bold">int</span> numThreads <span style="color: #333333">=</span> atoi(argv[<span style="color: #0000DD; font-weight: bold">1</span>]);
+  <span style="color: #333399; font-weight: bold">int</span> numSamples <span style="color: #333333">=</span> atoi(argv[<span style="color: #0000DD; font-weight: bold">2</span>]);
+  <span style="color: #333399; font-weight: bold">int</span> numTrials <span style="color: #333333">=</span> atoi(argv[<span style="color: #0000DD; font-weight: bold">3</span>]);
+
+  std<span style="color: #333333">::</span>vector<span style="color: #333333">&lt;</span><span style="color: #333399; font-weight: bold">int</span><span style="color: #333333">&gt;</span> numInsideVector(numTrials);
+  std<span style="color: #333333">::</span>vector<span style="color: #333333">&lt;</span><span style="color: #333399; font-weight: bold">double</span><span style="color: #333333">&gt;</span> myPiEstimates(numTrials);
+
+  omp_set_num_threads(numThreads);
+
+  <span style="color: #333399; font-weight: bold">double</span> startTime <span style="color: #333333">=</span> omp_get_wtime();
+
+<span style="color: #557799">#pragma omp parallel</span>
+{
+  <span style="color: #333399; font-weight: bold">int</span> myThreadNum <span style="color: #333333">=</span> omp_get_thread_num();
+  <span style="color: #333399; font-weight: bold">int</span> myStart, myStop;
+  computeStartStop(myThreadNum, numThreads, numTrials, myStart, myStop, <span style="color: #007020">true</span>);
+  <span style="color: #333399; font-weight: bold">unsigned</span> <span style="color: #333399; font-weight: bold">short</span> xsubi[<span style="color: #0000DD; font-weight: bold">3</span>];
+  <span style="color: #008800; font-weight: bold">for</span> (<span style="color: #333399; font-weight: bold">int</span> j <span style="color: #333333">=</span> myStart; j<span style="color: #333333">&lt;</span>myStop; <span style="color: #333333">++</span>j) {
+    <span style="color: #333399; font-weight: bold">int</span> numInside <span style="color: #333333">=</span> <span style="color: #0000DD; font-weight: bold">0</span>;
+    <span style="color: #008800; font-weight: bold">for</span> (<span style="color: #333399; font-weight: bold">int</span> k <span style="color: #333333">=</span> <span style="color: #0000DD; font-weight: bold">0</span>; k<span style="color: #333333">&lt;</span>numSamples; <span style="color: #333333">++</span>k){
+       <span style="color: #333399; font-weight: bold">double</span> x <span style="color: #333333">=</span> (erand48(xsubi)<span style="color: #333333">-</span><span style="color: #6600EE; font-weight: bold">.5</span>);
+       <span style="color: #333399; font-weight: bold">double</span> y <span style="color: #333333">=</span> (erand48(xsubi)<span style="color: #333333">-</span><span style="color: #6600EE; font-weight: bold">.5</span>);
+       <span style="color: #333399; font-weight: bold">double</span> r <span style="color: #333333">=</span> sqrt(x<span style="color: #333333">*</span>x<span style="color: #333333">+</span>y<span style="color: #333333">*</span>y);
+       <span style="color: #008800; font-weight: bold">if</span> (r <span style="color: #333333">&lt;=</span> <span style="color: #6600EE; font-weight: bold">0.5</span>) numInside<span style="color: #333333">++</span>;
+    }
+    numInsideVector[j] <span style="color: #333333">=</span> numInside;
+  }
+}
+
+ <span style="color: #333399; font-weight: bold">double</span> getTime <span style="color: #333333">=</span> omp_get_wtime();
+ <span style="color: #333399; font-weight: bold">double</span> sampleTime <span style="color: #333333">=</span> getTime <span style="color: #333333">-</span> startTime;
+
+scanSum<span style="color: #333333">&lt;</span><span style="color: #333399; font-weight: bold">int</span><span style="color: #333333">&gt;</span>(numInsideVector);
+
+ <span style="color: #333399; font-weight: bold">double</span> getTime1 <span style="color: #333333">=</span> omp_get_wtime();
+ <span style="color: #333399; font-weight: bold">double</span> scanTime <span style="color: #333333">=</span> getTime1 <span style="color: #333333">-</span> getTime;
+
+<span style="color: #557799">#pragma omp parallel</span>
+{
+  <span style="color: #333399; font-weight: bold">int</span> myThreadNum <span style="color: #333333">=</span> omp_get_thread_num();
+  <span style="color: #333399; font-weight: bold">int</span> myStart, myStop;
+  computeStartStop(myThreadNum, numThreads, numTrials, myStart, myStop, <span style="color: #007020">true</span>);
+  <span style="color: #008800; font-weight: bold">for</span> (<span style="color: #333399; font-weight: bold">int</span> j <span style="color: #333333">=</span> myStart; j<span style="color: #333333">&lt;</span>myStop; <span style="color: #333333">++</span>j)
+    myPiEstimates[j] <span style="color: #333333">=</span> <span style="color: #6600EE; font-weight: bold">4.0</span><span style="color: #333333">*</span>((<span style="color: #333399; font-weight: bold">double</span>) numInsideVector[j])<span style="color: #333333">/</span>((<span style="color: #333399; font-weight: bold">double</span>) (numSamples<span style="color: #333333">*</span>(j<span style="color: #333333">+</span><span style="color: #0000DD; font-weight: bold">1</span>)));
+}
+
+  <span style="color: #333399; font-weight: bold">double</span> stopTime <span style="color: #333333">=</span> omp_get_wtime();
+  <span style="color: #333399; font-weight: bold">double</span> computePiEstimateTime <span style="color: #333333">=</span> stopTime <span style="color: #333333">-</span> getTime1;
+
+  std<span style="color: #333333">::</span>cout <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot;*********************************&quot;</span> <span style="color: #333333">&lt;&lt;</span> std<span style="color: #333333">::</span>endl;
+  std<span style="color: #333333">::</span>cout <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot;            Timing Summary       &quot;</span> <span style="color: #333333">&lt;&lt;</span> std<span style="color: #333333">::</span>endl;
+  std<span style="color: #333333">::</span>cout <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot;*********************************&quot;</span> <span style="color: #333333">&lt;&lt;</span> std<span style="color: #333333">::</span>endl;
+  std<span style="color: #333333">::</span>cout <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot; Total time = &quot;</span> <span style="color: #333333">&lt;&lt;</span> stopTime <span style="color: #333333">-</span> startTime <span style="color: #333333">&lt;&lt;</span> std<span style="color: #333333">::</span>endl;
+  std<span style="color: #333333">::</span>cout <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot;    Sample time   = &quot;</span> <span style="color: #333333">&lt;&lt;</span> sampleTime <span style="color: #333333">&lt;&lt;</span> std<span style="color: #333333">::</span>endl;
+  std<span style="color: #333333">::</span>cout <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot;    Scan time     = &quot;</span> <span style="color: #333333">&lt;&lt;</span> scanTime <span style="color: #333333">&lt;&lt;</span> std<span style="color: #333333">::</span>endl;
+  std<span style="color: #333333">::</span>cout <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot;    Pi Est time   = &quot;</span> <span style="color: #333333">&lt;&lt;</span> computePiEstimateTime <span style="color: #333333">&lt;&lt;</span> std<span style="color: #333333">::</span>endl;
+
+  std<span style="color: #333333">::</span>cout <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot; #Samples   Pi Estimate&quot;</span> <span style="color: #333333">&lt;&lt;</span> std<span style="color: #333333">::</span>endl;
+  <span style="color: #008800; font-weight: bold">for</span> (<span style="color: #333399; font-weight: bold">int</span> i<span style="color: #333333">=</span><span style="color: #0000DD; font-weight: bold">0</span>; i<span style="color: #333333">&lt;</span>numTrials; <span style="color: #333333">++</span>i) std<span style="color: #333333">::</span>cout <span style="color: #333333">&lt;&lt;</span> (i<span style="color: #333333">+</span><span style="color: #0000DD; font-weight: bold">1</span>)<span style="color: #333333">*</span>numSamples <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot; &quot;</span> <span style="color: #333333">&lt;&lt;</span> myPiEstimates[i] <span style="color: #333333">&lt;&lt;</span> std<span style="color: #333333">::</span>endl;
+
+  <span style="color: #008800; font-weight: bold">return</span> <span style="color: #0000DD; font-weight: bold">0</span>;
+
+}
+
+<span style="color: #333399; font-weight: bold">void</span> computeStartStop(<span style="color: #333399; font-weight: bold">int</span> myThreadNum, <span style="color: #333399; font-weight: bold">int</span> numThreads, <span style="color: #333399; font-weight: bold">int</span> loopLength, <span style="color: #333399; font-weight: bold">int</span> <span style="color: #333333">&amp;</span> myStart, <span style="color: #333399; font-weight: bold">int</span> <span style="color: #333333">&amp;</span> myStop, <span style="color: #333399; font-weight: bold">bool</span> debug) {
+  <span style="color: #333399; font-weight: bold">int</span> myChunkSize <span style="color: #333333">=</span> loopLength<span style="color: #333333">/</span>numThreads;
+  <span style="color: #333399; font-weight: bold">int</span> chunkRemainder <span style="color: #333333">=</span> loopLength<span style="color: #333333">%</span>numThreads;
+  <span style="color: #008800; font-weight: bold">if</span> (myThreadNum<span style="color: #333333">&lt;</span>chunkRemainder) {
+    myChunkSize<span style="color: #333333">++</span>; <span style="color: #888888">// Hand out extra iterations if needed</span>
+    myStart <span style="color: #333333">=</span> myThreadNum <span style="color: #333333">*</span> myChunkSize;
+  }
+  <span style="color: #008800; font-weight: bold">else</span> {
+    myStart <span style="color: #333333">=</span> chunkRemainder<span style="color: #333333">*</span>(myChunkSize<span style="color: #333333">+</span><span style="color: #0000DD; font-weight: bold">1</span>) <span style="color: #333333">+</span> (myThreadNum<span style="color: #333333">-</span>chunkRemainder)<span style="color: #333333">*</span>myChunkSize;
+  }
+  myStop <span style="color: #333333">=</span> myStart<span style="color: #333333">+</span>myChunkSize;
+
+  <span style="color: #008800; font-weight: bold">if</span> (debug)
+<span style="color: #557799">#pragma omp critical</span>
+  {
+    std<span style="color: #333333">::</span>cout <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot;Starting up thread &quot;</span> <span style="color: #333333">&lt;&lt;</span> myThreadNum
+              <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot;  computing &quot;</span> <span style="color: #333333">&lt;&lt;</span> myChunkSize <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot; iterations: &quot;</span> <span style="color: #333333">&lt;&lt;</span> myStart <span style="color: #333333">&lt;&lt;</span> <span style="background-color: #fff0f0">&quot; through &quot;</span> <span style="color: #333333">&lt;&lt;</span> myStop<span style="color: #333333">-</span><span style="color: #0000DD; font-weight: bold">1</span> <span style="color: #333333">&lt;&lt;</span> std<span style="color: #333333">::</span>endl;
+  }
+  <span style="color: #008800; font-weight: bold">return</span>;
+}
+</pre></td></tr></table></div>

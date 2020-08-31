@@ -8,6 +8,12 @@
 
 [http://cacm.acm.org](http://cacm.acm.org) _Excellent source for the latest in thinking and trends in computing._
 
+[ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) 
+
+[How to do cited reference searching](https://clarivate.libguides.com/ld.php?content_id=3588819)
+
+[Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)
+
 **ACM TechNews:**
 
 [http://www.acm.org/technews](http://www.acm.org/technews) _News for IT Professionals._

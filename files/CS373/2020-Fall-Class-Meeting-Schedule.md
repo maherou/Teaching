@@ -1,15 +1,21 @@
+---
+layout: default
+title: "CS373 - Class Schedule"
+description: Daily schedule
+img: CS373-Banner.jpg # Add image post (optional)
+tags: [Teaching, Writing, Presenting, Research] # add tag
+location: "Collegeville, MN, USA"
+---
+
 ## CSCI 373: Fall 2020 Meeting and Assignment Schedule
 
 ### Michael A. Heroux
 
-
-
 | **Date** | **Assignment and Exercises** | **Notes** |
 | ---------- | --- | --- |
 | August 31a | **Class:** Class Introduction | |
-| August 31b | **Class:** Reference librarian (D.Wuolu) | |
-| August 31c | **Team:** Team Research Topic Area Discussions| [Team member lists](https://docs.google.com/spreadsheets/d/17n7Rv4Kre__s4VayH3Vb46qQaxSawD9i5FVujWmMdKA/edit?usp=sharing) |
-| August 31d | **Team:** Team Research Topic Area Discussions.| |
+| August 31b | **Class:** Reference librarian (D.Wuolu) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) [How to do cited reference searching](https://clarivate.libguides.com/ld.php?content_id=3588819) [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
+| August 31cd | **Team:** Team Research Topic Area Discussions| [Team member lists](https://docs.google.com/spreadsheets/d/17n7Rv4Kre__s4VayH3Vb46qQaxSawD9i5FVujWmMdKA/edit?usp=sharing) |
 | August 31e | **Class:** Team Research Topic Area Status.| |
 | August 31f | **Class:** [Course Handbook Intro](./CSCI373CourseHandbookEighteenthEdition.pdf) | |  
 | | |
@@ -43,20 +49,20 @@
 | September 7 | **Class:** Survey Panel Presentation ( [HB, pg 21](./CSCI373CourseHandbookEighteenthEdition.pdf)). | |
 | September 7 | **Team:** Submit Survey Paper | [HB, pg 21](./CSCI373CourseHandbookEighteenthEdition.pdf)  Email BY Midnight. | |
 | September 8a | **Class:** [Position Papers.](https://collegeville.github.io/Scribe/PositionPapers/) | Due September 10.|
-| September 8b-c | **Class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/)
+| September 8b-c | **Class:** [LaTeX Exercises.](https://collegeville.github.io/Scribe/UsingLatex/) | |
 | September 8d | **Class:** [ATLB Discussion: Chapter 2 & 3](../ATLB-Discussion)  | |
-| September 8e-f | **Team:** [Overleaf Setup.](https://collegeville.github.io/Scribe/UsingLatex/)
-| September 8 | **Due:** Team Survey paper ( [HB, pg 21](./CSCI373CourseHandbookEighteenthEdition.pdf)). | Send PDF by email |  |  |
+| September 8e-f | **Team:** [Overleaf Setup.](https://collegeville.github.io/Scribe/UsingLatex/) | |
+| September 8 | **Due:** Team Survey paper ( [HB, pg 21](./CSCI373CourseHandbookEighteenthEdition.pdf)). | Send PDF by email |
 | September 10 | **In class:** [Writing Exercises.](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) Turn in revised paragraphs TBD. <br> **In class:** [ATLB Discussion: Chapter 4 & 5](../ATLB-Discussion)  |   |
 | TBD  | **Individual:** Progress status. | |
 | TBD  | **In class:** [Tech Writing and Speaking 2.0.](./TechWritingSpeaking2.0.pdf) <br> **In class:** [ATLB Discussion: Chapter 6 & 7](../ATLB-Discussion) |   |
 | TBD  | **Individual:** Progress status. | |
 | TBD  | **In class:** [Predictions That Work.](https://collegeville.github.io/Scribe/PredictionsThatWork/) (Due TBD 3) <br> **In class:** [Recorded presentations.](https://collegeville.github.io/Orator/RecordedPresentations) <br>  **In class:** [ATLB Discussion: Chapter 8 & 9](../ATLB-Discussion) | |
 | TBD | **In class:** Tech Analysis Talks ( [HB, pg 22](./CSCI373CourseHandbookEighteenthEdition.pdf)). |  |
-| TBD  |**Due:** Tech Analysis Paper ( [HB, pg 22](./CSCI373CourseHandbookEighteenthEdition.pdf)). Submit via [EasyChair](https://easychair.org/conferences/?conf=spring2020tap) before midnight CST.  | |
-| TBD  | **Due:** Peer review of Tech Analysis papers. Submit via [EasyChair](https://easychair.org/conferences/?conf=spring2020tap) before midnight CST. |   |
+| TBD  |**Due:** Tech Analysis Paper ( [HB, pg 22](./CSCI373CourseHandbookEighteenthEdition.pdf)). | Submit via [EasyChair](https://easychair.org/conferences/?conf=spring2020tap) before midnight CST.  | 
+| TBD  | **Due:** Peer review of Tech Analysis papers. | Submit via [EasyChair](https://easychair.org/conferences/?conf=spring2020tap) before midnight CST. |
 | TBD  | **Individual:** Progress status.  | |
-| TBD  | **Due:** Future Trends paper ( [HB, pg 23](./CSCI373CourseHandbookEighteenthEdition.pdf)). <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) Submit write up as email attachment prior to TBD.  | |
+| TBD  | **Due:** Future Trends paper ( [HB, pg 23](./CSCI373CourseHandbookEighteenthEdition.pdf)). <br> **Assignment:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) S| ubmit write up as email attachment prior to TBD. |
 | TBD |**In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/)   | |
 | TBD | **In class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](../ATLB-Discussion) <br> **In class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](../Bingo/Capstone-Bingo) |  |
 | TBD | **Individual:** SOTF Presentation Dry Run [(HB, pg 24).](./CSCI373CourseHandbookEighteenthEdition.pdf) | **Dry Run of Formal presentations** |

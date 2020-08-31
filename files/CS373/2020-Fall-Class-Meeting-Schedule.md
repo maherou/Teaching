@@ -16,7 +16,7 @@ location: "Collegeville, MN, USA"
 | August 31b | **Class:** Reference librarian (D.Wuolu) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [How to do cited reference searching](https://clarivate.libguides.com/ld.php?content_id=3588819) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 | August 31cd | **Team:** Team Research Topic Area Discussions| [Team member lists](https://docs.google.com/spreadsheets/d/17n7Rv4Kre__s4VayH3Vb46qQaxSawD9i5FVujWmMdKA/edit?usp=sharing) |
 | August 31e | **Class:** Team Research Topic Area Status.| |
-| August 31f | **Class:** [Course Handbook Intro](./CSCI373CourseHandbookEighteenthEdition.pdf) | |  
+| August 31f | **Class:** [Course Handbook Intro](./CSCI373CourseHandbookEighteenthEdition.pdf) <br> [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues)| |  
 | | |
 | Homework | **Individual:** Study [Course Handbook](./CSCI373CourseHandbookEighteenthEdition.pdf) | |
 | Homework | **Team:** [Handbook](./CSCI373CourseHandbookEighteenthEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams using a Google Form. |  

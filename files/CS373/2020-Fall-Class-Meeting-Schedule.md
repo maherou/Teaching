@@ -2,7 +2,6 @@
 layout: post
 title: "CS373 - Class Schedule"
 description: Daily schedule
-img: CS373-Banner.jpg # Add image post (optional)
 tags: [Teaching, Writing, Presenting, Research] # add tag
 location: "Collegeville, MN, USA"
 ---

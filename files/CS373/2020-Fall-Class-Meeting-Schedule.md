@@ -23,8 +23,8 @@ location: "Collegeville, MN, USA"
 | Homework | **Team:** Refine description of topic area | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | |
 | September 1a | **Team:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
-| September 1b | **Class:**  _A Tale of 3 CS373 Students_ | |
-| September 1c | **Team:** Quiz challenge| |
+| September 1b | **Class:**  _A Tale of 3 CS373 Students_ | [Script](./ATaleOfThreeCS373Students.pdf) |
+| September 1c | **Team:** Quiz challenge| Each team takes the quizzes created by other teams |
 | September 1d | **Class:** [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
 | September 1e | **Class:** Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | September 1f | **Team:** Set up GitHub Issues-only repo| |

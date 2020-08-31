@@ -1,3 +1,13 @@
+---
+layout: post
+title: "CS317 - Agile and Efficient Software"
+description: Course on Modeling and Simulation based Computing
+date: 2020-09-28
+img: CS317-Banner.jpg # Add image post (optional)
+tags: [Teaching, Modeling, Simulation, Research] # add tag
+location: "Collegeville, MN, USA"
+---
+
 ### Assessing Quality Using a Checklist
 
 Checklists are useful for many things: packing for a trip, household chores and launching a rocket into space.  A useful checklist for a software project is one that lists practices, processes and tools used to develop a product.  This checklist can be used both internally and externally to assure and assess quality.

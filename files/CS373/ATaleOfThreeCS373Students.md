@@ -1,3 +1,11 @@
+---
+layout: post
+title: "CS373 - A Tale of Three CS Students"
+description: A Skit for CS373 Students
+tags: [Teaching, Writing, Presenting, Research] # add tag
+location: "Collegeville, MN, USA"
+---
+
 # A Tale of Three CS373 Students
 
 Michael A. Heroux

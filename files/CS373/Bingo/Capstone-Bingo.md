@@ -1,3 +1,11 @@
+---
+layout: post
+title: "CS373 - Capstone Bingo"
+description: Capstone Bingo
+tags: [Teaching, Writing, Presenting, Research] # add tag
+location: "Collegeville, MN, USA"
+---
+
 ### CSCI 373: Capstone Bingo
 
 Setup:

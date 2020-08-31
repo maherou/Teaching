@@ -1,3 +1,11 @@
+---
+layout: post
+title: "CS373 - Class Schedule"
+description: Daily schedule
+tags: [Teaching, Writing, Presenting, Research] # add tag
+location: "Collegeville, MN, USA"
+---
+
 ### CSCI 373: Useful Links
 
 **Library Research Page (CSCI 373-specific):**

@@ -1,3 +1,11 @@
+---
+layout: post
+title: "CS373 - Class Schedule"
+description: Daily schedule
+tags: [Teaching, Writing, Presenting, Research] # add tag
+location: "Collegeville, MN, USA"
+---
+
 ## Discussion Points for Algorithms to Live By: The Computer Science of Human Decisions
 
 ### Book

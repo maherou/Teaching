@@ -1,3 +1,11 @@
+---
+layout: post
+title: "CS373 - Assignments Overview"
+description: Assignments Overview
+tags: [Teaching, Writing, Presenting, Research] # add tag
+location: "Collegeville, MN, USA"
+---
+
 ### CSCI 373: Overview of Assignments and Grades
 
 | **Assignment** | **%** | **Description** |

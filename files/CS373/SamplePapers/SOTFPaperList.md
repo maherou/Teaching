@@ -1,3 +1,10 @@
+---
+layout: post
+title: "CS373 - Sample Papers"
+description: Sample Papers
+tags: [Teaching, Writing, Presenting, Research] # add tag
+location: "Collegeville, MN, USA"
+---
 
 The following papers (and one presentation) are some good examples of what your final work could be.
 

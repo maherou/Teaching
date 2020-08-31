@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "CS373 - Class Schedule"
 description: Daily schedule
 img: CS373-Banner.jpg # Add image post (optional)

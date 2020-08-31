@@ -20,6 +20,7 @@ location: "Collegeville, MN, USA"
 | | |
 | Homework | **Individual:** Study [Course Handbook](./CSCI373CourseHandbookEighteenthEdition.pdf) | |
 | Homework | **Team:** [Handbook](./CSCI373CourseHandbookEighteenthEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams using a Google Form. |  
+| Homework | **Team:** Watch panel presentation together | [Strategies for Working Remotely](https://www.exascaleproject.org/event/remote/) |  
 | Homework | **Team:** Refine description of topic area | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | |
 | September 1a | **Team:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
@@ -38,7 +39,6 @@ location: "Collegeville, MN, USA"
 | September 3f | **Team:** Summary of your team topic and how it addresses the key requirements listed in the [Handbook](/CSCI373CourseHandbookEighteenthEdition.pdf) Chapter 3| |
 | | |
 | Homework | **Individual:** [Read ATLB: Introduction and Chapter 1](.ATLB-Discussion) | |
-| Homework | **Team:** Watch panel presentation together | [Strategies for Working Remotely](https://www.exascaleproject.org/event/remote/) |  
 | Homework | **Team:** Start prep for Survey Panel and Paper | [HB, pg 21](./CSCI373CourseHandbookEighteenthEdition.pdf) |  
 | | |
 | September 4a | **Class:** [A Better Professional You](./BetterYou.pdf)

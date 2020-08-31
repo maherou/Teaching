@@ -10,25 +10,22 @@ location: "Collegeville, MN, USA"
 
 **Library Research Page (CSCI 373-specific):**
 
-[http://libguides.csbsju.edu/cs](http://libguides.csbsju.edu/cs) _Local library resources, online resources, starting point for developing research content._
+- [http://libguides.csbsju.edu/cs](http://libguides.csbsju.edu/cs) _Local library resources, online resources, starting point for developing research content._
+- [How to do cited reference searching](https://clarivate.libguides.com/ld.php?content_id=3588819)
+
+**ACM Digital Library:**
+
+- [http://dl.acm.org/](http://dl.acm.org/) _Excellent source for peer-reviewed material._
+- [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) 
 
 **Communications of the Association for Computing Machinery:**
 
-[http://cacm.acm.org](http://cacm.acm.org) _Excellent source for the latest in thinking and trends in computing._
-
-[ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) 
-
-[How to do cited reference searching](https://clarivate.libguides.com/ld.php?content_id=3588819)
-
-[Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)
+- [http://cacm.acm.org](http://cacm.acm.org) _Excellent source for the latest in thinking and trends in computing._
+- [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)
 
 **ACM TechNews:**
 
 [http://www.acm.org/technews](http://www.acm.org/technews) _News for IT Professionals._
-
-**ACM Digital Library:**
-
-[http://dl.acm.org/](http://dl.acm.org/) _Excellent source for peer-reviewed material._
 
 **TED Portal:**
 
@@ -56,10 +53,7 @@ _Subscription to daily email provides links to interesting articles.  Here are a
 
 _Writing and Presenting articles_
 
-[The most famous data visualisation ever and what we can learn from it](https://towardsdatascience.com/the-most-famous-data-visualisation-ever-and-what-we-can-learn-from-it-abcdfa772548)
-
-[How PowerPoint is killing critical thought.](https://www.theguardian.com/commentisfree/2015/sep/23/powerpoint-thought-students-bullet-points-information?CMP=ema_565a)
-
-[Writing, Briefly.](http://www.paulgraham.com/writing44.html)
-
-[Ban These Words From Your Vocabulary To Sound More Confident At Work.](https://www.forbes.com/sites/melodywilding/2016/06/20/ban-these-words-from-your-vocabulary-to-sound-more-confident-at-work/#63c084361807)
+- [The most famous data visualisation ever and what we can learn from it](https://towardsdatascience.com/the-most-famous-data-visualisation-ever-and-what-we-can-learn-from-it-abcdfa772548)
+- [How PowerPoint is killing critical thought.](https://www.theguardian.com/commentisfree/2015/sep/23/powerpoint-thought-students-bullet-points-information?CMP=ema_565a)
+- [Writing, Briefly.](http://www.paulgraham.com/writing44.html)
+- [Ban These Words From Your Vocabulary To Sound More Confident At Work.](https://www.forbes.com/sites/melodywilding/2016/06/20/ban-these-words-from-your-vocabulary-to-sound-more-confident-at-work/#63c084361807)

@@ -24,7 +24,7 @@ location: "Collegeville, MN, USA"
 | Homework | **Team:** Refine description of topic area | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | |
 | September 1a | **Team:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
-| September 1b | **Class:**  _A Tale of 3 CS373 Students_ | [Script](./ATaleOfThreeCS373Students.pdf) |
+| September 1b | **Class:**  _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students.pdf) |
 | September 1c | **Team:** Quiz challenge| Each team takes the quizzes created by other teams |
 | September 1d | **Class:** [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
 | September 1e | **Class:** Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
@@ -38,12 +38,12 @@ location: "Collegeville, MN, USA"
 | September 3e | **Team:** Review GitHub Issues-only repo with DH| |
 | September 3f | **Team:** Summary of your team topic and how it addresses the key requirements listed in the [Handbook](/CSCI373CourseHandbookEighteenthEdition.pdf) Chapter 3| |
 | | |
-| Homework | **Individual:** [Read ATLB: Introduction and Chapter 1](./ATLB-Discussion) | |
+| Homework | **Individual:** [Read ATLB: Introduction and Chapter 1](../ATLB-Discussion) | |
 | Homework | **Team:** Start prep for Survey Panel and Paper | [HB, pg 21](./CSCI373CourseHandbookEighteenthEdition.pdf) |  
 | | |
 | September 4a | **Class:** [A Better Professional You](./BetterYou.pdf) | |
 | September 4b | **Class:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
-| September 4c | **Class:** [ATLB Discussion: Introduction and Chapter 1](./ATLB-Discussion)  |   |
+| September 4c | **Class:** [ATLB Discussion: Introduction and Chapter 1](../ATLB-Discussion)  |   |
 | September 4d-f | **Individual:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
 | |
 | Homework | **Individual:** Create GitHub Pages personal website | Send link to website by Sep 21 |
@@ -52,43 +52,43 @@ location: "Collegeville, MN, USA"
 | | |
 | September 7 | **Class:** Survey Panel Presentation ( [HB, pg 21](./CSCI373CourseHandbookEighteenthEdition.pdf)). | |
 | | |
-| Homework | **Individual:** [Read ATLB: Chapters 2 & 3](./ATLB-Discussion) | |
+| Homework | **Individual:** [Read ATLB: Chapters 2 & 3](../ATLB-Discussion) | |
 | | |
 | September 8a | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Due September 10|
-| September 8b | **Class:** [ATLB Discussion: Chapter 2 & 3](./ATLB-Discussion)  | |
+| September 8b | **Class:** [ATLB Discussion: Chapter 2 & 3](../ATLB-Discussion)  | |
 | September 8c-d | **Class:** [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
 | September 8e-f | **Team:** [Overleaf Setup](https://collegeville.github.io/Scribe/UsingLatex/) | |
 | September  8 | **Due:** Team Survey paper ( [HB, pg 21](./CSCI373CourseHandbookEighteenthEdition.pdf)) | Send PDF by email |
 | | |
-| Homework | **Individual:** [Read ATLB: Chapters 4 & 5](./ATLB-Discussion) | |
+| Homework | **Individual:** [Read ATLB: Chapters 4 & 5](../ATLB-Discussion) | |
 | | |
 | September 10a-f| **Individual:** Progress status | 1-on-1 Zoom meeting |
 | | |
 | September 11a | **Class:** [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) 
-| September 11bc | **Class:** [ATLB Discussion: Chapter 4 & 5](./ATLB-Discussion)  | |
+| September 11bc | **Class:** [ATLB Discussion: Chapter 4 & 5](../ATLB-Discussion)  | |
 | September 11d-f | **Team:** Complete revised paragraphs from writing exercises| |
 | | |
-| Homework | **Individual:** [Read ATLB: Chapters 6 & 7](./ATLB-Discussion) | |
+| Homework | **Individual:** [Read ATLB: Chapters 6 & 7](../ATLB-Discussion) | |
 | | |
 | September 14a | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) 
-| September 14bc | **Class:** [ATLB Discussion: Chapter 6 & 7](./ATLB-Discussion) | |
+| September 14bc | **Class:** [ATLB Discussion: Chapter 6 & 7](../ATLB-Discussion) | |
 | September 14d | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | |
 | | |
-| Homework | **Individual:** [Read ATLB: Chapters 8 & 9](./ATLB-Discussion) | |
+| Homework | **Individual:** [Read ATLB: Chapters 8 & 9](../ATLB-Discussion) | |
 | | |
 | September 15a | **Class:** [Recorded presentations](https://collegeville.github.io/Orator/RecordedPresentations) | |
-| September 15b | **Class:** [ATLB Discussion: Chapter 8 & 9](./ATLB-Discussion) | |
+| September 15b | **Class:** [ATLB Discussion: Chapter 8 & 9](../ATLB-Discussion) | |
 | September 15 | **Due:** Tech Analysis Paper ( [HB, pg 22](./CSCI373CourseHandbookEighteenthEdition.pdf)) | Upload PDF to Slack channel before midnight CST  | 
 | | |
 | September 17 | **Due:** Team review of Tech Analysis papers. | |
 | September 17 | **Individual:** Progress status  | |
 | September 18 | **Due:** Future Trends paper ( [HB, pg 23](./CSCI373CourseHandbookEighteenthEdition.pdf)) | |
 | | |
-| Homework | **Individual:** [Read ATLB: Chapters 10, 11 & Conclusion](./ATLB-Discussion) | |
+| Homework | **Individual:** [Read ATLB: Chapters 10, 11 & Conclusion](../ATLB-Discussion) | |
 | Homework | **Individual:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | Submit write up as email attachment prior to class |
 | | |
 | September 18 | **Class:** [Technical Discussions Exercises](https://collegeville.github.io/Orator/DiscussionsThatWork/)   | |
-| September 18 | **Class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](./ATLB-Discussion) | |
+| September 18 | **Class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](../ATLB-Discussion) | |
 | September 18 | **Class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](../Bingo/Capstone-Bingo) |  |
 | September 21 | **Team:** SOTF Presentation Dry Run [(HB, pg 24)](./CSCI373CourseHandbookEighteenthEdition.pdf) | **Team-based Dry Run of Formal presentations** |
 | Teams 1 & 2: September 22 <br> Teams 3 & 4: September 24   | **Due:** Final SOTF Talk [(HB, pg 24)](./CSCI373CourseHandbookEighteenthEdition.pdf) | **Formal presentations** |

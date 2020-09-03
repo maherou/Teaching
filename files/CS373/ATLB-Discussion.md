@@ -13,12 +13,13 @@ location: "Collegeville, MN, USA"
 
 ### Discussion Guidelines
 - Read the material before coming to class.  You won't be quizzed on it, but do it because it is the right thing to do.
-- Discussions will first occur in small groups.  
+- Discussions will first occur in small groups:
   - As discussion occurs, respect and try to understand all comments made.
   - During the discussion, take notes about key ideas that emerge.  
   - For each key idea, try to identify an example that illustrates the idea.
   - Make sure that everyone has a chance to speak.
   - Make sure each person can see everyone else.
+  - Develop a question (similar in style to the ones below) that you can ask of other teams.
   - Designate a person to speak on behalf of the group to summarize discussion using your group notes.
 - Summary discussion will occur with the whole class.
   - Designated speaker for each small group will synthesis group points.

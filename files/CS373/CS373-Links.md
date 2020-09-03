@@ -16,6 +16,7 @@ location: "Collegeville, MN, USA"
 **ACM Digital Library:**
 
 - [http://dl.acm.org/](http://dl.acm.org/) _Excellent source for peer-reviewed material._
+- [ACM DL from off campus:](https://dl-acm-org.ezproxy.csbsju.edu/search/advanced) _Use this link if you are not on campus, then enter your CSBSJU login information._
 - [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) 
 
 **Communications of the Association for Computing Machinery:**

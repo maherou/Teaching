@@ -41,13 +41,13 @@ location: "Collegeville, MN, USA"
 | Homework | **Individual:** [Read ATLB: Introduction and Chapter 1](../ATLB-Discussion) | |
 | Homework | **Team:** Start prep for Survey Panel and Paper | [HB, pg 21](./CSCI373CourseHandbookEighteenthEdition.pdf) |  
 | | |
-| September 4a | **Class:** [A Better Professional You](./BetterYou.pdf) | |
-| September 4b | **Class:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
-| September 4c | **Class:** [ATLB Discussion: Introduction and Chapter 1](../ATLB-Discussion)  |   |
-| September 4d-f | **Team:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+| September 4a-c | **Class:** [A Better Professional You](./BetterYou.pdf) | |
+| September 4de | **Class:** [ATLB Discussion: Introduction and Chapter 1](../ATLB-Discussion)  |   |
+| September 4f | **Team:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
 | |
 | Homework | **Individual:** Create GitHub Pages personal website | Send link to website by Sep 21 |
 | Homework | **Individual:** Set up LinkedIn account, send invite to DH | Send invite by Sep 21 |
+| Homework | **Team:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | Submit work via email by Wed, Sep 9 |
 | Homework | **Team:** Complete prep for Survey Panel and Paper | [HB, pg 21](./CSCI373CourseHandbookEighteenthEdition.pdf) |  
 | | |
 | September 7 | **Class:** Survey Panel Presentation ( [HB, pg 21](./CSCI373CourseHandbookEighteenthEdition.pdf)). | |

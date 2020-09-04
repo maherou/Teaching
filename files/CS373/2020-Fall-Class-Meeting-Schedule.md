@@ -44,7 +44,7 @@ location: "Collegeville, MN, USA"
 | September 4a | **Class:** [A Better Professional You](./BetterYou.pdf) | |
 | September 4b | **Class:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
 | September 4c | **Class:** [ATLB Discussion: Introduction and Chapter 1](../ATLB-Discussion)  |   |
-| September 4d-f | **Individual:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+| September 4d-f | **Team:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
 | |
 | Homework | **Individual:** Create GitHub Pages personal website | Send link to website by Sep 21 |
 | Homework | **Individual:** Set up LinkedIn account, send invite to DH | Send invite by Sep 21 |

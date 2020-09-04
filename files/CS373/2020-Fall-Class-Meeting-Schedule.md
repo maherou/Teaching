@@ -44,6 +44,7 @@ location: "Collegeville, MN, USA"
 | September 4a-c | **Class:** [A Better Professional You](./BetterYou.pdf) | |
 | September 4de | **Class:** [ATLB Discussion: Introduction and Chapter 1](../ATLB-Discussion)  |   |
 | September 4f | **Team:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+| September 4g | **Individual:** [Quick Survey](https://forms.gle/rgCPoFtjZTSEwE9ZA) | Complete before leaving class |
 | |
 | Homework | **Individual:** Create GitHub Pages personal website | Send link to website by Sep 21 |
 | Homework | **Individual:** Set up LinkedIn account, send invite to DH | Send invite by Sep 21 |
@@ -67,6 +68,7 @@ location: "Collegeville, MN, USA"
 | September 11a | **Class:** [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) 
 | September 11bc | **Class:** [ATLB Discussion: Chapter 4 & 5](../ATLB-Discussion)  | |
 | September 11d-f | **Team:** Complete revised paragraphs from writing exercises| |
+| September 11g | **Individual:** [Quick Survey](https://forms.gle/rgCPoFtjZTSEwE9ZA) | Complete before leaving class |
 | | |
 | Homework | **Individual:** [Read ATLB: Chapters 6 & 7](../ATLB-Discussion) | |
 | | |
@@ -83,6 +85,7 @@ location: "Collegeville, MN, USA"
 | September 17 | **Due:** Team review of Tech Analysis papers. | |
 | September 17 | **Individual:** Progress status  | |
 | September 18 | **Due:** Future Trends paper ( [HB, pg 23](./CSCI373CourseHandbookEighteenthEdition.pdf)) | |
+| September 18 | **Individual:** [Quick Survey](https://forms.gle/rgCPoFtjZTSEwE9ZA) | Complete before leaving class |
 | | |
 | Homework | **Individual:** [Read ATLB: Chapters 10, 11 & Conclusion](../ATLB-Discussion) | |
 | Homework | **Individual:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | Submit write up as email attachment prior to class |

@@ -58,7 +58,7 @@ location: "Collegeville, MN, USA"
 | September 8a | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Due September 10|
 | September 8b | **Class:** [ATLB Discussion: Chapter 2 & 3](../ATLB-Discussion)  | |
 | September 8c-d | **Class:** [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
-| September 8e-f | **Team:** [Overleaf Setup](https://collegeville.github.io/Scribe/UsingLatex/) | |
+| September 8e-f | **Team:** [Overleaf Setup](https://www.overleaf.com) | |
 | September  8 | **Due:** Team Survey paper ( [HB, pg 21](./CSCI373CourseHandbookEighteenthEdition.pdf)) | Send PDF by email |
 | | |
 | Homework | **Individual:** [Read ATLB: Chapters 4 & 5](../ATLB-Discussion) | |

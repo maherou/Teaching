@@ -80,19 +80,20 @@ location: "Collegeville, MN, USA"
 | | |
 | September 15a | **Class:** [Recorded presentations](https://collegeville.github.io/Orator/RecordedPresentations) | |
 | September 15b | **Class:** [ATLB Discussion: Chapter 8 & 9](../ATLB-Discussion) | |
-| September 15 | **Due:** Tech Analysis Paper ( [HB, pg 22](./CSCI373CourseHandbookEighteenthEdition.pdf)) | Upload PDF to Slack channel before midnight CST  | 
+| September 15 | **Due:** Tech Analysis Paper complete draft ( [HB, pg 22](./CSCI373CourseHandbookEighteenthEdition.pdf)) | Send PDF by email  | 
 | | |
-| September 17 | **Due:** Team review of Tech Analysis papers. | |
-| September 17 | **Individual:** Progress status  | |
-| September 18 | **Due:** Future Trends paper ( [HB, pg 23](./CSCI373CourseHandbookEighteenthEdition.pdf)) | |
-| September 18 | **Individual:** [Quick Survey](https://forms.gle/rgCPoFtjZTSEwE9ZA) | Complete before leaving class |
+| September 17 | **Due:** Tech Analysis paper final draft after team review | ( [HB, pg 22](./CSCI373CourseHandbookEighteenthEdition.pdf)) |
+| September 17a-f | **Individual:** Progress status  | 1-on-1 Zoom meeting |
 | | |
 | Homework | **Individual:** [Read ATLB: Chapters 10, 11 & Conclusion](../ATLB-Discussion) | |
 | Homework | **Individual:** [Technical Discussions Exercises Preparation.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | Submit write up as email attachment prior to class |
 | | |
-| September 18 | **Class:** [Technical Discussions Exercises](https://collegeville.github.io/Orator/DiscussionsThatWork/)   | |
-| September 18 | **Class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](../ATLB-Discussion) | |
-| September 18 | **Class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/), [Capstone Bingo](../Bingo/Capstone-Bingo) |  |
+| September 18a | **Class:** [Technical Discussions Exercises](https://collegeville.github.io/Orator/DiscussionsThatWork/)   | |
+| September 18bc | **Class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](../ATLB-Discussion) | |
+| September 18d | **Class:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
+| September 18ef | **Class:** [Capstone Bingo](../Bingo/Capstone-Bingo) |  |
+| September 18g | **Individual:** [Quick Survey](https://forms.gle/rgCPoFtjZTSEwE9ZA) | Complete before leaving class |
 | September 21 | **Team:** SOTF Presentation Dry Run [(HB, pg 24)](./CSCI373CourseHandbookEighteenthEdition.pdf) | **Team-based Dry Run of Formal presentations** |
+| September 22/24 | **Due as section of SOTF paper:** Future Trends paper ( [HB, pg 23](./CSCI373CourseHandbookEighteenthEdition.pdf)) | |
 | Teams 1 & 2: September 22 <br> Teams 3 & 4: September 24   | **Due:** Final SOTF Talk [(HB, pg 24)](./CSCI373CourseHandbookEighteenthEdition.pdf) | **Formal presentations** |
 | Teams 3 & 4: September 22 <br> Teams 1 & 2: September 24 | **Due:** Final SOTF Paper [(HB, pg 24)](./CSCI373CourseHandbookEighteenthEdition.pdf) | **Submit as an email attachment** |

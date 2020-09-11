@@ -80,12 +80,11 @@ location: "Collegeville, MN, USA"
 | Homework | **Individual:** [Read ATLB: Chapters 8 & 9](../ATLB-Discussion) | |
 | | |
 | September 15ab | **Class:** [ATLB Discussion: Chapter 8 & 9](../ATLB-Discussion) | |
-| September 15c-f | **Individual:** Prepare Technical Analysis paper for submission | ( [HB, pg 22](./CSCI373CourseHandbookEighteenthEdition.pdf)) |
-
+| September 15c-f | **Individual:** Prepare Technical Analysis paper for submission | ([HB, pg 22](./CSCI373CourseHandbookEighteenthEdition.pdf)) |
 | September 15 | **Due:** Tech Analysis Paper complete draft ( [HB, pg 22](./CSCI373CourseHandbookEighteenthEdition.pdf)) | Send PDF by email  | 
 | | |
+| September 17a-f | **Individual:** Progress status, review of paper checklist | 1-on-1 Zoom meeting |
 | September 17 | **Due:** Tech Analysis paper final draft after team review | ( [HB, pg 22](./CSCI373CourseHandbookEighteenthEdition.pdf)) |
-| September 17a-f | **Individual:** Progress status  | 1-on-1 Zoom meeting |
 | | |
 | Homework | **Individual:** [Read ATLB: Chapters 10, 11 & Conclusion](../ATLB-Discussion) | |
 | | |

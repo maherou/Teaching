@@ -78,6 +78,7 @@ location: "Collegeville, MN, USA"
 | September 14d-f | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | |
 | | |
 | Homework | **Individual:** [Read ATLB: Chapters 8 & 9](../ATLB-Discussion) | |
+| Homework | **Individual:** Submit [Title, Abstract, Bio](https://forms.gle/2R3eUoq9wCPpfTPV8) | |
 | | |
 | September 15ab | **Class:** [ATLB Discussion: Chapter 8 & 9](../ATLB-Discussion) | |
 | September 15c | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=fall2020tap) account | |

@@ -16,8 +16,9 @@ location: "Collegeville, MN, USA"
 
 | **Date** | **Assignment and Exercises** | **Notes** |
 | --- | --- | --- |
-| September 28 | **Team:** Approximating Pi Using Simulations [Video](https://youtu.be/CGwoMEXqh7A), [Slides](../ApproximatingPiUsingSimulations.pdf) | Use the language of your choice.  Demonstrate in class tomorrow.   |
-| September 29 | **In class lecture:** Class Introduction and User Stories<br> **Assignment:** [Approximating Pi in C++](../CPP-Pi). Due TBD. <br> **Assignment:** [User stories to define GitHub usage model](https://docs.google.com/document/d/1jdObI_Y5u4S-vy3SmLaIgzIGuh5ekN0pucaPpPXI5CU/edit?usp=sharing) Due TBD.|   |
+| September 28 | **Team:** Approximating Pi Using Simulations [Video](https://youtu.be/CGwoMEXqh7A), [Slides](../ApproximatingPiUsingSimulations.pdf) | |
+| September 28 | **Class:** Class Introduction and User Stories 
+| September 28 | **Team:** [Approximating Pi in C++](../CPP-Pi). Due TBD. <br> **Assignment:** [User stories to define GitHub usage model](https://docs.google.com/document/d/1jdObI_Y5u4S-vy3SmLaIgzIGuh5ekN0pucaPpPXI5CU/edit?usp=sharing) Due TBD.|   |
 | October 1 | **In class lecture:** <br> [The 0<sup>th</sup> Little Pig](../../ZerothLittlePig) <br>[Phase 1 Teams](../PhaseOneTeams) <br> Group Exercises <br> GitHub Usage Model Decisions <br>   **In class team presentations:** <br> Design tools user stories and options. <br> [Create team policies](../TeamPolicyAssignment) |   |
 | October 2 | **In class team presentations:** <br> Design Tools Presentations <br> **In class lecture:** [The Fisher-Yates (Knuth version) Algorithm](https://exceptionnotfound.net/understanding-the-fisher-yates-card-shuffling-algorithm/) <br> [Agile Small Teams](../AgileSmallTeams.pdf)<br> **Assignment:** Development environments user stories and options <br> **Assignment:** PlayingCards class design.  Due Feb 8. |   |
 | October 5 | **In class:** <br> Review of Team Policies and Checklists - Reference [A-Team-Tools Site](https://betterscientificsoftware.github.io/A-Team-Tools/) <br> Development environment presentations.  <br> [Solitaire modeling.](../Solitaire) |   |

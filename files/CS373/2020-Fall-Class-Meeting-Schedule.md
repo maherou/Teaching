@@ -97,6 +97,6 @@ location: "Collegeville, MN, USA"
 | September 18ef | **Class:** [Capstone Bingo](../Bingo/Capstone-Bingo) |  |
 | September 18g | **Individual:** [Quick Survey](https://forms.gle/rgCPoFtjZTSEwE9ZA) | Complete before leaving class |
 | September 21 | **Team:** SOTF Presentation Slide Laydown [(HB, pg 24)](./CSCI373CourseHandbookEighteenthEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
-| September 22 | **Due:** Teams 1 & 2 Final SOTF Talk [(HB, pg 24)](./CSCI373CourseHandbookEighteenthEdition.pdf) | **Formal presentations 6 - 9 pm** |
-| September 23 | **Due:** Teams 3 & 4 Final SOTF Talk [(HB, pg 24)](./CSCI373CourseHandbookEighteenthEdition.pdf) | **Formal presentations 6 - 9 pm** |
+| September 22 | **Due:** Teams 1 & 2 Final SOTF Talk [(HB, pg 24)](./CSCI373CourseHandbookEighteenthEdition.pdf) | [**Formal presentations 6 - 9 pm**](../2020-Fall-Final-Presentation-Schedule) |
+| September 23 | **Due:** Teams 3 & 4 Final SOTF Talk [(HB, pg 24)](./CSCI373CourseHandbookEighteenthEdition.pdf) | [**Formal presentations 6 - 9 pm**](../2020-Fall-Final-Presentation-Schedule) |
 | September 24 | **Due:** Final SOTF Paper [(HB, pg 24)](./CSCI373CourseHandbookEighteenthEdition.pdf) | **Submit as an email attachment** |

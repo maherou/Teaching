@@ -13,6 +13,9 @@ location: "Collegeville, MN, USA"
 - [http://libguides.csbsju.edu/cs](http://libguides.csbsju.edu/cs) _Local library resources, online resources, starting point for developing research content._
 - [How to do cited reference searching](https://clarivate.libguides.com/ld.php?content_id=3588819)
 
+**How to Cite Resources**
+- [Purdue Online Writing Lab (OWL)](https://owl.purdue.edu/owl/purdue_owl.html)
+
 **ACM Digital Library:**
 
 - [http://dl.acm.org/](http://dl.acm.org/) _Excellent source for peer-reviewed material._

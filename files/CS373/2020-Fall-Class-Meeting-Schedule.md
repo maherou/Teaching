@@ -93,8 +93,8 @@ location: "Collegeville, MN, USA"
 | Homework | **Individual:** [Read ATLB: Chapters 10, 11 & Conclusion](../ATLB-Discussion) | |
 | | |
 | September 18ab | **Class:** [ATLB Discussion: Chapter 10, 11 & Conclusion](../ATLB-Discussion) | |
-| September 18cd | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](./CSCI373CourseHandbookEighteenthEdition.pdf)) |  |
-| September 18ef | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
+| September 18cd | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
+| September 18ef | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](./CSCI373CourseHandbookEighteenthEdition.pdf)) |  |
 | September 18g | **Individual:** [Quick Survey](https://forms.gle/rgCPoFtjZTSEwE9ZA) | Complete before leaving class |
 | September 21 | **Team:** SOTF Presentation Slide Laydown [(HB, pg 24)](./CSCI373CourseHandbookEighteenthEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
 | September 22 | **Due:** Teams 1 & 2 Final SOTF Talk [(HB, pg 24)](./CSCI373CourseHandbookEighteenthEdition.pdf) | [**Formal presentations 6 - 9 pm**](../2020-Fall-Final-Presentation-Schedule) |

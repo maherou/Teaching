@@ -10,7 +10,7 @@ location: "Collegeville, MN, USA"
 
 ## Simulating Solitaire
 
-### Goal: Write a C++ program to simulate playing games of solitaire.
+### Goal: Write a program to simulate playing games of solitaire.
 
 What is the probability of winning solitaire? There is no analytical solution.  Unlike flipping coins, the number of possible outcomes of a solitaire game is too large to enumerate.
 

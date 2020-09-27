@@ -17,7 +17,7 @@ location: "Collegeville, MN, USA"
 | **Date** | **Assignment and Exercises** | **Notes** |
 | --- | --- | --- |
 | September 28 | **Homework:** Read [PP assignment](../Pragmatic-Discussions)| **Note:** This first assignment is due prior to our first class meeting!|
-| September 28ab | **Class:** Course Overview, [Slides](../CourseOverview.pdf) | |
+| September 28ab | **Class:** Course Overview, [Slides](../IntroToAgileAndEfficient.pdf) | |
 | September 28c | **Class:** Approximating Pi Using Simulations, [Slides](../ApproximatingPiUsingSimulations.pdf) | |
 | September 28d | **Team:** Approximating Pi Assignment Preparation, [Slides](../ApproximatingPiUsingSimulations.pdf) | |
 | September 28e | **Team:** Discuss [PP assignment](../Pragmatic-Discussions)| |

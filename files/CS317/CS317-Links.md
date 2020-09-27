@@ -14,6 +14,8 @@ location: "Collegeville, MN, USA"
 **Agile Manifesto:** _The fundamental description behind all agile approaches._
 - [Manifesto for Agile Software Development](https://agilemanifesto.org)
 
+**Fun Random Number Article:** _‘A Million Random Digits’ Was a Number-Cruncher’s Bible. Now One Has Exposed Flaws in the Disorder_ (WSJ Article)https://www.wsj.com/articles/rand-million-random-digits-numbers-book-error-11600893049
+
 **Requirements Management:**
 - [User Stories - Atlassian](https://www.atlassian.com/agile/project-management/user-stories)
 - [User Stories: An Agile Introduction](http://www.agilemodeling.com/artifacts/userStory.htm)

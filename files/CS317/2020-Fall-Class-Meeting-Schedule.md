@@ -18,10 +18,10 @@ location: "Collegeville, MN, USA"
 | --- | --- | --- |
 | September 28 | **Homework:** Read [PP assignment](../Pragmatic-Discussions)| **Note:** This first assignment is due prior to our first class meeting!|
 | September 28ab | **Class:** Course Overview, [Slides](../IntroToAgileAndEfficient.pdf) | |
-| September 28c | **Class:** Approximating Pi Using Simulations, [Slides](../ApproximatingPiUsingSimulations.pdf) | |
-| September 28d | **Team:** Approximating Pi Assignment Preparation, [Slides](../ApproximatingPiUsingSimulations.pdf) | |
-| September 28e | **Team:** Discuss [PP assignment](../Pragmatic-Discussions)| |
-| September 28f | **Class:** Discuss [PP assignment](../Pragmatic-Discussions)| |
+| September 28c | **Team:** Discuss [PP assignment](../Pragmatic-Discussions)| |
+| September 28d | **Class:** Discuss [PP assignment](../Pragmatic-Discussions)| |
+| September 28e | **Class:** Approximating Pi Using Simulations, [Slides](../ApproximatingPiUsingSimulations.pdf) | |
+| September 28f | **Team:** Approximating Pi Assignment Preparation, [Slides](../ApproximatingPiUsingSimulations.pdf) ||
 | September 28g | **Individual:** Exit Quiz | Link sent by Zoom chat at end of class |
 | September 28 | **Homework:** Read [PP assignment](../Pragmatic-Discussions)| Complete before next class |
 | September 28 | **Homework:** Approximating Pi Assignment, [Instructions](../FindingPi) | Due October 1, before class |

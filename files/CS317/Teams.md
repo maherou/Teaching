@@ -12,7 +12,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 
 ## CS317 Teams
 
-#### Team 1 <Team Name Submit via PR>
+#### Team 1 Team Name Submit via PR
 
 - Justin Brakob
 - Andrew Breyen
@@ -20,7 +20,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - Mason Heimer
 - Devin Murphy
 
-#### Team 2 <Team Name Submit via PR>
+#### Team 2 Team Name Submit via PR
 
 - DeAndre Bethell
 - Max Helgestad
@@ -28,14 +28,14 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - Levi Neuenschwander
 - Peng Xiong
 
-#### Team 3 <Team Name Submit via PR>
+#### Team 3 Team Name Submit via PR
 - Leo	Braun
 - Greg Drayton
 - Ben Richards
 - Thomas Torbert
 - Readyson Vang
 
-#### Team 4 <Team Name Submit via PR>
+#### Team 4 Team Name Submit via PR
 - Nathan Drees
 - Andrew Heroux
 - Mengzhen Li
@@ -43,9 +43,8 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 - My Nguyen
 	
 
-#### Team 5 <Team Name Submit via PR>
+#### Team 5 Team Name Submit via PR
 - Ruby Geng
 - Lindsey Hoeschen
 - Lindsay Will
 - Jack Young
- 

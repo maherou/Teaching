@@ -22,7 +22,7 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 
 #### Team 2 <Team Name Submit via PR>
 
-- DeAn Bethell
+- DeAndre Bethell
 - Max Helgestad
 - Vincent Kahlhamer
 - Levi Neuenschwander

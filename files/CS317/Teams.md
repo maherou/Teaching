@@ -12,18 +12,39 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 
 ## CS317 Teams
 
-### League A
-
 #### Team 1 <Team Name Submit via PR>
+
+- Justin Brakob
+- Andrew Breyen
+- Zachary Heinen
+- Mason Heimer
+- Devin Murphy
 
 #### Team 2 <Team Name Submit via PR>
 
-#### Team 3 <Team Name Submit via PR>
+- DeAn Bethell
+- Max Helgestad
+- Vincent Kahlhamer
+- Levi Neuenschwander
+- Peng Xiong
 
-### League B
+#### Team 3 <Team Name Submit via PR>
+- Leo	Braun
+- Greg Drayton
+- Ben Richards
+- Thomas Torbert
+- Readyson Vang
 
 #### Team 4 <Team Name Submit via PR>
+- Nathan Drees
+- Andrew Heroux
+- Mengzhen Li
+- Katherine Mendel
+- My Nguyen
+	
 
 #### Team 5 <Team Name Submit via PR>
-
-#### Team 6 <Team Name Submit via PR>
+- Ruby Geng
+- Lindsey Hoeschen
+- Lindsay Will
+- Jack Young

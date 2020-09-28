@@ -17,7 +17,8 @@ location: "Collegeville, MN, USA"
 | **Date** | **Assignment and Exercises** | **Notes** |
 | --- | --- | --- |
 | September 28 | **Homework:** Read [PP assignment](../Pragmatic-Discussions)| **Note:** This first assignment is due prior to our first class meeting!|
-| September 28ab | **Class:** Course Overview, [Slides](../IntroToAgileAndEfficient.pdf) | |
+| September 28a | **Class:** Course Overview, [Slides](../IntroToAgileAndEfficient.pdf) | |
+| September 28b | **Team:** Meet and greet [Teams](../Teams) |   |
 | September 28c | **Team:** Discuss [PP assignment](../Pragmatic-Discussions)| |
 | September 28d | **Class:** Discuss [PP assignment](../Pragmatic-Discussions)| |
 | September 28e | **Class:** Approximating Pi Using Simulations, [Slides](../ApproximatingPiUsingSimulations.pdf) | |
@@ -26,8 +27,7 @@ location: "Collegeville, MN, USA"
 | September 28 | **Homework:** Read [PP assignment](../Pragmatic-Discussions)| Complete before next class |
 | September 28 | **Homework:** Approximating Pi Assignment, [Instructions](../FindingPi) | Due October 1, before class |
 | September 29a | **Class:** User Stories | |
-| September 29b | **Team:** Meet and greet [Leagues and Teams](../Teams) |   |
-| September 29c | **Team:** [User stories to define GitHub usage model](https://docs.google.com/document/d/1jdObI_Y5u4S-vy3SmLaIgzIGuh5ekN0pucaPpPXI5CU/edit?usp=sharing) |   |
+| September 29bc | **Team:** [User stories to define GitHub usage model](https://docs.google.com/document/d/1jdObI_Y5u4S-vy3SmLaIgzIGuh5ekN0pucaPpPXI5CU/edit?usp=sharing) |   |
 | September 29d | **Team:** [Set up GitHub organization](https://docs.google.com/document/d/1jdObI_Y5u4S-vy3SmLaIgzIGuh5ekN0pucaPpPXI5CU/edit?usp=sharing) |   |
 | September 29e | **Team:** Discuss [PP assignment](../Pragmatic-Discussions)| |
 | September 29f | **Class:** Discuss [PP assignment](../Pragmatic-Discussions)| |

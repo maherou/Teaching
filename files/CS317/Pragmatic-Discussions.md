@@ -21,19 +21,18 @@ Read the material before coming to class.  We will have an exit quiz at the end 
 | -------- | -------------- |
 | September 28 | Forward, Prefaces, Chapter 1, Topics 1 - 3 |
 | September 29 | Chapter 1, Topics 4 - 7 |
-| October 1 | Chapter 1, Topics 4 - 7 |
-| October 2 | Chapter 2, Topics 8 - 11 |
-| October 5 | Chapter 2, Topics 12 - 15 |
-| October 6 | Chapter 3, Topics 16 - 19 |
-| October 8 | Chapter 3, Topics 20 - 22 |
-| October 9 | Chapter 4, Topics 23 - 27 |
-| October 12 | Chapter 5, Topics 28 - 30 |
-| October 13 | Chapter 5, Topics 31 - 32 |
-| October 15 | Chapter 6, Topics 33 - 36 |
-| October 16 | Chapter 7, Topics 37 - 40 |
-| October 19 | Chapter 7, Topics 41 - 44 |
-| October 20 | Chapter 8, Topics 45 - 48 |
-| October 21 | Chapter 9, Topics 49 - 53 |
+| October 1 | Chapter 2, Topics 8 - 11 |
+| October 2 | Chapter 2, Topics 12 - 15 |
+| October 5 | Chapter 3, Topics 16 - 19 |
+| October 6 | Chapter 3, Topics 20 - 22 |
+| October 8 | Chapter 4, Topics 23 - 27 |
+| October 9 | Chapter 5, Topics 28 - 30 |
+| October 12 | Chapter 5, Topics 31 - 32 |
+| October 13 | Chapter 6, Topics 33 - 36 |
+| October 15 | Chapter 7, Topics 37 - 40 |
+| October 16 | Chapter 7, Topics 41 - 44 |
+| October 19 | Chapter 8, Topics 45 - 48 |
+| October 20 | Chapter 9, Topics 49 - 53 |
 
 
 

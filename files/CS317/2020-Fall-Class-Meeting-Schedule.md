@@ -12,8 +12,6 @@ location: "Collegeville, MN, USA"
 
 ### Michael A. Heroux
 
-
-
 | **Date** | **Assignment and Exercises** | **Notes** |
 | --- | --- | --- |
 | September 28 | **Homework:** Read [PP assignment](../Pragmatic-Discussions)| **Note:** This first assignment is due prior to our first class meeting!|

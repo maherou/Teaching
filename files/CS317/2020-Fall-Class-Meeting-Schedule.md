@@ -25,14 +25,15 @@ location: "Collegeville, MN, USA"
 | September 28 | **Homework:** Read [PP assignment](../Pragmatic-Discussions)| Complete before next class |
 | September 28 | **Homework:** Approximating Pi Assignment, [Instructions](../FindingPi) | Due October 1, before class |
 | September 29a | **Class:** [User Stories](../UserStories.pdf) | |
-| September 29bc | **Team:** [User stories to define GitHub usage model](https://docs.google.com/document/d/1jdObI_Y5u4S-vy3SmLaIgzIGuh5ekN0pucaPpPXI5CU/edit?usp=sharing) |   |
-| September 29d | **Team:** [Set up GitHub organization](https://docs.google.com/document/d/1jdObI_Y5u4S-vy3SmLaIgzIGuh5ekN0pucaPpPXI5CU/edit?usp=sharing) |   |
-| September 29e | **Team:** Discuss [PP assignment](../Pragmatic-Discussions)| |
-| September 29f | **Class:** Discuss [PP assignment](../Pragmatic-Discussions)| |
+| September 29b | **Team:** [User stories to define GitHub usage model](https://docs.google.com/document/d/1jdObI_Y5u4S-vy3SmLaIgzIGuh5ekN0pucaPpPXI5CU/edit?usp=sharing) |   |
+| September 29c | **Team:** [Set up GitHub organization](https://docs.google.com/document/d/1jdObI_Y5u4S-vy3SmLaIgzIGuh5ekN0pucaPpPXI5CU/edit?usp=sharing) |   |
+| September 29d | **Team:** Discuss [PP assignment](../Pragmatic-Discussions)| |
+| September 29e | **Class:** Discuss [PP assignment](../Pragmatic-Discussions)| |
+| September 29f | **Class:** Discuss [Card Deck Design](../CardDeckDesign)| Design due Friday, Oct 2 |
 | September 29g | **Individual:** Exit Quiz | Link sent by Zoom chat at end of class |
-| October 1 | **Class:** [The 0<sup>th</sup> Little Pig](../../ZerothLittlePig) | |
-| October 1 | **Team:** GitHub Usage Model Decisions | |
-| October 1 | **Team:** Design tools user stories and options | | 
+| October 1a | **Class:** [The 0<sup>th</sup> Little Pig](../../ZerothLittlePig) | |
+| October 1b | **Team:** GitHub Usage Model Decisions | |
+| October 1c | **Team:** Design tools user stories and options | | 
 | October 1e | **Team:** Discuss [PP assignment](../Pragmatic-Discussions)| |
 | October 1f | **Class:** Discuss [PP assignment](../Pragmatic-Discussions)| |
 | October 1g | **Individual:** Exit Quiz | Link sent by Zoom chat at end of class |

@@ -26,7 +26,7 @@ location: "Collegeville, MN, USA"
 | September 28g | **Individual:** Exit Quiz | Link sent by Zoom chat at end of class |
 | September 28 | **Homework:** Read [PP assignment](../Pragmatic-Discussions)| Complete before next class |
 | September 28 | **Homework:** Approximating Pi Assignment, [Instructions](../FindingPi) | Due October 1, before class |
-| September 29a | **Class:** User Stories | |
+| September 29a | **Class:** [User Stories](../UserStories.pdf) | |
 | September 29bc | **Team:** [User stories to define GitHub usage model](https://docs.google.com/document/d/1jdObI_Y5u4S-vy3SmLaIgzIGuh5ekN0pucaPpPXI5CU/edit?usp=sharing) |   |
 | September 29d | **Team:** [Set up GitHub organization](https://docs.google.com/document/d/1jdObI_Y5u4S-vy3SmLaIgzIGuh5ekN0pucaPpPXI5CU/edit?usp=sharing) |   |
 | September 29e | **Team:** Discuss [PP assignment](../Pragmatic-Discussions)| |

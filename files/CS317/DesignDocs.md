@@ -10,7 +10,13 @@ location: "Collegeville, MN, USA"
 
 ### Design Documentation
 
-Agile software methodologies emphasize _Working software over comprehensive documentation_ ([Agile Manifesto](https://agilemanifesto.org)).  Even so, lightweight design documents are an important development tool and provide a valuable means of conveying the intent and basic structure of a software product before it is written.
+Agile software methodologies emphasize _Working software over comprehensive documentation_ ([Agile Manifesto](https://agilemanifesto.org)).  The term "Barely-sufficient documentation" comes from the early years of the Agile community.  
+
+Even so, lightweight design documents are an important development tool and provide a valuable means of conveying the intent and basic structure of a software product before it is written.  Most important: the process of creating and documenting a design leads to deeper shared team and stakeholder awareness.
+
+"Plans are useless. Planning is everything." -- Dwight Eisenhower
+
+"Everyone has a plan until they get punched in the mouth." -- Mike Tyson, former heavyweight boxer
 
 A design document is valuable for a variety of reasons including:
 1. **Improve product team thinking:** Writing thoughts tends to improve our understanding, independent of being able to communicate to others.

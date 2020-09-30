@@ -25,4 +25,5 @@ In this assignment we will use our PlayingCards class as part of a program to si
 
 ### Resources:
 - [Overview of the game of solitaire](https://en.wikipedia.org/wiki/Klondike_(solitaire)).
+- [Online Klondike Solitaire Game](https://www.solitaire-klondike.com/klondike.html)
 - [The Fisher-Yates (Knuth version) Algorithm:](https://exceptionnotfound.net/understanding-the-fisher-yates-card-shuffling-algorithm) Use this algorithm to implement card shuffling algorithm.

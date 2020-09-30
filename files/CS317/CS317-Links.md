@@ -14,18 +14,23 @@ location: "Collegeville, MN, USA"
 **Agile Manifesto:** _The fundamental description behind all agile approaches._
 - [Manifesto for Agile Software Development](https://agilemanifesto.org)
 
-**Fun Random Number Article:** _‘A Million Random Digits’ Was a Number-Cruncher’s Bible. Now One Has Exposed Flaws in the Disorder_ (WSJ Article)https://www.wsj.com/articles/rand-million-random-digits-numbers-book-error-11600893049
+**Fun Random Number Article:** _‘A Million Random Digits’ Was a Number-Cruncher’s Bible. Now One Has Exposed Flaws in the Disorder_ [WSJ Article](https://www.wsj.com/articles/rand-million-random-digits-numbers-book-error-11600893049)
 
 **Requirements Management:**
 - [User Stories - Atlassian](https://www.atlassian.com/agile/project-management/user-stories)
 - [User Stories: An Agile Introduction](http://www.agilemodeling.com/artifacts/userStory.htm)
 - [Replacing The User Story With The Job Story](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
 
-**Cloud-based IDEs:**
+**Design Tools:**
+- [Lucid Cloud](http://lucidchart.com/)
+- [app.diagrams.net (formerly known as Draw.io)](https://app.diagrams.net)
 
-- [AWS Cloud9](https://aws.amazon.com/cloud9/)
-- [Gitpod.io](https://www.gitpod.io)
-- [Eclipse Che](https://www.eclipse.org/che/)
+**Powerful IDEs:**
+- [VS Code](https://code.visualstudio.com)
+- [Atom](https://atom.io)
+- [AWS Cloud9 (cloud-based)](https://aws.amazon.com/cloud9/)
+- [Gitpod.io (cloud-based)](https://www.gitpod.io)
+- [Eclipse Che (cloud-based)](https://www.eclipse.org/che/)
 
 **Medium.com:**
 

@@ -31,9 +31,12 @@ location: "Collegeville, MN, USA"
 | September 29e | **Class:** Discuss [PP assignment](../Pragmatic-Discussions)| |
 | September 29f | **Class:** Discuss [Card Deck Design](../CardDeckDesign)| Design due Friday, Oct 2 |
 | September 29g | **Individual:** Exit Quiz | Link sent by Zoom chat at end of class |
-| October 1a | **Class:** [The 0<sup>th</sup> Little Pig](../../ZerothLittlePig) | |
-| October 1b | **Team:** GitHub Usage Model Decisions | |
-| October 1c | **Team:** Design tools user stories and options | | 
+| September 29h | **Class:** [The 0<sup>th</sup> Little Pig](../../ZerothLittlePig) | |
+| October 1a | **Class:** [Repository Basics](../RepoBasics) | Observations from Pi Simulator repos|
+| October 1a | **Class:** Card Deck Design - Team Briefings | |
+| October 1b | **Class:** [Design Documentation](../DesignDocs) | |
+| October 1c | **Class:** [Card Deck Implementation](../CardDeckImplement) | |
+| October 1d | **Team:** Design tools user stories and options | | 
 | October 1e | **Team:** Discuss [PP assignment](../Pragmatic-Discussions)| |
 | October 1f | **Class:** Discuss [PP assignment](../Pragmatic-Discussions)| |
 | October 1g | **Individual:** Exit Quiz | Link sent by Zoom chat at end of class |

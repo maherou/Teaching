@@ -16,6 +16,7 @@ In preparation for our Solitaire Simulator, we will need a PlayinCards class.  I
 
 ### Assignment details:
 
+- Create a Card Deck class using Java.
 - Create a Card Deck class using Python.
 - Create tests for the class.
 - Confirm that the class works.

@@ -34,8 +34,8 @@ location: "Collegeville, MN, USA"
 | September 29h | **Class:** [The 0<sup>th</sup> Little Pig](../../ZerothLittlePig) | |
 | October 1a | **Class:** [Agile Software Lifecycle](../AgileSoftwareLifecycle.pdf) | |
 | October 1b | **Class:** [Repository Basics](../RepoBasics) | |
-| October 1b | **Class:** [Design Documentation](../DesignDocs) | |
-| October 1c | **Class:** [Card Deck Implementation](../CardDeckImplement) and [The Fisher-Yates (Knuth version) Algorithm](https://exceptionnotfound.net/understanding-the-fisher-yates-card-shuffling-algorithm/) | |
+| October 1c | **Class:** [Design Documentation](../DesignDocs) | |
+| October 1d | **Class:** [Card Deck Implementation](../CardDeckImplement) and [The Fisher-Yates (Knuth version) Algorithm](https://exceptionnotfound.net/understanding-the-fisher-yates-card-shuffling-algorithm/) | |
 | October 1e | **Team:** Discuss [PP assignment](../Pragmatic-Discussions)| |
 | October 1e | **Team:** Design tools user stories and options | Team-instructor sync up | 
 | October 1f | **Class:** Discuss [PP assignment](../Pragmatic-Discussions)| |

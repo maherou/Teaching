@@ -34,7 +34,6 @@ A good design document will have elements that allow a quick overview, communica
 There are numerous articles describing the elements of a good design document. Here are a few:
 1. [How to write a good software design doc](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c)
 1. [Design docs - A design doc](https://medium.com/@cramforce/design-docs-a-design-doc-a152f4484c6b)
-1. [jlhawn/design_docke_template.md](https://gist.github.com/jlhawn/0a861fb21e162bf367ad) - A markdown template for a design document.
 
 We will use the design template described in the first article [How to write a good software design doc](https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c).
 

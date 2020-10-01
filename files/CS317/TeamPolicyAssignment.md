@@ -10,7 +10,7 @@ location: "Collegeville, MN, USA"
 
 ### Creating a Team Policy
 
-_One important document for a team is its policy.  Create a team policy by looking at the GitHub Usage Model User Stories.  Put the policy in your issues-only repo._
+_One important document for a team is its policy.  Create a team policy.  Put the policy in your issues-only repo._
 
 Here is a sample Team Policy:
 

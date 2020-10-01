@@ -17,4 +17,3 @@ location: "Collegeville, MN, USA"
 1. Write a program in Java to compute an approximation of Pi.  
 1. Produce a report as instructed in the assignment.  
 1. Place your source code and report in a GitHub repo accessible to DH (GitHub ID: maherou).
-I

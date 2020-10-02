@@ -8,13 +8,27 @@ tags: [Teaching, Modeling, Simulation, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
-### Creating a Team Policy
+## Team Policy and Checklists
+Teams function better with a common understanding of expectations and processes.  A team policy and a set of checklists for common processes help _a lot_ to make sure everyone is being a good team member
 
-_One important document for a team is its policy.  Create a team policy.  Put the policy in your issues-only repo._
+In this assignment, each team will define its community policy and develop a set of checklists for:
+- On-ramping a new team member
+- Preparing for a team member's departure
 
-Here is a sample Team Policy:
+The [A-Team Tools repository](https://betterscientificsoftware.github.io/A-Team-Tools/) provides guidance and examples for creating policies and checklists.
 
-## Collegeville Research Team Policies
+### In class assignment
+
+**Starting with an empty Google Doc file, create a draft team policy**
+- You may use the following example policy as a starting point for ideas
+- Every policy you create should be agreed upon by your team members
+- Focus on positive statements
+- Be descriptive more than prescriptive
+
+
+### Sample Team Policy
+
+#### Collegeville Research Team Policies
 
 The following policies are meant to guide team members in their activities, establishing expectations for ongoing work.
 
@@ -34,3 +48,10 @@ The following policies are meant to guide team members in their activities, esta
     1. Exceptions should be infrequent. 
     1. If an exception is frequent, actions or policies should be updated.
 1. Any concerns not addressed by team policies should be discussed with Dr. Heroux.
+
+### After class assignment
+
+Using the examples from the [A-Team Tools repository](https://betterscientificsoftware.github.io/A-Team-Tools/):
+- Create an issues-only repository in your team's GitHub organization
+- Put your community policies document in the repo
+- Put in a master initiation and exit checklist in the repo

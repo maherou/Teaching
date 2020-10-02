@@ -47,7 +47,7 @@ location: "Collegeville, MN, USA"
 | October 2c | **Team:** [Create team policies](../TeamPolicyAssignment) | |
 | October 2d | **Team:** Discuss [PP assignment](../Pragmatic-Discussions)| |
 | October 2e | **Class:** Discuss [PP assignment](../Pragmatic-Discussions)| |
-| October 2e | **Class:** Community Policies - Team Briefings| Each team presents draft community policies|
+| October 2f | **Class:** Community Policies - Team Briefings| Each team presents draft community policies|
 | October 2g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |
 | October 2 | **Homework:** [Create team policies and checklists](../TeamPolicyAssignment) | See [A-Team Tools](https://betterscientificsoftware.github.io/A-Team-Tools/) for examples and guidance. Due Tuesday, Oct 6 |
 | October 5a | **Class:** Review of Team Policies and Checklists - Reference [A-Team-Tools Site](https://betterscientificsoftware.github.io/A-Team-Tools/) | |

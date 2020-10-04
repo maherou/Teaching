@@ -44,12 +44,12 @@ location: "Collegeville, MN, USA"
 | October 1 | **Homework:** PlayingCards class Java implementation. | Due Monday, Oct 5 |
 | October 2a | **Class:** Card Deck Design - Team Briefings | Each team presents design, tools used |
 | October 2b | **Class:** [Agile Small Teams](../AgileSmallTeams.pdf) | |
-| October 2c | **Team:** [Create team policies](../TeamPolicyHomework) | |
+| October 2c | **Team:** [Create team policies](../TeamPolicyAssignment) | |
 | October 2d | **Team:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 2e | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 2f | **Class:** Community Policies - Team Briefings| Each team presents draft community policies|
 | October 2g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |
-| October 2 | **Homework:** [Create team policies and checklists](../TeamPolicyHomework) | See [A-Team Tools](https://betterscientificsoftware.github.io/A-Team-Tools/) for examples and guidance. Due Tuesday, Oct 6 before class |
+| October 2 | **Homework:** [Create team policies and checklists](../TeamPolicyAssignment) | See [A-Team Tools](https://betterscientificsoftware.github.io/A-Team-Tools/) for examples and guidance. Due Tuesday, Oct 6 before class |
 | October 5a | **Team:** [Solitaire modeling.](../Solitaire) | Team Play & Strategy Development |
 | October 5bc | **Team:** [Solitaire modeling.](../Solitaire) | Team Play & Strategy Development |
 | October 5d | **Class:** Discuss Team Solitaire Strategy Observations|  |

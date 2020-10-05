@@ -28,6 +28,18 @@ Use this checklist as a starting point for your own assessment.  We will use it 
 - [ ] Establish and use initiation and exit checklists.
 - [ ] Establish and use team policy statement.
 
+**Testing:**
+- [ ] Design and execute tests for confirming refined user stories match initial user stories.
+- [ ] Design and execute tests for confirming design matches refined user stories.
+- [ ] Design and execute tests for confirming implementation matches design.
+- [ ] Create basic execution test capabilities.
+- [ ] Create comprehensive test capabilities.
+- [ ] Create and regularly use unit testing.
+- [ ] Use a pull-request, code-review integration process for source changes.
+- [ ] Automatically monitor and report code coverage.
+- [ ] Use test-driven development.
+- [ ] Measure and track software performance.
+
 **Requirements and Analsys:**
 - [ ] Create user stories to capture basic product requirements.
 - [ ] Analyze, refine, prioritize, select and convert user stories into tasks for development.
@@ -46,16 +58,7 @@ Use this checklist as a starting point for your own assessment.  We will use it 
 - [ ] Conduct regular project meetings to assess progress and manage schedule.
 - [ ] Use code formatting tool to assure uniform source code.
 - [ ] Identify and use a coding convention.
-- [ ] Develop in-source documentation via Doxygen.
-
-**Testing:**
-- [ ] Create basic test capabilities.
-- [ ] Create comprehensive test capabilities.
-- [ ] Create and regularly use unit testing.
-- [ ] Use a pull-request, code-review integration process for source changes.
-- [ ] Automatically monitor and report code coverage.
-- [ ] Use test-driven development.
-- [ ] Measure and track software performance.
+- [ ] Develop in-source comments that can be used to generate documentation, e.g., Javadoc or Doxygen.
 
 **Product Release:**
 - [ ] Create a unique and traceable release of your software product.
@@ -79,6 +82,18 @@ Copy and paste the text below to create your own Markdown checklist:
 - [ ] Establish and use initiation and exit checklists.
 - [ ] Establish and use team policy statement.
 
+**Testing:**
+- [ ] Design and execute tests for confirming refined user stories match initial user stories.
+- [ ] Design and execute tests for confirming design matches refined user stories.
+- [ ] Design and execute tests for confirming implementation matches design.
+- [ ] Create basic execution test capabilities.
+- [ ] Create comprehensive test capabilities.
+- [ ] Create and regularly use unit testing.
+- [ ] Use a pull-request, code-review integration process for source changes.
+- [ ] Automatically monitor and report code coverage.
+- [ ] Use test-driven development.
+- [ ] Measure and track software performance.
+
 **Requirements and Analsys:**
 - [ ] Create user stories to capture basic product requirements.
 - [ ] Analyze, refine, prioritize, select and convert user stories into tasks for development.
@@ -97,16 +112,7 @@ Copy and paste the text below to create your own Markdown checklist:
 - [ ] Conduct regular project meetings to assess progress and manage schedule.
 - [ ] Use code formatting tool to assure uniform source code.
 - [ ] Identify and use a coding convention.
-- [ ] Develop in-source documentation via Doxygen.
-
-**Testing:**
-- [ ] Create basic test capabilities.
-- [ ] Create comprehensive test capabilities.
-- [ ] Create and regularly use unit testing.
-- [ ] Use a pull-request, code-review integration process for source changes.
-- [ ] Automatically monitor and report code coverage.
-- [ ] Use test-driven development.
-- [ ] Measure and track software performance.
+- [ ] Develop in-source comments that can be used to generate documentation, e.g., Javadoc or Doxygen.
 
 **Product Release:**
 - [ ] Create a unique and traceable release of your software product.

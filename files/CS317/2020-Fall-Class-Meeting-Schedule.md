@@ -50,8 +50,9 @@ location: "Collegeville, MN, USA"
 | October 2f | **Class:** Community Policies - Team Briefings| Each team presents draft community policies|
 | October 2g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |
 | October 2 | **Homework:** [Create team policies and checklists](../TeamPolicyAssignment) | See [A-Team Tools](https://betterscientificsoftware.github.io/A-Team-Tools/) for examples and guidance. Due Tuesday, Oct 6 before class |
-| October 5a | **Team:** [Solitaire modeling.](../Solitaire) | Team Play & Strategy Development |
-| October 5bc | **Team:** [Solitaire modeling.](../Solitaire) | Team Play & Strategy Development |
+| October 5a | **Team:** [Solitaire modeling](../Solitaire) | Team Play & Strategy Development |
+| October 5b | **Team:** [Solitaire modeling](../Solitaire) | Team Play & Strategy Development |
+| October 5c | **Class:** [Quality Assessment Checklist](../QualityAssessmentChecklist) | Use this to guide team project efforts |
 | October 5d | **Class:** Discuss Team Solitaire Strategy Observations|  |
 | October 5e | **Team:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 5f | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| |

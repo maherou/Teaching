@@ -72,14 +72,14 @@ location: "Collegeville, MN, USA"
 | October 8f | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 8g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |
 | October 9 | **Homework:** Read the [Massey Rating System](../masseyMethod.pdf) for understanding | Team prep for MarchMadness project |
-| October 8 | **Homework:** [Take-home essay](https://goo.gl/forms/mHEdDNZpEtsIco9) | due by 8 pm, Oct 9 |
+| October 8 | **Homework:** [Take-home essay](https://forms.gle/MXtyKe5mfwT4Fteq6) | due by 8 pm, Oct 9 |
 | October 9ab| **Team:** ["Scaling Yourself as a Software Developer"](http://blog.martinig.ch/videos/scaling-yourself-as-a-software-developer/) | Watch and create 3 takeaways and 2 questions |
 | October 9c | **Class:** Scaling yourself discussion| |
 | October 9d | **Class:** [How to time code execution](../TimingCode)| |
 | October 9e | **Team:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 9f | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 9g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |
-| October 9 | **Homework:** [Team Assessment Form](https://goo.gl/forms/qPLQJbT1wdJr9iP) | Complete after Exit Quiz |
+| October 9 | **Homework:** [Team Assessment Form](https://forms.gle/z8PEJrZpkykEqVzZA) | Complete after Exit Quiz |
 | October 12abc | **Class:** Project deadline and demo: Solitaire simulator MVP demo and assessment | See [checklist](../QualityAssessmentChecklist) |
 | October 12d | **Homework:** [March Madness Predictor](../MarchMadness) | |
 | October 12e | **Team:** Discuss [PP Homework](../Pragmatic-Discussions)| |

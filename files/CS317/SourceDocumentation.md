@@ -8,6 +8,15 @@ tags: [Teaching, Modeling, Simulation, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
+## Documenting Source Code
+Source documentation can provide valuable guidance for future understanding and modification of existing source code.  However, the best source documentation is typically the kind that explains the purpose or intent of the code, not the mechanics of the operation.  Repeating in words the same information already conveyed by the code is not helpful, and can be harmful.  Harm occurs if the source code is modified and the documentation become incorrect.
+
+### Documenting Java Source Code
+In addition to standard embedded comments, Java has built-in support for documentation using javadoc.  Javadoc comments can be processed to produce a variety of output formats including HTML.  
+
+### Documenting Python Source Code
+In addition to standard embedded comments, Python has built-in support for documentation using Docstrings.  Docstrings comments can be used to assist a user in understanding how to use a Python function.
+
 ### Documenting C++ Source Code
 
 A useful approach to providing documentation for your software product is to integrate text into the source code.  In-source documentation enables a tool to produce documentation from the text you provide and the structure of the code itself, leading to a rich, navigable collection of online documentation.

@@ -8,10 +8,10 @@ tags: [Teaching, Modeling, Simulation, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
-### A Brief Overview of C++ Execution Timing
+### A Brief Overview of Execution Timing
 
 #### Introduction
-Making code more efficient requires measuring the time required to complete execution of a given phase or set of functions.  Someone who is just learning C++ may be surprised by the wide variety of timing methods available, and the relatively recent emergence of a standard for timing C++ code.
+Making code more efficient requires measuring the time required to complete execution of a given phase or set of functions.  Typically, a programming language has some means to capture the current time by calling a function.  Calling the function prior to starting a timed region, storing that time value, and then calling the function right after the timed region and computing the difference, provides the way to obtain timings.
 
 #### Simple Best Practices for Timing Code
 In the early decades of computing, execution of a given set of instructions was quite predictable, in fact a well-informed programmer could count the number of clock cycle required to execute a sequence of instructions without running the code.  Presently, computer designs are very complicated and each processor is simultaneously executing a number of instructions, waiting on the delivery of data or servicing an interrupt.  Furthermore, each processor is part of an ecosystem where it shares and competes for resources with other processors.
@@ -31,21 +31,6 @@ In general, it is best to have your own interface for using timers.  Here are a 
 - The interface should be very light weight:  
    - Avoid the use of runtime adapters that are intrinsically part of virtual methods or pure virtual classes.
    - If you need to support different timers for different platforms, use compile-time polymorphism with ifdefs or templates.
-
-#### Example Timer (pre-C++11)
-This simple timing function is used in the TOP500 computer system ranking benchmark:
-
-- [mytimer.hpp](https://github.com/hpcg-benchmark/hpcg/blob/master/src/mytimer.hpp)
-- [mytimer.cpp](https://github.com/hpcg-benchmark/hpcg/blob/master/src/mytimer.cpp)
-
-
-#### Timing using modern C++ (C++11 or later)
-
-The C++11 standard provides standard functionality in the chrono library.  The HPCG benchmark function could, in principle, be re-written using chrono.  Here are some resources for finding out more about chrono:
-
-- [C++ Standard Reference](https://en.cppreference.com/w/cpp/chrono)
-- [Using chrono, part 1 - video](https://www.youtube.com/watch?v=LL8wkskDlbs) 
-- [Using chrono, part 2 - video](https://www.youtube.com/watch?v=RuPfDfLKY04)
 
 #### Assignment: Add a timer to your Solitaire Game
 Details:

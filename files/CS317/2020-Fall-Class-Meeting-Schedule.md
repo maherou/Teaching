@@ -66,11 +66,12 @@ location: "Collegeville, MN, USA"
 | October 6g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |
 | October 6 | **Homework:** Create Solitaire Design using guidance in [Design Documentation](../DesignDocs) | Due Thursday, Oct 8 for in-class presentation |
 | October 8ab | **Class:** Review of Team Solitaire Design | Address appropriate elements from [Design Documentation](../DesignDocs) |
-| October 8c | **Class:** "Bright Spots" Presentation | |
-| October 8d | **Team:** Bright Spots from your team | Team discussion and class rapup |
+| October 8c | **Class:** "Bright Spots" Story & Discussion | Break into teams for discussion |
+| October 8d | **Class:** The [Massey Rating System](../masseyMethod.pdf) Introduction | |
 | October 8e | **Team:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 8f | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 8g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |
+| October 9 | **Homework:** Read the [Massey Rating System](../masseyMethod.pdf) for understanding | Team prep for MarchMadness project |
 | October 8 | **Homework:** [Take-home essay](https://goo.gl/forms/mHEdDNZpEtsIco9) | due by 8 pm, Oct 9 |
 | October 9ab| **Team:** ["Scaling Yourself as a Software Developer"](http://blog.martinig.ch/videos/scaling-yourself-as-a-software-developer/) | Watch and create 3 takeaways and 2 questions |
 | October 9c | **Class:** Scaling yourself discussion| |

@@ -73,7 +73,6 @@ location: "Collegeville, MN, USA"
 | **++++++++** | **+++++++++++++++++++** | **++++++++++++** |
 | October 8ab | **Class:** Review of Team Solitaire Design | Address appropriate elements from [Design Documentation](../DesignDocs) |
 | October 8c | **Class:** Strategies for next two weeks, "Bright Spots" Story & Discussion,  | Break into teams for bright spots discussion |
-| October 8d | **Class:** The [Massey Rating System](../masseyMethod.pdf) Introduction | |
 | October 8e | **Team:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 8f | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 8g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |
@@ -82,7 +81,7 @@ location: "Collegeville, MN, USA"
 | October 8 | **Homework:** ["Scaling Yourself as a Software Developer"](http://blog.martinig.ch/videos/scaling-yourself-as-a-software-developer/) | Watch video. Create 3 takeaways and 2 questions for discussion next class |
 | **++++++++** | **+++++++++++++++++++** | **++++++++++++** |
 | October 9a | **Class:** Scaling yourself discussion| Class discussion from of team takeaways and questions |
-| October 9b | **Class:** [How to time code execution](../TimingCode)| |
+| October 9b | **Class:** [How to time code execution](../TimingCode), The [Massey Rating System](../masseyMethod.pdf) Introduction | |
 | October 9c | **Team:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 9d | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| **Note: Class will end at 3 pm** |
 | October 9e | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |

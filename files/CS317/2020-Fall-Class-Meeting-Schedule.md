@@ -94,18 +94,18 @@ location: "Collegeville, MN, USA"
 | October 12f | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 12g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |
 | October 12 | **Homework:** [Software Practices Survey](https://forms.gle/RjpGcrR5PnyfCYMM6) | Due before class October 13 |
-| October 12 | **Homework:** [March Madness Predictor](../MarchMadness) | Due for in-class demo Oct 20|
+| October 12 | **Homework:** [March Madness Predictor](../MarchMadness) | Due for in-class demo Oct 22 |
 | **++++++++** | **+++++++++++++++++++** | **++++++++++++** |
-| October 13a | **Class:** [Source Documentation](../SourceDocumentation)  | |
+| October 13a | **Class:** [Source Documentation](../SourceDocumentation)  | [What Does This Line Do? The Challenge of Writing a Well-Documented Code](https://bssw.io/blog_posts/what-does-this-line-do-the-challenge-of-writing-a-well-documented-code)|
 | October 13bc | **Team:** Doc-athon exercise [Source Documentation](../SourceDocumentation)  | |
-| October 13d | **Team:** Stress test policies and checklist prep for lottery event  | |
+| October 13d | **Team:** Stress test policies and checklist prep for lottery events  | |
 | October 13e | **Team:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 13f | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 13g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |
 | **++++++++** | **+++++++++++++++++++** | **++++++++++++** |
 | October 15a | **Class:** Lottery winning and bringing on a new team member| |
-| October 15b | **Team:** Lottery winner departing| |
-| October 15c | **Team:** Lottery winner arriving| |
+| October 15bc | **Team:** Lottery winner departing| |
+| October 15cd | **Team:** Lottery loser arriving| |
 | October 15e | **Team:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 15f | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 15g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |

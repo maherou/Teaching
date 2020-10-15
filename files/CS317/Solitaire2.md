@@ -15,6 +15,7 @@ location: "Collegeville, MN, USA"
 Activities:
 - Explore better strategies for winning games.
 - Track average number of moves needed for games you win.
+- Stretch activity (not required): introduce parallel execution into your Solitaire simulator by enabling simultaneous game playing.
 
 ### Competition:
 - Prize 1: Best wining percentage.

@@ -20,3 +20,7 @@ Activities:
 - Prize 1: Best wining percentage.
 - Prize 2: Fewest average moves for winnable games.
 - Prize 3: Fastest average move time over all games played.
+
+### Report
+- Generate a report providing recommendations for which strategies are statistically best, based on your simulation studies.
+- Provide this report as part of your final project deliverables, as a Markdown file in your repo.

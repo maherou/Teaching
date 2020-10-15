@@ -111,7 +111,8 @@ location: "Collegeville, MN, USA"
 | October 15g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |
 | **++++++++** | **+++++++++++++++++++** | **++++++++++++** |
 | October 16a | **Class:** [Solitaire - Part 2](../Solitaire2)  | Due October 22 during class |
-| October 16b | **Class:** [Parallel Programming Primer](../OpenMP) |  |
+| October 16bcd | **Team:** [Solitaire - Part 2](../Solitaire2) planning |  |
+| October 16bcd | **Individual:** Meeting with DH  | Concurrent with team discussions of Solitaire - Part 2, in separate breakout room |
 | October 16e | **Team:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 16f | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 16g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |

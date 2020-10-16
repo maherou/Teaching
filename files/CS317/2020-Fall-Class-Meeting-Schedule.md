@@ -127,5 +127,5 @@ location: "Collegeville, MN, USA"
 | October 20a | **Team:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 20b | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 20c | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |
-| October 19-21 | **Final:** 15-minute Individual Interviews.  See these [Interview Preparation Prompts](../InterviewPrep) for discussion topics. | **Note:** Scheduled individually. |
+| October 20-21 | **Final:** 15-minute Individual Interviews.  See these [Interview Preparation Prompts](../InterviewPrep) for discussion topics. | **Note:** Scheduled individually. |
 | October 22 | **Class:** Final Review of Solitaire and March Madness Projects. Provide a brief summary and pointers to artifacts that address our [Quality Assessment Checklist.](../QualityAssessmentChecklist)| |

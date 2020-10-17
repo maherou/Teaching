@@ -116,7 +116,7 @@ location: "Collegeville, MN, USA"
 | October 16e | **Team:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 16f | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 16g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |
-| October 16 | **Homework:** [Team Assessment Form](https://goo.gl/forms/qPLQJbT1wdJr9iP) | Complete after Exit Quiz |
+| October 16 | **Homework:** [Team Assessment Form](https://forms.gle/z8PEJrZpkykEqVzZA) | Complete after Exit Quiz |
 | October 16 | **Homework:** [Solitaire - Part 2](../Solitaire2)  | Due October 22 during class |
 | **++++++++** | **+++++++++++++++++++** | **++++++++++++** |
 | October 19abcd | **Class:** Course Concepts Review | |

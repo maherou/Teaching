@@ -22,6 +22,8 @@ Activities:
 - Prize 2: Fewest average moves for winnable games.
 - Prize 3: Fastest average move time over all games played.
 
+**Note:** A move occurs when a card is picked from the stock.  Changes in card placement on the tableau, placement onto the foundation, or onto the waste, do not count as a move.
+
 ### Report
 - Generate a report providing recommendations for which strategies are statistically best, based on your simulation studies.
 - Provide this report as part of your final project deliverables, as a Markdown file in your repo.

@@ -119,7 +119,7 @@ location: "Collegeville, MN, USA"
 | October 16 | **Homework:** [Team Assessment Form](https://forms.gle/z8PEJrZpkykEqVzZA) | Complete after Exit Quiz |
 | October 16 | **Homework:** [Solitaire - Part 2](../Solitaire2)  | Due October 22 during class |
 | **++++++++** | **+++++++++++++++++++** | **++++++++++++** |
-| October 19abcd | **Class:** Course Concepts Review | |
+| October 19abcd | **Class:** Course Concepts Review | [Course Review Slides](../CourseReviewAgileAndEfficient.pdf), [Checklist Review](../QualityAssessmentChecklist)|
 | October 19e | **Team:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 19f | **Class:** Discuss [PP Homework](../Pragmatic-Discussions)| |
 | October 19g | **Individual:** Exit Quiz | Link sent by Slack chat at end of class |

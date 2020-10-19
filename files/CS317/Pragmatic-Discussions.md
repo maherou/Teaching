@@ -32,7 +32,7 @@ Read the material before coming to class.  We will have an exit quiz at the end 
 | October 15 | Chapter 7, Topics 37 - 40 |
 | October 16 | Chapter 7, Topics 41 - 44 |
 | October 19 | Chapter 8, Topics 45 - 48 |
-| October 20 | Chapter 9, Topics 49 - 53 |
+| October 20 | Chapter 9, Topics 49 - 53, Postface |
 
 
 

@@ -20,7 +20,7 @@ location: "Collegeville, MN, USA"
 
 - [http://dl.acm.org/](http://dl.acm.org/) _Excellent source for peer-reviewed material._
 - [ACM DL from off campus:](https://dl-acm-org.ezproxy.csbsju.edu/search/advanced) _Use this link if you are not on campus, then enter your CSBSJU login information._
-- [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) 
+- [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf)
 
 **Communications of the Association for Computing Machinery:**
 
@@ -47,11 +47,13 @@ location: "Collegeville, MN, USA"
 
 **Medium.com**
 
-_Subscription to daily email provides links to interesting articles.  Here are a couple._
+_Subscription to daily email provides links to interesting articles.  Here are a few._
 
 [How to read a scientific paper.](https://medium.com/elysium-health/how-to-read-a-scientific-paper-695188037080)
 
 [Good description for improving writing.](https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937)
+
+[How to Dramatically Improve Your Speaking Voice, According to a Top Vocal Coach](https://medium.com/better-humans/how-to-dramatically-improve-your-speaking-voice-according-to-a-top-vocal-coach-4ae67cdb160d)
 
 **Other Useful Articles**
 

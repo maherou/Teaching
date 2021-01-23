@@ -12,13 +12,13 @@ location: "Collegeville, MN, USA"
 
 | **Date** | **Assignment and Exercises** | **Notes** |
 | ---------- | --- | --- |
-| January 25a | **Class:** Class Introduction | ./IntroToCompSciResearch.pdf |
+| January 25a | **Class:** Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
 | January 25b | **Class:** Reference librarian (D.Wuolu) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [How to do cited reference searching](https://clarivate.libguides.com/ld.php?content_id=3588819) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 | January 25cd | **Team:** Team Research Topic Area Discussions| [Team member lists](https://docs.google.com/spreadsheets/d/1amn0GjcEhlF4ubQYYXkXMi5Q0edYWrozMJVmDoUSMpM/edit?usp=sharing) |
 | January 25e | **Class:** Team Research Topic Area Status| |
-| January 25f | **Class:** [Course Handbook Intro](./CSCI373CourseHandbookLatestEdition.pdf) <br> [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download and unzip this [IssuesTemplates.zip](./IssuesTemplates.zip) file into top folder of Issues-only Repo|  
+| January 25f | **Class:** [Course Handbook Intro](../CSCI373CourseHandbookLatestEdition.pdf) <br> [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download and unzip this [IssuesTemplates.zip](../IssuesTemplates.zip) file into top folder of Issues-only Repo|  
 | | |
-| Homework | **Individual:** Study [Course Handbook](./CSCI373CourseHandbookLatestEdition.pdf) | Prepare for quiz on Jan 26 |
+| Homework | **Individual:** Study [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) | Prepare for quiz on Jan 26 |
 | Homework | **Team:** [Handbook](./CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Jan 26 using a Google Form  |  
 | Homework | **Team:** Refine description of topic area | Prepare for discusion with DH on Jan 26 [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | |
@@ -35,7 +35,7 @@ location: "Collegeville, MN, USA"
 | | |
 | January 28a-d | **Class:** Hobby Talks| |
 | January 28e | **Team:** Review GitHub Issues-only repo with DH| |
-| January 28f | **Team:** Summary of your team topic and how it addresses the key requirements listed in the [Handbook](/CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |
+| January 28f | **Team:** Summary of your team topic and how it addresses the key requirements listed in the [Handbook](./CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |
 | | |
 | Homework | **Individual:** [Read ATLB: Introduction and Chapter 1](../ATLB-Discussion) | Due Jan 29 |
 | Homework | **Team:** Start prep for Survey Panel and Paper [HB, pg 21](./CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Feb 1, team paper due Feb 2 |  

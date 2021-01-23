@@ -14,8 +14,8 @@ location: "Collegeville, MN, USA"
 | ---------- | --- | --- |
 | January 25a | **Class:** Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
 | January 25b | **Class:** Reference librarian (D.Wuolu) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [How to do cited reference searching](https://clarivate.libguides.com/ld.php?content_id=3588819) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
-| January 25cd | **Team:** Team Research Topic Area Discussions| [Team member lists](https://docs.google.com/spreadsheets/d/1amn0GjcEhlF4ubQYYXkXMi5Q0edYWrozMJVmDoUSMpM/edit?usp=sharing) |
-| January 25e | **Class:** Team Research Topic Area Status| |
+| January 25cd | **Team:** Team Research Topic Area Discussions <br> **Team:** Personal Learning Discussions: How Do You Learn About New Topics?| [Team member lists](https://docs.google.com/spreadsheets/d/1amn0GjcEhlF4ubQYYXkXMi5Q0edYWrozMJVmDoUSMpM/edit?usp=sharing) |
+| January 25e | **Class:** Team Research Topic Area Status, Personal Learning Summary| |
 | January 25f | **Class:** [Course Handbook Intro](../CSCI373CourseHandbookLatestEdition.pdf) <br> [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place *.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 | | |
 | Homework | **Individual:** Study [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) | Prepare for quiz on Jan 26 |

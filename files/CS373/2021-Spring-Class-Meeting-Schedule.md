@@ -40,9 +40,10 @@ location: "Collegeville, MN, USA"
 | Homework | **Individual:** [Read ATLB: Introduction and Chapter 1](../ATLB-Discussion) | Due Jan 29 |
 | Homework | **Team:** Start prep for Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Feb 1, team paper due Feb 2 |  
 | | |
-| January 29a-c | **Class:** [A Better Professional You](./BetterYou.pdf) | |
-| January 29de | **Class:** [ATLB Discussion: Introduction and Chapter 1](../ATLB-Discussion)  |   |
-| January 29f | **Team:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+| January 29ab | **Class:** [A Better Professional You](./BetterYou.pdf) | |
+| January 29cd | **Class:** [ATLB Discussion: Introduction and Chapter 1](../ATLB-Discussion)  |   |
+| January 29e | **Team:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+| January 29e | **Class:** Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Feb 1, team paper due Feb 2 |
 | January 29g | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | |
 | Homework | **Individual:** Create GitHub Pages personal website | Send DH link to website by Feb 15 |

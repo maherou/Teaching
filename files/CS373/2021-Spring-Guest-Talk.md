@@ -6,7 +6,7 @@ tags: [Teaching, Writing, Presenting, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
-### CSCI 373: Guest Talk - Ryan Tillotson, Google
+### CSCI 373: Guest Talk - Ryan Tillotson, Google, SJU'14
 
 **Title: A Perspective on Continued Learning in the Software Industry**
 

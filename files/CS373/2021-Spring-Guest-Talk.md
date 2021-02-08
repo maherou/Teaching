@@ -6,15 +6,14 @@ tags: [Teaching, Writing, Presenting, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
-### CSCI 373: Guest Talk - Ryan Tillotson
+### CSCI 373: Guest Talk - Ryan Tillotson, Google
 
-**Registration:** Registration is required using this [Zoom link](https://csbsju.zoom.us/meeting/register/tJAod-ytpjojHdYI0GElCn0e6sS50aJ1FbM6).
-
-After registering, you will receive a confirmation email containing information about joining the meeting.
+**Title: A Perspective on Continued Learning in the Software Industry**
 
 **Date & Time:** Feb 16, 2021 04:30 PM Central Time (US and Canada)
 
-**Title: A Perspective on Continued Learning in the Software Industry**
+**Registration:** Registration is required using this [Zoom link](https://csbsju.zoom.us/meeting/register/tJAod-ytpjojHdYI0GElCn0e6sS50aJ1FbM6).
+After registering, you will receive a confirmation email containing information about joining the meeting.
 
 **Abstract**
 

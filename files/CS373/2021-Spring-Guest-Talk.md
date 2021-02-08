@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "CS373 - Spring 2021 Guest Talk"
 description: Ryan Tillotson Presentation
 tags: [Teaching, Writing, Presenting, Research] # add tag

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: coursepost
 title: "CS373 - Class Assignment Due Dates"
 description: Assignment Due Dates
 tags: [Teaching, Writing, Presenting, Research] # add tag

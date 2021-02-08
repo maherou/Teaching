@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: coursepost
 title: "CS373 - Class Schedule"
 description: Daily schedule
 tags: [Teaching, Writing, Presenting, Research] # add tag
@@ -66,7 +66,7 @@ location: "Collegeville, MN, USA"
 | February 4a-f| **Individual:** Progress status | 1-on-1 Zoom meeting |
 | Homework | **Individual:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | Submit work via email by Feb 8 |
 || | |
-| February 5a | **Class:** [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) 
+| February 5a | **Class:** [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/)
 | February 5bc | **Class:** [ATLB Discussion: Chapter 4 & 5](../ATLB-Discussion)  | |
 | February 5d-f | **Team:** Complete revised paragraphs from writing exercises| |
 | February 5d-f | **Team:** Review team GitHub Resources database with instructor | |
@@ -74,7 +74,7 @@ location: "Collegeville, MN, USA"
 | Homework | **Individual:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Watch the video before Feb 8 class |
 | | |
  | |
-| February 8a | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) 
+| February 8a | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf)
 | February 8bc | **Class:** [ATLB Discussion: Chapter 6 & 7](../ATLB-Discussion) | |
 | February 8d | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Discuss and complete individual reflections on Crichton talk. Individual write up due Feb 8|
 | February 8ef | **Individual:** Prepare Technical Analysis paper for submission | ([HB, pg 22](./CSCI373CourseHandbookLatestEdition.pdf)) |
@@ -98,7 +98,7 @@ location: "Collegeville, MN, USA"
 | February 12ef | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
 | February 12g | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | February 15 | **Team:** SOTF Presentation Slide Laydown [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
-| February 16 | **Class:** Guest presentation, Ryan Tillotson, Google | [**“A Perspective on Continued Learning in the Software Industry”**](../2021-Spring-Guest-Talk) | 
+| February 16 | **Class:** Guest presentation, Ryan Tillotson, Google | [**“A Perspective on Continued Learning in the Software Industry”**](../2021-Spring-Guest-Talk) |
 || February 18 | **Individual:** Teams 1 & 2 Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations 1 - 4 pm**](../2021-Spring-Final-Presentation-Schedule) |
 | February 18 | **Individual:** Teams 3 & 4 Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations 5 - 7:40 pm**](../2021-Spring-Final-Presentation-Schedule) |
 | Homework | **Individual:** Final SOTF Paper [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Feb 18** |

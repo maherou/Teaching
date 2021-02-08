@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: coursepost
 title: "CS373 - Class Schedule"
 description: Daily schedule
 tags: [Teaching, Writing, Presenting, Research] # add tag
@@ -24,7 +24,7 @@ location: "Collegeville, MN, USA"
 - Summary discussion will occur with the whole class.
   - Designated speaker for each small group will synthesis group points.
   - Other team members can bring up or clarify group ideas.
-  
+
 ### Discussion Points
 
 **Introduction**

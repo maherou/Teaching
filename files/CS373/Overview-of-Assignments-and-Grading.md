@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: coursepost
 title: "CS373 - Assignments Overview"
 description: Assignments Overview
 tags: [Teaching, Writing, Presenting, Research] # add tag

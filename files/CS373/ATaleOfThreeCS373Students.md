@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: coursepost
 title: "CS373 - A Tale of Three CS Students"
 description: A Skit for CS373 Students
 tags: [Teaching, Writing, Presenting, Research] # add tag

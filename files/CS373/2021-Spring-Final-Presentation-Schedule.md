@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: coursepost
 title: "CS373 - Final Presentation Schedule"
 description: Final presentations schedule
 tags: [Teaching, Writing, Presenting, Research] # add tag
@@ -21,12 +21,12 @@ location: "Collegeville, MN, USA"
 | 3:00 pm | | | |
 | 3:20 pm | | | |
 | 3:40 pm | | | |
-	
-	
+
+
 ## Thursday, February 18, 5 - 7:40 pm
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
-| -------- | ----------- | --------- | ------------ |	
+| -------- | ----------- | --------- | ------------ |
 | 5:00 pm | | | |
 | 5:20 pm | | | |
 | 5:40 pm | | | |
@@ -35,4 +35,3 @@ location: "Collegeville, MN, USA"
 | 6:40 pm | | | |
 | 7:00 pm | | | |
 | 7:20 pm | | | |
-

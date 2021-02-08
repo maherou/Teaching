@@ -16,6 +16,11 @@ social-github: maherou # add your Github handle
 social-linkedin: michael-heroux-763590 # add your Linkedin handle
 social-email: maherou@gmail.com # add your Email address
 
+# Course Settings
+course: CS373
+course-img: CS373-Banner.jpg
+about-course: CS373: Computer Science Capstone Course # add description
+
 # Disqus
 discus-identifier: # add your discus identifier
 

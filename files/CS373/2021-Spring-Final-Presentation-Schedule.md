@@ -20,7 +20,6 @@ location: "Collegeville, MN, USA"
 | 2:40 pm | | | |
 | 3:00 pm | | | |
 | 3:20 pm | | | |
-| 3:40 pm | | | |
 
 
 ## Thursday, February 18, 5 - 7:40 pm
@@ -35,3 +34,4 @@ location: "Collegeville, MN, USA"
 | 6:40 pm | | | |
 | 7:00 pm | | | |
 | 7:20 pm | | | |
+| 7:40 pm | Tianyu (Dover) Zou | TBD | TBD |

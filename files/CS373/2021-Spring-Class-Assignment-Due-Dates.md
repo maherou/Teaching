@@ -28,6 +28,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | Feb 8 | **Individual:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) |  |
 | Feb 8 | **Individual:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Watch the video before Feb 8 class |
 | Feb 8 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Discuss and complete individual reflections on Crichton talk. Individual write up due Feb 8|
+| Feb 8 | **Individual:** [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | Feb 9 | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=spring2021tap) account | Before class Feb 9 |
 | Feb 10 | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2021tap) in Submissions section | |
 | Feb 11 | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Send PDF by email |

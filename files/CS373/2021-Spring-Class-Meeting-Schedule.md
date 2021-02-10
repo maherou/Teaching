@@ -66,7 +66,7 @@ location: "Collegeville, MN, USA"
 | February 4a-f| **Individual:** Progress status | 1-on-1 Zoom meeting |
 | Homework | **Individual:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | Submit work via email by Feb 8 |
 || | |
-| February 5a | **Class:** [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/)
+| February 5a | **Class:** [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | Due Feb 8 |
 | February 5bc | **Class:** [ATLB Discussion: Chapter 4 & 5](../ATLB-Discussion)  | |
 | February 5d-f | **Team:** Complete revised paragraphs from writing exercises| |
 | February 5d-f | **Team:** Review team GitHub Resources database with instructor | |

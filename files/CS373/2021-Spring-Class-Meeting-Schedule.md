@@ -55,7 +55,7 @@ location: "Collegeville, MN, USA"
 | | |
 | Homework | **Individual:** [Read ATLB: Chapters 2 & 3](../ATLB-Discussion) | Due Feb 2 |
 | | |
-| February 2a | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Due February 10, send PDF by email |
+| February 2a | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Due February 11, send PDF by email |
 | February 2b | **Class:** [ATLB Discussion: Chapter 2 & 3](../ATLB-Discussion)  | |
 | February 2c-d | **Class:** [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
 | February 2e-f | **Team:** [Overleaf Setup](https://www.overleaf.com) | |
@@ -79,26 +79,27 @@ location: "Collegeville, MN, USA"
 | February 8d | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Discuss and complete individual reflections on Crichton talk. Individual write up due Feb 8|
 | February 8ef | **Individual:** Prepare Technical Analysis paper for submission | ([HB, pg 22](./CSCI373CourseHandbookLatestEdition.pdf)) |
 | | |
-| Homework | **Individual:** [Read ATLB: Chapters 8 & 9](../ATLB-Discussion) | Due Feb 9 |
+| Homework | **Individual:** [Read ATLB: Chapters 8 & 9](../ATLB-Discussion) | Due Feb 12 |
 | Homework | **Individual:** Submit [Title, Abstract, Bio](https://forms.gle/ScuC4Ca7xn1zfhaP6) | Due Feb 15 |
 | Homework | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=spring2021tap) account | Before class Feb 9 |
 | | |
-| February 9ef | **Class:** [ATLB Discussion: Chapter 8 & 9](../ATLB-Discussion) | **Note:** Late class start time at 6:30 pm |
-| Homework | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2021tap) in Submissions section | Due Feb 9 |
+| February 9ef | **Class:** Review changes in assignment due dates | **Note:** Late class start time at 6:30 pm |
 | | |
-| Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=spring2021tap) Reviews section | Due Feb 10 |
+| Homework | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2021tap) in Submissions section | Due Feb 10 |
 | | |
 | February 11a-f | **Individual:** Progress status, review of paper checklist | 1-on-1 Zoom meeting |
-| Homework | **Individual:** Tech Analysis paper final draft after team review. ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Feb 11 |
+| Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=spring2021tap) Reviews section | Due Feb 11 |
 | | |
-| Homework | **Individual:** [Read ATLB: Chapters 10, 5 & Conclusion](../ATLB-Discussion) | Due Feb 12 |
-| | |
-| February 12ab | **Class:** [ATLB Discussion: Chapter 10, 5 & Conclusion](../ATLB-Discussion) | |
+| Homework | **Individual:** Tech Analysis paper final version after team review. ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Feb 13 |
+| February 12ab | **Class:** [ATLB Discussion: Chapter 8 & 9](../ATLB-Discussion) |  |
 | February 12cd | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | February 12ef | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
 | February 12g | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+| Homework | **Individual:** [Read ATLB: Chapters 10 & Conclusion](../ATLB-Discussion) | Due Feb 16 |
+| | |
 | February 15 | **Team:** SOTF Presentation Slide Laydown [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
-| February 16 | **Class:** Guest presentation, Ryan Tillotson, Google | [**“A Perspective on Continued Learning in the Software Industry”**](../2021-Spring-Guest-Talk) |
+| February 16a-d | **Class:** Guest presentation, Ryan Tillotson, Google | [**“A Perspective on Continued Learning in the Software Industry”**](../2021-Spring-Guest-Talk) |
+| February 16ef | **Class:** [ATLB Discussion: Chapter 10 & Conclusion](../ATLB-Discussion) | |
 || February 18 | **Individual:** Teams 1 & 2 Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations 1 - 4 pm**](../2021-Spring-Final-Presentation-Schedule) |
 | February 18 | **Individual:** Teams 3 & 4 Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations 5 - 7:40 pm**](../2021-Spring-Final-Presentation-Schedule) |
 | Homework | **Individual:** Final SOTF Paper [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Feb 18** |

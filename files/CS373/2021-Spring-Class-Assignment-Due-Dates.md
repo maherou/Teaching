@@ -28,15 +28,15 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | Feb 8 | **Individual:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) |  |
 | Feb 8 | **Individual:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Watch the video before Feb 8 class |
 | Feb 8 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Discuss and complete individual reflections on Crichton talk. Individual write up due Feb 8|
-| Feb 9 | **Individual:** [Read ATLB: Chapters 8 & 9](../ATLB-Discussion) | |
 | Feb 9 | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=spring2021tap) account | Before class Feb 9 |
-| Feb 9 | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2021tap) in Submissions section | |
-| Feb 10 | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Send PDF by email |
-| Feb 10 | **Team:** Complete Tech Analysis Paper team reviews ([HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=spring2021tap) Reviews section | |
-| Feb 11 | **Individual:** Tech Analysis paper final draft after team review. ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)) | |
-| Feb 12 | **Individual:** [Read ATLB: Chapters 10, 5 & Conclusion](../ATLB-Discussion) |  |
+| Feb 10 | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2021tap) in Submissions section | |
+| Feb 11 | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Send PDF by email |
+| Feb 11 | **Team:** Complete Tech Analysis Paper team reviews ([HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=spring2021tap) Reviews section | |
+| Feb 12 | **Individual:** [Read ATLB: Chapters 8 & 9](../ATLB-Discussion) | Before class |
+| Feb 13 | **Individual:** Tech Analysis paper final version after team review. ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)) | |
 | Feb 15 | **Individual:** Submit [Title, Abstract, Bio](https://forms.gle/ScuC4Ca7xn1zfhaP6) | |
 | Feb 15 | **Individual:** Create GitHub Pages personal website | Send DH link to website by Feb 15 - optional |
+| Feb 16 | **Individual:** [Read ATLB: Chapters 10 & Conclusion](../ATLB-Discussion) | Before class |
 | Feb 18 | **Individual:** Teams 1 & 2 Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations 1 - 4 pm**](../2021-Spring-Final-Presentation-Schedule) |
 | Feb 18 | **Individual:** Teams 3 & 4 Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations 5 - 7:40 pm**](../2021-Spring-Final-Presentation-Schedule) |
 | Feb 18 | **Individual:** Final SOTF Paper [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Feb 18** |

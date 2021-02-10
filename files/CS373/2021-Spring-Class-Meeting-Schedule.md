@@ -100,6 +100,6 @@ location: "Collegeville, MN, USA"
 | February 15 | **Team:** SOTF Presentation Slide Laydown [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
 | February 16a-d | **Class:** Guest presentation, Ryan Tillotson, Google | [**“A Perspective on Continued Learning in the Software Industry”**](../2021-Spring-Guest-Talk) |
 | February 16ef | **Class:** [ATLB Discussion: Chapter 10 & Conclusion](../ATLB-Discussion) | |
-|| February 18 | **Individual:** Teams 1 & 2 Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations 1 - 4 pm**](../2021-Spring-Final-Presentation-Schedule) |
-| February 18 | **Individual:** Teams 3 & 4 Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations 5 - 7:40 pm**](../2021-Spring-Final-Presentation-Schedule) |
+| February 18 | **Individual:** Teams 1 & 2 Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations 1 - 3:40 pm**](../2021-Spring-Final-Presentation-Schedule) |
+| February 18 | **Individual:** Teams 3 & 4 Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations 5 - 8 pm**](../2021-Spring-Final-Presentation-Schedule) |
 | Homework | **Individual:** Final SOTF Paper [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Feb 18** |

@@ -8,7 +8,7 @@ location: "Collegeville, MN, USA"
 
 ## CSCI 373: Spring 2021 Final Presentation Schedule
 
-## Thursday, February 18, 1 - 4 pm
+## Thursday, February 18, 12 noon - 2:40 pm
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |
@@ -22,7 +22,7 @@ location: "Collegeville, MN, USA"
 | 2:20 pm | Gavin Wollenberg | | |
 
 
-## Thursday, February 18, 5 - 7:40 pm
+## Thursday, February 18, 5 - 8 pm
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |

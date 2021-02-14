@@ -8,6 +8,10 @@ location: "Collegeville, MN, USA"
 
 ## CSCI 373: Spring 2021 Final Presentation Schedule
 
+Zoom link: https://csbsju.zoom.us/j/97219444066?pwd=ZlpNbnYxRnNqa2pPdkFVSmxURkptdz09
+
+(Detailed connection information below)
+
 ## Thursday, February 18, 12 noon - 2:40 pm
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
@@ -35,3 +39,25 @@ location: "Collegeville, MN, USA"
 | 7:00 pm | Andrew Heroux | | |
 | 7:20 pm | Vincent Kahlhamer | | |
 | 7:40 pm | Tianyu (Dover) Zou |  |  |
+
+### Detailed Connection Information: 
+
+https://csbsju.zoom.us/j/97219444066?pwd=ZlpNbnYxRnNqa2pPdkFVSmxURkptdz09
+
+Meeting ID: 972 1944 4066
+Passcode: 870258
+One tap mobile
++19294362866,,97219444066# US (New York)
++13017158592,,97219444066# US (Washington DC)
+
+Dial by your location
+        +1 929 436 2866 US (New York)
+        +1 301 715 8592 US (Washington DC)
+        +1 312 626 6799 US (Chicago)
+        +1 669 900 6833 US (San Jose)
+        +1 253 215 8782 US (Tacoma)
+        +1 346 248 7799 US (Houston)
+Meeting ID: 972 1944 4066
+Find your local number: https://csbsju.zoom.us/u/abcfj7Q9dC
+
+

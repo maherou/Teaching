@@ -97,7 +97,7 @@ location: "Collegeville, MN, USA"
 | February 12g | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | Homework | **Individual:** [Read ATLB: Chapters 10 & Conclusion](../ATLB-Discussion) | Due Feb 16 |
 | | |
-| February 15 | **Team:** SOTF Presentation Slide Laydown [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
+| February 15 | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
 | February 16a-d | **Class:** Guest presentation, Ryan Tillotson, Google | [**“A Perspective on Continued Learning in the Software Industry”**](../2021-Spring-Guest-Talk) |
 | February 16ef | **Class:** [ATLB Discussion: Chapter 10 & Conclusion](../ATLB-Discussion) | |
 | February 18 | **Individual:** Teams 1 & 2 Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations 1 - 3:40 pm**](../2021-Spring-Final-Presentation-Schedule) |

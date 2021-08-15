@@ -39,6 +39,7 @@ location: "Collegeville, MN, USA"
 | Homework | **Individual:** [Read AWWE: Introduction](../AWWE-Discussion) | Due Sep 13 |
 | | | |
 | Sep 6 | **No class**| |
+| | | |
 | Sep 10 | **Class:** Hobby Talks| |
 | | **Team:** Review GitHub Issues-only repo with DH| |
 | | **Team:** Summary of your team topic and how it addresses the key requirements listed in the [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |
@@ -74,11 +75,10 @@ location: "Collegeville, MN, USA"
 |  | **Class:** [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
 |  | **Team:** [Overleaf Setup](https://www.overleaf.com) | |
 | | | |
-| Oct 11 | **Class:** [AWWE Discussion: Chapter 3](../AWWE-Discussion)  | |
-| | **Individual:** Progress status | 1-on-1  meeting | |
+|Oct 11  | **Individual:** Progress status | 1-on-1  meeting | |
 | | | |
 | Oct 15 | **Class:** [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | Due Oct 22 |
-| | **Class:** [AWWE Discussion: Chapter 4 ](../AWWE-Discussion)  | |
+| | **Class:** [AWWE Discussion: Chapter 3 ](../AWWE-Discussion)  | |
 | | **Team:** Review team GitHub Resources database with instructor | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
@@ -88,11 +88,12 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 22 | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) |
 | | **Team:** Complete revised paragraphs from writing exercises| |
-| | **Class:** [AWWE Discussion: Chapter 5](../AWWE-Discussion) | |
+| | **Class:** [AWWE Discussion: Chapter 4](../AWWE-Discussion) | |
 | | | |
 | Oct 25 | **No class** | |
 | | | |
-| Oct 29 | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Due Oct 8, send PDF by email |
+| Oct 29 | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Due Nov 5, send PDF by email |
+| | **Class:** [AWWE Discussion: Chapter 5](../AWWE-Discussion)  | |
 | | **Individual:** Prepare Technical Analysis paper for submission | ([HB, pg 22](./CSCI373CourseHandbookLatestEdition.pdf)) |
 | | | |
 | Homework | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) account | Before class Nov 5 |
@@ -104,7 +105,8 @@ location: "Collegeville, MN, USA"
 | Nov 5 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Discuss and complete individual reflections on Crichton talk. Individual write up due Nov 12|
 | | | |
 | Nov 8 | **Class:** Intro to Reviewing | | 
-| | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+| | **Class:** [AWWE Discussion: Chapter 6](../AWWE-Discussion)  | |
+|| | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
 | Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Nov 15 |
 | Homework | **Individual:** Tech Analysis paper final version after team review. ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Nov 19 |

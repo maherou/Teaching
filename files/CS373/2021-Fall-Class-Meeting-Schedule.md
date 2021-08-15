@@ -52,15 +52,19 @@ location: "Collegeville, MN, USA"
 | Homework | **Individual:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | Submit work via email by Sep 20 |
 | Homework | **Team:** Complete prep for Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 24, team paper due Sep 27 |  
 | | |
+| Sep 17 | **No class** | |
+| | |
 | Sep 20 | **Class:** [A Better Professional You](./BetterYou.pdf) | |
 | | **Class:** [AWWE Discussion: Chapter 1](../AWWE-Discussion)  |   |
 | | |
 | Homework | **Individual:** Set up LinkedIn account | Send invite to DH by Oct 1 |
 | Homework | **Individual:** Create GitHub Pages personal website | Send DH link to website by Nov 15 |
 | | |
-| Sep 24 | **Class:** Survey Panel Presentation ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
+| Sep 24 | **No class** | |
 | | |
-| Homework | **Due:** Team Survey paper ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)) | Send PDF by email by Sep 27|
+| Sep 27 | **Class:** Survey Panel Presentation ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
+| | |
+| Homework | **Due:** Team Survey paper ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)) | Send PDF by email by Oct 1|
 | | |
 | Oct 1 | **No class** | |
 | | |

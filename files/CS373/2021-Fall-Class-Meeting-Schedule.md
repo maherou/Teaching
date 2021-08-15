@@ -84,9 +84,13 @@ location: "Collegeville, MN, USA"
 | | |
 | Homework | **Individual:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Watch the video before Oct 22 class |
 | | |
+| Oct 18 | **No class** | |
+| | |
 | Oct 22 | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) |
 | | **Team:** Complete revised paragraphs from writing exercises| |
 | | **Class:** [AWWE Discussion: Chapter 5](../AWWE-Discussion) | |
+| | |
+| Oct 25 | **No class** | |
 | | |
 | Oct 29 | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Due Oct 8, send PDF by email |
 | | **Individual:** Prepare Technical Analysis paper for submission | ([HB, pg 22](./CSCI373CourseHandbookLatestEdition.pdf)) |
@@ -94,6 +98,8 @@ location: "Collegeville, MN, USA"
 | Homework | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) account | Before class Nov 5 |
 | | |
 | Homework | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) in Submissions section | Due Nov 12 |
+| | |
+| Nov 1 | **No class** | |
 | | |
 | Nov 5 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Discuss and complete individual reflections on Crichton talk. Individual write up due Nov 12|
 | | |
@@ -103,7 +109,15 @@ location: "Collegeville, MN, USA"
 | Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Nov 15 |
 | Homework | **Individual:** Tech Analysis paper final version after team review. ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Nov 19 |
 | | |
+| Nov 15 | **No class** | |
+| | |
+| Nov 19 | **No class** | |
+| | |
 | Nov 22 | **Individual:** Progress status, review of paper checklist | 1-on-1 meeting |
+| | |
+| Nov 29 | **No class** | |
+| | |
+| Dec 3 | **Individual:** Progress status, review of paper checklist | 1-on-1 meeting |
 | | |
 | Dec 6 | **Class:** [AWWE Discussion: Chapter 7](../AWWE-Discussion) |  |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |

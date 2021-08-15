@@ -15,9 +15,10 @@ location: "Collegeville, MN, USA"
 | Prelim | **Individual:** [Topic preference survey](https://forms.gle/XY282yykZXa8Dzx7A) | Complete before first class session |
 | | |
 | August 30| **Class:** Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
-| | **Class:** [Course Handbook Intro](../CSCI373CourseHandbookLatestEdition.pdf) <br> [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place *.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
+| | **Class:** [Course Handbook Intro](../CSCI373CourseHandbookLatestEdition.pdf) | |
+| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place *.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 || **Team:** Team Research Topic Area Discussions | | 
-|| **Class:** Reference librarian (D.Wuolu) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [How to do cited reference searching](https://clarivate.libguides.com/ld.php?content_id=3588819) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
+|| **Class:** Reference librarian (D.Wuolu) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> <br> [How to do cited reference searching](https://clarivate.libguides.com/ld.php?content_id=3588819) <br> <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 | | |
 | Homework | **Individual:** Study [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) | Prepare for quiz on Sep 3 |
 | Homework | **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 3 using a Google Form  |  
@@ -79,7 +80,7 @@ location: "Collegeville, MN, USA"
 | | |
 | Homework | **Individual:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Watch the video before Oct 22 class |
 | | |
-| Oct 22 | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf)
+| Oct 22 | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) |
 | | **Team:** Complete revised paragraphs from writing exercises| |
 | | **Class:** [AWWE Discussion: Chapter 5](../AWWE-Discussion) | |
 | | |

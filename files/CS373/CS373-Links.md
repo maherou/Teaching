@@ -1,7 +1,7 @@
 ---
 layout: coursepost
-title: "CS373 - Class Schedule"
-description: Daily schedule
+title: "CS373 - Useful Links"
+description: Useful Research Links
 tags: [Teaching, Writing, Presenting, Research] # add tag
 location: "Collegeville, MN, USA"
 ---

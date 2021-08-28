@@ -91,13 +91,13 @@ location: "Collegeville, MN, USA"
 | | **Team:** Complete revised paragraphs from writing exercises| |
 | | **Class:** [AWWE Discussion: Chapter 4](../AWWE-Discussion) | |
 | | | |
-| Oct 25 | **No class** | |
-| | | |
-| Oct 29 | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Due Nov 5, send PDF by email |
+| Oct 25 | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Due Nov 5, send PDF by email |
 | | **Class:** [AWWE Discussion: Chapter 5](../AWWE-Discussion)  | |
 | | **Individual:** Prepare Technical Analysis paper for submission | ([HB, pg 22](./CSCI373CourseHandbookLatestEdition.pdf)) |
 | | | |
 | Homework | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) account | Before class Nov 5 |
+| | | |
+| Oct 29 | **No class** | |
 | | | |
 | Homework | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) in Submissions section | Due Nov 12 |
 | | | |

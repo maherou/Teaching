@@ -76,7 +76,7 @@ location: "Collegeville, MN, USA"
 |  | **Class:** [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
 |  | **Team:** [Overleaf Setup](https://www.overleaf.com) | |
 | | | |
-|Oct 11  | **Individual:** Progress status | 1-on-1  meeting | |
+|Oct 11  | **Individual:** Progress status | 1-on-1  meeting |
 | | | |
 | Oct 15 | **Class:** [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | Due Oct 22 |
 | | **Class:** [AWWE Discussion: Chapter 3 ](../AWWE-Discussion)  | |
@@ -87,7 +87,7 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 18 | **No class** | |
 | | | |
-| Oct 22 | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) |
+| Oct 22 | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
 | | **Team:** Complete revised paragraphs from writing exercises| |
 | | **Class:** [AWWE Discussion: Chapter 4](../AWWE-Discussion) | |
 | | | |

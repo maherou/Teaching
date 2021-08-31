@@ -22,30 +22,30 @@ location: "Collegeville, MN, USA"
 || **Class:** Reference librarian (D.Wuolu) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> <br> [How to do cited reference searching](https://clarivate.libguides.com/webofscienceplatform/woscc) <br> <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 | | | |
 | Homework | **Individual:** Study [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) | Prepare for quiz on Sep 3 |
-| Homework | **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 3 using a Google Form  |  
-| Homework | **Team:** Refine description of topic area | Prepare for discusion with DH on Sep 3 [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
+| Homework | **Individual:** Find resources in topic area, enter as GitHub issues | Ongoing activity throughout the course. [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/) |
 | | | |
-| Sep 3| **Team:** Personal Learning Discussions: How Do You Learn About New Topics?| [Team member lists]() |
-| | **Class:** Team Research Topic Area Status, Personal Learning Summary| |
-| | **Team:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
-| | **Class:**  _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students.pdf) |
+| Sep 3| **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 3 using a Google Form  |  
 | | **Team:** Quiz challenge| Each team takes the quizzes created by other teams |
+| | **Class:** Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
 | | **Class:** [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
 | | **Class:** Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | **Team:** Set up GitHub Issues-only repo| |
+| | **Team:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
+| | **Team:** Refine description of topic area |  [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | | |
-| Homework | **Individual:** Find resources in topic area, enter as GitHub issues | Ongoing activity throughout the course. [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/) |
 | Homework | **Team:** Review and discussion resources using GitHub issues | Ongoing activity throughout the course.  Mimic structure and design of [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |  
 | Homework | **Individual:** Prepare hobby talk | Give talk on Sep 10 |
 | Homework | **Individual:** [Read AWWE: Introduction](../AWWE-Discussion) | Due Sep 13 |
 | | | |
 | Sep 6 | **No class**| |
 | | | |
+| | | |
 | Sep 10 | **Class:** Hobby Talks| |
 | | **Team:** Review GitHub Issues-only repo with DH| |
 | | **Team:** Summary of your team topic and how it addresses the key requirements listed in the [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |
 | | | |
-| Sep 13 | **Class:** [AWWE Discussion: Introduction](../AWWE-Discussion)  |   |
+| Sep 13 | **Class:**  _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students.pdf) |
+| | **Class:** [AWWE Discussion: Introduction](../AWWE-Discussion)  |   |
 | | **Class:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
 | | **Class:** Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 24, team paper due Sep 27 |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |

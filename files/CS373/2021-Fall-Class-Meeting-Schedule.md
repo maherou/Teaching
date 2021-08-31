@@ -16,7 +16,6 @@ location: "Collegeville, MN, USA"
 | | | |
 | August 30| **Class:** Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
 | | **Class:** [Course Handbook Intro](../CSCI373CourseHandbookLatestEdition.pdf) | |
-| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place *.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 | | [Slack Signup](https://join.slack.com/t/collegevillef21cs373/shared_invite/zt-v0mdqnmq-2OYvhksDIJpQ_zvhhWYEQA) | Sign up for class Slack workspace |
 || **Team:** Team Research Topic Area Discussions | | 
 || **Class:** Reference librarian (D.Wuolu) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> <br> [How to do cited reference searching](https://clarivate.libguides.com/webofscienceplatform/woscc) <br> <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
@@ -29,11 +28,12 @@ location: "Collegeville, MN, USA"
 | | **Class:** Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
 | | **Class:** [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
 | | **Class:** Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
-| | **Team:** Set up GitHub Issues-only repo| |
+| | **Team:** Set up GitHub Issues-only repos| |
+| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place *.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 | | **Team:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | **Team:** Refine description of topic area |  [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | | |
-| Homework | **Team:** Review and discussion resources using GitHub issues | Ongoing activity throughout the course.  Mimic structure and design of [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |  
+| Homework | **Team:** Review and discuss resources using GitHub issues | Ongoing activity throughout the course.  Mimic structure and design of [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |  
 | Homework | **Individual:** Prepare hobby talk | Give talk on Sep 10 |
 | Homework | **Individual:** [Read AWWE: Introduction](../AWWE-Discussion) | Due Sep 13 |
 | | | |

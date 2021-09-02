@@ -21,7 +21,7 @@ location: "Collegeville, MN, USA"
 || **Class:** Reference librarian (D.Wuolu) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> <br> [How to do cited reference searching](https://clarivate.libguides.com/webofscienceplatform/woscc) <br> <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 | | | |
 | Homework | **Individual:** Study [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) | Prepare for quiz on Sep 3 |
-| Homework | **Individual:** Find resources in topic area, enter as GitHub issues | Ongoing activity throughout the course. [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/) |
+| Homework | **Individual:** Find resources in topic area | Ongoing activity throughout the course. [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/) |
 | | | |
 | Sep 3| **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 3 using a Google Form  |  
 | | **Team:** Quiz challenge| Each team takes the quizzes created by other teams |

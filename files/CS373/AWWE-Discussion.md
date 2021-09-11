@@ -14,7 +14,7 @@ location: "Collegeville, MN, USA"
 ### Discussion Guidelines
 - Read the material before coming to class.  You won't be quizzed on it, but do it because it is the right thing to do.
 - Discussions will first occur in small groups:
-  - Create a shared Google Doc from [this template](https://drive.google.com/drive/folders/1mmfEqnnmCRKlg-H0gPGZqQqSLP-_ovLP?usp=sharing).
+  - Create a shared Google Doc using the template from from [this folder](https://drive.google.com/drive/folders/1mmfEqnnmCRKlg-H0gPGZqQqSLP-_ovLP?usp=sharing).
   - As discussion occurs, respect and try to understand all comments made.
   - During the discussion, take notes about key ideas that emerge.  
   - For each key idea, try to identify an example that illustrates the idea.

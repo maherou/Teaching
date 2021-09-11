@@ -41,20 +41,20 @@ location: "Collegeville, MN, USA"
 | | | |
 | | | |
 | Sep 10 | **Class:** Hobby Talks| |
-| | **Team:** Review GitHub Issues-only repo with DH| |
-| | **Team:** Summary of your team topic and how it addresses the key requirements listed in the [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |
 | | | |
 | Sep 13 | **Class:**  _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students.pdf) |
 | | **Class:** [AWWE Discussion: Introduction](../AWWE-Discussion)  |   |
 | | **Class:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
-| | **Class:** Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 24, team paper due Sep 27 |
+| | **Class:** Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 27, team paper due Oct 1 |
+| | **Team:** Review GitHub Issues-only repo with DH| |
+| | **Team:** Summary of your team topic and how it addresses the key requirements listed in the [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Homework | **Team:** Start prep for Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 24, team paper due Sep 27 |  
+| Homework | **Team:** Start prep for Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 27, team paper due Oct 1 |  
 | Homework | **Individual:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | Submit work via email by Sep 20 |
-| Homework | **Team:** Complete prep for Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 24, team paper due Sep 27 |  
+| Homework | **Team:** Complete prep for Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 27, team paper due Oct 1 |  
 | | | |
-| Sep 17 | **No class** | |
+| Sep 17 | **Individual:** Progress status 1-on-1  meeting | [Sign up](https://doodle.com/poll/hsahusg36fqp6cxb?utm_source=poll&utm_medium=link)
 | | | |
 | Sep 20 | **Class:** [A Better Professional You](./BetterYou.pdf) | |
 | | **Class:** [AWWE Discussion: Chapter 1](../AWWE-Discussion)  |   |

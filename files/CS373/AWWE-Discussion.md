@@ -1,12 +1,12 @@
 ---
 layout: coursepost
-title: "CS373 - Class Schedule"
-description: Daily schedule
+title: "CS373 - A World Without Email"
+description: AWWE Book Discussion
 tags: [Teaching, Writing, Presenting, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
-## Discussion Points for Algorithms to Live By: The Computer Science of Human Decisions
+## Discussion Points for A World Without Email: Reimagining Work in an Age of Communication Overload
 
 ### Book
 [A World Without Email: Reimagining Work in an Age of Communication Overload](https://www.calnewport.com/books/a-world-without-email/) by [Cal Newport](https://www.calnewport.com).

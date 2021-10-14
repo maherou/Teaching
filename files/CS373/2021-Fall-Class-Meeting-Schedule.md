@@ -82,14 +82,11 @@ location: "Collegeville, MN, USA"
 | | **Class:** [AWWE Discussion: Chapter 3 ](../AWWE-Discussion)  | |
 | | **Team:** Review team GitHub Resources database with instructor | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
-| | | |
-| Homework | **Individual:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Watch the video before Oct 22 class |
-| | | |
-| Oct 18 | **No class** | |
-| | | |
-| Oct 22 | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
+| Oct 18 | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
 | | **Team:** Complete revised paragraphs from writing exercises| |
 | | **Class:** [AWWE Discussion: Chapter 4](../AWWE-Discussion) | |
+| | | |
+| Oct 22 | **No class** | |
 | | | |
 | Oct 25 | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Due Nov 5, send PDF by email |
 | | **Class:** [AWWE Discussion: Chapter 5](../AWWE-Discussion)  | |
@@ -102,6 +99,9 @@ location: "Collegeville, MN, USA"
 | Homework | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) in Submissions section | Due Nov 12 |
 | | | |
 | Nov 1 | **No class** | |
+| | | |
+| | | |
+| Homework | **Individual:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Watch the video before Oct 22 class |
 | | | |
 | Nov 5 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Discuss and complete individual reflections on Crichton talk. Individual write up due Nov 12|
 | | | |

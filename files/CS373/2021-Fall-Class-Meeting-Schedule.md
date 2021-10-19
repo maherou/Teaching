@@ -83,12 +83,13 @@ location: "Collegeville, MN, USA"
 | | **Team:** Review team GitHub Resources database with instructor | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | Oct 18 | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
-| | **Team:** Complete revised paragraphs from writing exercises| |
 | | **Class:** [AWWE Discussion: Chapter 4](../AWWE-Discussion) | |
+| | | |
+| Homework | **Individual:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | Submit work via email before class on Oct 25 |
 | | | |
 | Oct 22 | **No class** | |
 | | | |
-| Oct 25 | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Due Nov 5, send PDF by email |
+| Oct 25 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br> **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Position paper due Nov 5, send PDF by email |
 | | **Class:** [AWWE Discussion: Chapter 5](../AWWE-Discussion)  | |
 | | **Individual:** Prepare Technical Analysis paper for submission | ([HB, pg 22](./CSCI373CourseHandbookLatestEdition.pdf)) |
 | | | |
@@ -101,7 +102,7 @@ location: "Collegeville, MN, USA"
 | Nov 1 | **No class** | |
 | | | |
 | | | |
-| Homework | **Individual:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Watch the video before Oct 22 class |
+| Homework | **Individual:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Watch the video before Nov 5 class |
 | | | |
 | Nov 5 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Discuss and complete individual reflections on Crichton talk. Individual write up due Nov 12|
 | | | |
@@ -111,6 +112,9 @@ location: "Collegeville, MN, USA"
 | | | |
 | Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Nov 15 |
 | Homework | **Individual:** Tech Analysis paper final version after team review. ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Nov 19 |
+| | | |
+| Nov 12 | **Class:** Viewing of recorded Technical Analysis Presentations| Two 8-talk sesssion.  Attend your session only |
+| | | |
 | | | |
 | Nov 15 | **No class** | |
 | | | |

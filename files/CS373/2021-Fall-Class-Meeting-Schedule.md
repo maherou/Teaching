@@ -50,9 +50,9 @@ location: "Collegeville, MN, USA"
 | | **Team:** Summary of your team topic and how it addresses the key requirements listed in the [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Homework | **Team:** Start prep for Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 27, team paper due Oct 1 |  
+| Homework | **Team:** Start prep for Survey Panel and Paper [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 27, team paper due Oct 1 |  
 | Homework | **Individual:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | Submit work via email by Sep 20 |
-| Homework | **Team:** Complete prep for Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 27, team paper due Oct 1 |  
+| Homework | **Team:** Complete prep for Survey Panel and Paper [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 27, team paper due Oct 1 |  
 | | | |
 | Sep 17 | **Individual:** Progress status 1-on-1  meeting | [Sign up](https://doodle.com/poll/hsahusg36fqp6cxb?utm_source=poll&utm_medium=link)
 | | | |
@@ -64,9 +64,9 @@ location: "Collegeville, MN, USA"
 | | | |
 | Sep 24 | **No class** | |
 | | | |
-| Sep 27 | **Class:** Survey Panel Presentation ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
+| Sep 27 | **Class:** Survey Panel Presentation ( [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf)). | |
 | | | |
-| Homework | **Due:** Team Survey paper ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)) | Send PDF by email by Oct 1|
+| Homework | **Due:** Team Survey paper ( [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf)) | Send PDF by email by Oct 1|
 | | | |
 | Oct 1 | **No class** | |
 | | | |
@@ -91,32 +91,30 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 25 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br> **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Position paper due Nov 5, send PDF by email |
 | | **Class:** [AWWE Discussion: Chapter 5](../AWWE-Discussion)  | |
-| | **Individual:** Prepare Technical Analysis paper for submission | ([HB, pg 22](./CSCI373CourseHandbookLatestEdition.pdf)) |
+| | **Individual:** Prepare Technical Analysis paper for submission | ([HB, pg 21](./CSCI373CourseHandbookLatestEdition.pdf)) |
 | | | |
 | Homework | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) account | Before class Nov 5 |
+| Homework | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) in Submissions section | Due Nov 5 |
 | | | |
 | Oct 29 | **No class** | |
 | | | |
-| Homework | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) in Submissions section | Due Nov 12 |
-| | | |
 | Nov 1 | **No class** | |
-| | | |
 | | | |
 | Homework | **Individual:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Watch the video before Nov 5 class |
 | | | |
-| Nov 5 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Discuss and complete individual reflections on Crichton talk. Individual write up due Nov 12|
-| | | |
-| Nov 8 | **Class:** Intro to Reviewing | | 
+| Nov 5 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Discuss and complete individual reflections on Crichton talk. Individual write up due Nov 8|
+| | **Class:** Intro to Reviewing | | 
 | | **Class:** [AWWE Discussion: Chapter 6](../AWWE-Discussion)  | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Nov 15 |
-| Homework | **Individual:** Tech Analysis paper final version after team review. ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Nov 19 |
+| Homework | **Individual:** Tech Analysis Paper recorded presentation ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | Due Nov 12 |
+| | | |
+| Nov 8 | **No class** | |
 | | | |
 | Nov 12 | **Class:** Viewing of recorded Technical Analysis Presentations| Two 8-talk sesssion.  Attend your session only |
 | | | |
-| | | |
-| Nov 15 | **No class** | |
+| Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Nov 15 |
+| Homework | **Individual:** Tech Analysis paper final version after team review. ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Nov 19 |
 | | | |
 | Nov 19 | **No class** | |
 | | | |
@@ -126,18 +124,19 @@ location: "Collegeville, MN, USA"
 | | | |
 | Dec 3 | **Class:** [AWWE Discussion: Chapter 7](../AWWE-Discussion) |  |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
-| | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
+| | **Team:** [Review of presentation & paper checklists: HB, pg 24, 25](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
+| | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Homework | **Individual:** Submit [Title, Abstract, Bio](https://forms.gle/ScuC4Ca7xn1zfhaP6) | Due Dec 6 |
+| Homework | **Individual:** Submit [Title, Abstract, Bio](https://forms.gle/ScuC4Ca7xn1zfhaP6) | Due Dec 13 |
 | | | |
-| Dec 6 | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
+| Dec 6 | **No class** | |
 | | | |
-| Dec 10 | **Class:** Guest presentation, Ryan Tillotson, Google | [**“A Perspective on Continued Learning in the Software Industry”**](../2021-Fall-Guest-Talk) |
+| Dec 10 | **Class:** Guest presentation, Ryan Tillotson, Google, TBD | [**“A Perspective on Continued Learning in the Software Industry”**](../2021-Fall-Guest-Talk) |
 | | | |
-| Dec 13 | **Class:** [AWWE Discussion: Conclusion](../AWWE-Discussion) | |
+| Dec 13 | **Class:** [AWWE Discussion: Conclusion](../AWWE-Discussion) | Special 4 pm start time |
 | | | |
-| Dec 16 - 18 | **Individual:** Teams 1 & 2 Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations 1 - 3:40 pm**](../2021-Fall-Final-Presentation-Schedule) |
-| Dec 16 - 18 | **Individual:** Teams 3 & 4 Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations 5 - 8 pm**](../2021-Fall-Final-Presentation-Schedule) |
+| Dec 17 | **Individual:** Teams 1 & 2 Final SOTF Talk [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations, Part I**](../2021-Fall-Final-Presentation-Schedule) |
+| Dec 17 | **Individual:** Teams 3 & 4 Final SOTF Talk [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations, Part II**](../2021-Fall-Final-Presentation-Schedule) |
 | | | |
-| Dec 18 | **Individual:** Final SOTF Paper [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Dec 18** |
+| Dec 18 | **Individual:** Final SOTF Paper [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Dec 18** |

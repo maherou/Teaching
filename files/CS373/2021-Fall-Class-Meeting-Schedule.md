@@ -94,7 +94,7 @@ location: "Collegeville, MN, USA"
 | | **Individual:** Prepare Technical Analysis paper for submission | ([HB, pg 21](./CSCI373CourseHandbookLatestEdition.pdf)) |
 | | | |
 | Homework | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) account | Before class Nov 5 |
-| Homework | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) in Submissions section | Due Nov 5 |
+| Homework | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) in Submissions section | Due Nov 8 |
 | | | |
 | Oct 29 | **No class** | |
 | | | |

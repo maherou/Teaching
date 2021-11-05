@@ -102,14 +102,14 @@ location: "Collegeville, MN, USA"
 | | | |
 | Homework | **Individual:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Watch the video before Nov 5 class |
 | | | |
-| Nov 5 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Discuss and complete individual reflections on Crichton talk. Individual write up due Nov 8 <br> **Due:** Tech Analysis Paper complete draft ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) in Submissions section |
+| Nov 5 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Discuss and complete individual reflections on Crichton talk. Individual write up due Nov 8  |
 | | **Class:** Intro to Reviewing | | 
 | | **Class:** [AWWE Discussion: Chapter 6](../AWWE-Discussion)  | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
 | Homework | **Individual:** Tech Analysis Paper recorded presentation ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | Due Nov 12 |
 | | | |
-| Nov 8 | **No class** | |
+| Nov 8 | **No class** | **Due:** Tech Analysis Paper complete draft ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) in Submissions section|
 | | | |
 | Nov 12 | **Class:** Viewing of recorded Technical Analysis Presentations| Two 8-talk sesssion.  Attend your session only |
 | | | |

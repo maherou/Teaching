@@ -111,9 +111,12 @@ location: "Collegeville, MN, USA"
 | | | |
 | Nov 8 | **No class** | **Due:** Tech Analysis Paper complete draft ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) in Submissions section|
 | | | |
-| Nov 12 | **Class:** Viewing of recorded Technical Analysis Presentations| Two 8-talk sesssion.  Attend your session only |
-| | | |
 | Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Nov 15 |
+| | | |
+| Nov 12 | **Class:** Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
+| | | |
+| Nov 15 | **Class:** Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion.  Session 1: Teams 1 & 2 Session 2: Teams 3 & 4. Attend your session only |
+| | | |
 | Homework | **Individual:** Tech Analysis paper final version after team review. ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Nov 19 |
 | | | |
 | Nov 19 | **No class** | |

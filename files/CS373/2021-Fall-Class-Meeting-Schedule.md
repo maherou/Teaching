@@ -115,7 +115,7 @@ location: "Collegeville, MN, USA"
 | | | |
 | Nov 12 | **Class:** Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
 | | | |
-| Nov 15 | **Class:** Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion.  Session 1: Teams 1 & 2 Session 2: Teams 3 & 4. Attend your session only |
+| Nov 15 | **Class:** Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion.  Session 1: Teams 1 & 3 Session 2: Teams 2 & 4. Attend your session only |
 | | | |
 | Homework | **Individual:** Tech Analysis paper final version after team review. ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Nov 19 |
 | | | |

@@ -63,3 +63,7 @@ _Writing and Presenting articles_
 - [How PowerPoint is killing critical thought.](https://www.theguardian.com/commentisfree/2015/sep/23/powerpoint-thought-students-bullet-points-information?CMP=ema_565a)
 - [Writing, Briefly.](http://www.paulgraham.com/writing44.html)
 - [Ban These Words From Your Vocabulary To Sound More Confident At Work.](https://www.forbes.com/sites/melodywilding/2016/06/20/ban-these-words-from-your-vocabulary-to-sound-more-confident-at-work/#63c084361807)
+
+**Interesting Science Fiction**
+
+- [The Machine Stops](http://www.visbox.com/prajlich/forster.html) by E. M. Forster

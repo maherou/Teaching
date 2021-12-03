@@ -114,6 +114,7 @@ location: "Collegeville, MN, USA"
 | Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Nov 15 |
 | | | |
 | Nov 12 | **Class:** Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
+| | **Team:** [Review of presentation & paper checklists: HB, pg 24, 25](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
 | | | |
 | Nov 15 | **Class:** Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion.  Session 1: Teams 1 & 3 Session 2: Teams 2 & 4. Attend your session only |
 | | | |
@@ -126,8 +127,7 @@ location: "Collegeville, MN, USA"
 | Nov 29 | **No class** | |
 | | | |
 | Dec 3 | **Class:** [AWWE Discussion: Chapter 7](../AWWE-Discussion) |  |
-| | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
-| | **Team:** [Review of presentation & paper checklists: HB, pg 24, 25](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
+| | **Class:** In-class Scott Hanselman Talk | ["Scaling Yourself as a Software Developer"](http://blog.martinig.ch/videos/scaling-yourself-as-a-software-developer/) |
 | | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
@@ -135,9 +135,10 @@ location: "Collegeville, MN, USA"
 | | | |
 | Dec 6 | **No class** | |
 | | | |
-| Dec 10 | **Class:** Guest presentation, Ryan Tillotson, Google, TBD | [**“A Perspective on Continued Learning in the Software Industry”**](../2021-Fall-Guest-Talk) |
+| Dec 10 | **Class:** [AWWE Discussion: Conclusion](../AWWE-Discussion) | |
+| | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | | |
-| Dec 13 | **Class:** [AWWE Discussion: Conclusion](../AWWE-Discussion) | Special 4 pm start time |
+| Dec 13 | **No class** | |
 | | | |
 | Dec 17 | **Individual:** Teams 1 & 2 Final SOTF Talk [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations, Part I**](../2021-Fall-Final-Presentation-Schedule) |
 | Dec 17 | **Individual:** Teams 3 & 4 Final SOTF Talk [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations, Part II**](../2021-Fall-Final-Presentation-Schedule) |

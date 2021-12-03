@@ -11,7 +11,7 @@ location: "Collegeville, MN, USA"
 Off-campus family and friends are welcome to attend.  They must register via Zoom to receive the connection link via email.
 
 Register in advance for this meeting:
-https://csbsju.zoom.us/meeting/register/tJ0od-ispzktG9LIXcLCCG004A3ccVgS2bYJ 
+[https://csbsju.zoom.us/meeting/register/tJ0od-ispzktG9LIXcLCCG004A3ccVgS2bYJ](https://csbsju.zoom.us/meeting/register/tJ0od-ispzktG9LIXcLCCG004A3ccVgS2bYJ)
 
 ## Friday, December 17, 10 am - 1:00 pm
 

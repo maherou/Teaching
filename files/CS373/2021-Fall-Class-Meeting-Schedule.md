@@ -140,7 +140,6 @@ location: "Collegeville, MN, USA"
 | | | |
 | Dec 13 | **No class** | |
 | | | |
-| Dec 17 | **Individual:** Teams 1 & 2 Final SOTF Talk [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations, Part I**](../2021-Fall-Final-Presentation-Schedule) |
-| Dec 17 | **Individual:** Teams 3 & 4 Final SOTF Talk [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations, Part II**](../2021-Fall-Final-Presentation-Schedule) |
+| Dec 17 | **Individual:** Final SOTF Talk [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2021-Fall-Final-Presentation-Schedule) |
 | | | |
 | Dec 18 | **Individual:** Final SOTF Paper [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Dec 18** |

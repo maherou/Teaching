@@ -17,11 +17,11 @@ Register in advance for this meeting:
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |
-| 10:00 am | Patrick Hesse | | |
+| 10:00 am | Thomas de St Aubin | | |
 | 10:20 am | Riley Chapman | | |
-| 10:40 am | Tenzin Choeney| | |
+| 10:40 am | Tenzin Choeney | | |
 | 11:00 am | Readyson Vang | | |
-| 11:20 am | Thomas de St Aubin| | |
+| 11:20 am | Patrick Hesse | | |
 | 11:40 am | Connor Boyer| | |
 | 12:00 pm | Peyton Maahs| | |
 | 12:20 pm | Malik Harper| | |

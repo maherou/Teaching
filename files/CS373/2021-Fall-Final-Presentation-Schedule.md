@@ -13,7 +13,9 @@ Off-campus family and friends are welcome to attend.  They must register via Zoo
 Register in advance for this meeting:
 [https://csbsju.zoom.us/meeting/register/tJ0od-ispzktG9LIXcLCCG004A3ccVgS2bYJ](https://csbsju.zoom.us/meeting/register/tJ0od-ispzktG9LIXcLCCG004A3ccVgS2bYJ)
 
-## Friday, December 17, 10 am - 1:00 pm
+## Friday, December 17, 10 am - 4:30 pm
+
+### Session 1: 10:00 am - 1:00 pm
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |
@@ -28,7 +30,7 @@ Register in advance for this meeting:
 | 12:40 pm | Kayli Thulin| A comprehensive review of Hadoop|The term 'Big Data' narrates techniques to capture, store, distribute, manage and analyze data sets with different structures. Big data can be structured, unstructured or semi-structured, resulting in normal conventional data management methods to be incapable of processing. In order to process these large amounts of data in an efficient and inexpensive way, parallelism is used. Hadoop started as a Google File System paper titled, “MapReduce: Simplified Data Processing on Large Clusters” published in 2003. This led to the development of the Apache Nutch, an open-source web crawler, which later was factored into what the foundation of Hadoop is in 2006. Presently Hadoop now has a collection of open-source software utilities that manages big data storage in a distributed way and processes it parallelly. It is designed to scale up from a single server to thousands of machines, with a very high degree of fault tolerance.|
 
 
-## Friday, December 17, 1 - 4 pm
+### Session 2: 1:30 pm - 4:30 pm
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |

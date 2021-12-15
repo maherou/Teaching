@@ -13,7 +13,7 @@ Off-campus family and friends are welcome to attend.  They must register via Zoo
 Register in advance for this meeting:
 [https://csbsju.zoom.us/meeting/register/tJ0od-ispzktG9LIXcLCCG004A3ccVgS2bYJ](https://csbsju.zoom.us/meeting/register/tJ0od-ispzktG9LIXcLCCG004A3ccVgS2bYJ)
 
-## Friday, December 17, 10 am - 4:30 pm
+## Friday, December 17, 10 am - 4:30 pm, Room 270, Main CSB
 
 ### Session 1: 10:00 am - 1:00 pm
 

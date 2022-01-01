@@ -1,5 +1,5 @@
 ---
-layout: courJanost
+layout: coursepost
 title: "CS373 - Class Schedule"
 description: Daily schedule
 tags: [Teaching, Writing, Presenting, Research] # add tag

@@ -84,6 +84,7 @@ location: "Collegeville, MN, USA"
 | | **Team:** Review team GitHub Resources database with instructor | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | Feb 18 | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
+| | **Class:** [Intro to Mental Models](../MentalModels) | |
 | | **Class:** [AWWE Discussion: Chapter 4](../AWWE-Discussion) | |
 | | | |
 | Homework | **Individual:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | Submit work via email before class on Feb 25 |

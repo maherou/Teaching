@@ -45,7 +45,7 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | | |
 | Jan 28 | **Class:**  _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students.pdf) |
 | | **Class:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
-| | **Class:** Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Feb 7, paper due Feb 11 |
+| | **Class:** Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Feb 7, paper due Feb 10 |
 | | **Class:** [Anthro-Vision Discussion: Preface](../Anthro-Vision)  |   |
 | | **Team:** Review GitHub Issues-only repo with DH| |
 | | **Team:** Review of your research topic and how it addresses the key requirements listed in the [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |
@@ -63,8 +63,6 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | Homework | **Individual:** Create GitHub Pages personal website | Send DH link to website by Mar 15 |
  | | |
 | Feb 7 | **Class:** Survey Panel Presentation ( [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf)). | |
-| | | |
-| Homework | **Due:** Survey paper ( [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf)) | Send PDF by email by Feb 10 |
 | | | |
 | Feb 11 | **Class:** [Anthro-Vision Discussion: Chapter 2](../Anthro-Vision)  | |
 |  | **Class:** [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |

@@ -129,7 +129,7 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | **Class:** In-class Scott Hanselman Talk | ["Scaling Yourself as a Software Developer"](http://blog.martinig.ch/videos/scaling-yourself-as-a-software-developer/) |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Homework | **Individual:** Submit [Title, Abstract, Bio](https://forms.gle/ScuC4Ca7xn1zfhaP6) | Due Apr 13 |
+| Homework | **Individual:** Submit [Title, Abstract, Bio](https://forms.gle/ScuC4Ca7xn1zfhaP6) | Due Apr 25 |
 | | | |
 | Apr 25 | **Class:** [Anthro-Vision Discussion: Conclusion and Postscript](../Anthro-Vision) | |
 | | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |

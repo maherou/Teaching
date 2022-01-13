@@ -64,7 +64,7 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
  | | |
 | Feb 7 | **Class:** Survey Panel Presentation ( [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf)). | |
 | | | |
-| Homework | **Due:** Survey paper ( [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf)) | Send PDF by email by Feb 11 |
+| Homework | **Due:** Survey paper ( [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf)) | Send PDF by email by Feb 10 |
 | | | |
 | Feb 11 | **Class:** [Anthro-Vision Discussion: Chapter 2](../Anthro-Vision)  | |
 |  | **Class:** [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |

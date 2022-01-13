@@ -61,12 +61,10 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | | |
 | Homework | **Individual:** Set up LinkedIn account | Send invite to DH to help build network |
 | Homework | **Individual:** Create GitHub Pages personal website | Send DH link to website by Mar 15 |
-| | | |
-| | | |
+ | | |
 | Feb 7 | **Class:** Survey Panel Presentation ( [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf)). | |
 | | | |
 | Homework | **Due:** Survey paper ( [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf)) | Send PDF by email by Feb 11 |
-| | | |
 | | | |
 | Feb 11 | **Class:** [Anthro-Vision Discussion: Chapter 2](../Anthro-Vision)  | |
 |  | **Class:** [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
@@ -80,9 +78,7 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | **Team:** Review team GitHub Resources database with instructor | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| | | |
 |Feb 18  | **Individual:** Progress status | 1-on-1  meeting |
-| | | |
 | | | |
 | Feb 21 | **Class:** [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
 | | **Class:** [Intro to Mental Models](../MentalModels) | |
@@ -90,9 +86,7 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | | |
 | Homework | **Individual:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | Submit work via email before class on Feb 25 |
 | | | |
-| | | |
 | Feb 25 | **No class** | |
-| | | |
 | | | |
 | Feb 28 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br> **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Position paper due Mar 5, send PDF by email |
 | | **Class:** [Anthro-Vision Discussion: Chapters 5 - 6](../Anthro-Vision)  | |
@@ -116,7 +110,11 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | | |
 | Homework | **Individual:** Tech Analysis paper final version after team review. ([HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Apr 1 |
 | | | |
-| Apr 1 | **No class** | |
+| Mar 25 | **TBD** | |
+| | | |
+| Mar 28 | **TBD** | |
+| | | |
+| Apr 1 | **TBD** | |
 | | | |
 | Apr 4 | **Class:** Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
 | | **Team:** Review of presentation & paper checklists: ([HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf)) |  |

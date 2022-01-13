@@ -68,9 +68,6 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 |  | **Class:** [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
 |  | **Team:** [Overleaf Setup](https://www.overleaf.com) | |
 | | | |
-| Homework | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) account | Before class Feb 14 |
-| Homework | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) in Submissions section | Due Mar 4 |
-| | | |
 | Feb 14 | **Class:** [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | Due Feb 21 |
 | | **Class:** [Anthro-Vision Discussion: Chapter 3](../Anthro-Vision)  | |
 | | **Team:** Review team GitHub Resources database with instructor | |
@@ -89,6 +86,8 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | Feb 28 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br> **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Position paper due Mar 5, send PDF by email |
 | | **Class:** [Anthro-Vision Discussion: Chapters 5 - 6](../Anthro-Vision)  | |
 | | **Individual:** Prepare Technical Analysis paper for submission | ([HB, pg 21](./CSCI373CourseHandbookLatestEdition.pdf)) |
+| | | |
+| Homework | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) account | Before class Mar 4 |
 | | | |
 | Mar 4 | **No class** | **Due:** Tech Analysis Paper complete draft ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) in Submissions section|
 | | | |

@@ -21,7 +21,7 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | **Class:** [Course Handbook Intro](../CSCI373CourseHandbookLatestEdition.pdf) | |
 | | **Class:** Topic brainstorming | [Communications of the ACM](https://cacm.acm.org) |
 || **Team:** Team Research Topic Area Discussions | Compare against the **good topic checklist** in Chapter 3 of the [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) | 
-|| **Class:** Reference librarian (D.Wuolu) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> <br> [How to do cited reference searching](https://clarivate.libguides.com/webofscienceplatform/woscc) <br> <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
+|| **Class:** Reference librarian (D.Wuolu) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [How to do cited reference searching](https://clarivate.libguides.com/webofscienceplatform/woscc) <br> [Library Resources](../LibraryResources.pdf) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 | | | |
 | Homework | **Individual:** Study [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) | Prepare for quiz on Jan 21 |
 | Homework | **Individual:** Find resources in topic area | Ongoing activity throughout the course. [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/) |
@@ -135,6 +135,6 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | | |
-| Apr 29 | **Individual:** Final SOTF Talk [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2021-Fall-Final-Presentation-Schedule) |
+| Apr 29 | **Individual:** Final SOTF Talk [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Spring-Final-Presentation-Schedule) |
 | | | |
 | May 6 | **Individual:** Final SOTF Paper [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Apr 18** |

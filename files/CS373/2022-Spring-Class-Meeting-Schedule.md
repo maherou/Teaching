@@ -31,30 +31,31 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | Jan 21| **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams using a Google Form  |  
 | | **Team:** Quiz challenge| Each team takes the quizzes created by other teams |
 | | **Class:** Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
+| | **Class:**  _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students.pdf) |
 | | **Class:** [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
-| | **Class:** Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
-| | **Team:** Set up GitHub Issues-only repos| |
-| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place *.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
-| | **Team:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
-| | **Team:** Refine description of topic area |  [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
+| | **Individual:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
+| | **Individual:** Refine description of topic area |  [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | | |
-| Homework | **Team:** Review and discuss resources using GitHub issues | Ongoing activity throughout the course.  Mimic structure and design of [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |  
 | Homework | **Individual:** Prepare hobby talk | Give talk on Jan 24 |
 | Homework | **Individual:** [Read Anthro-Vision: Preface](../Anthro-Vision) | Due Jan 28 |
+| Homework | **Individual:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | Submit work via email by Jan 31 |
+| | | |
 | Jan 24 | **Class:** Hobby Talks| |
 | | | |
-| Jan 28 | **Class:**  _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students.pdf) |
-| | **Class:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
-| | **Class:** Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Feb 7, paper due Feb 10 |
+| Jan 28 | **Class:** Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| | **Team:** Set up GitHub Issues-only repos| |
+| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place *.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
+| | **Class:** Discuss Survey Panel and Paper Assignment [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Feb 7, paper due Feb 10 |
 | | **Class:** [Anthro-Vision Discussion: Preface](../Anthro-Vision)  |   |
-| | **Team:** Review GitHub Issues-only repo with DH| |
+| | **Class:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
 | | **Team:** Review of your research topic and how it addresses the key requirements listed in the [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Homework | **Individual:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | Submit work via email by Jan 31 |
 | Homework | **Team:** Complete prep for Survey Panel and Paper [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf) | |  
+| Homework | **Team:** Review and discuss resources using GitHub issues | Ongoing activity throughout the course.  Mimic structure and design of [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |  
 | | | |
-| Jan 31 | **Individual:** Progress status 1-on-1  meeting | [Sign up]()
+| Jan 31 | **Individual:** Progress status 1-on-1 meeting | [Sign up]()
+| | **Individual:** Review GitHub Issues-only repo with DH| |
 | | | |
 | Feb 4 | **Class:** [A Better Professional You](./BetterYou.pdf) | |
 | | **Class:** [Anthro-Vision Discussion: Chapter 1](../Anthro-Vision)  |   |

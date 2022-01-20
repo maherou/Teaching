@@ -36,11 +36,11 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | **Individual:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | **Individual:** Refine description of topic area |  [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | | |
-| Homework | **Individual:** Prepare hobby talk | Give talk on Jan 24 |
+| Homework | **Individual:** Prepare [hobby talk](https://collegeville.github.io/Orator/PresentationsThatWork) | Give talk on Jan 24 |
 | Homework | **Individual:** [Read Anthro-Vision: Preface](../Anthro-Vision) | Due Jan 28 |
 | Homework | **Individual:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | Submit work via email by Jan 31 |
 | | | |
-| Jan 24 | **Class:** Hobby Talks| |
+| Jan 24 | **Class:** [Hobby Talks](https://collegeville.github.io/Orator/PresentationsThatWork) | |
 | | | |
 | Jan 28 | **Class:** Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | **Team:** Set up GitHub Issues-only repos| |

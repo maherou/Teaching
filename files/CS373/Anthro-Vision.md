@@ -6,7 +6,7 @@ tags: [Teaching, Writing, Presenting, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
-## Discussion Points for A World Without Email: Reimagining Work in an Age of Communication Overload
+## Discussion Points for Anthro-Vision: A New Way to See in Business
 
 ### Book
 [Anthro-Vision: A New Way to See in Business](https://www.simonandschuster.com/books/Anthro-Vision/Gillian-Tett/9781982140960) by [Gillian Tett](https://en.wikipedia.org/wiki/Gillian_Tett).

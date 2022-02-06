@@ -45,13 +45,13 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | Jan 28 | **Class:** Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | **Team:** Set up GitHub Issues-only repos| |
 | | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place *.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
-| | **Class:** Discuss Survey Panel and Paper Assignment [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Feb 7, paper due Feb 10 |
+| | **Class:** Discuss Survey Panel and Paper Assignment [HB, Assignment 1](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Feb 7, paper due Feb 10 |
 | | **Class:** [Anthro-Vision Discussion: Preface](../Anthro-Vision)  |   |
 | | **Class:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
 | | **Team:** Review of your research topic and how it addresses the key requirements listed in the [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Homework | **Team:** Complete prep for Survey Panel and Paper [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf) | |  
+| Homework | **Team:** Complete prep for Survey Panel and Paper [HB, Assignment 1](../CSCI373CourseHandbookLatestEdition.pdf) | |  
 | Homework | **Team:** Review and discuss resources using GitHub issues | Ongoing activity throughout the course.  Mimic structure and design of [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |  
 | | | |
 | Jan 31 | **Individual:** Progress status 1-on-1 meeting | [Sign up]()
@@ -63,7 +63,7 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | Homework | **Individual:** Set up LinkedIn account | Send invite to DH to help build network |
 | Homework | **Individual:** Create GitHub Pages personal website | Send DH link to website by Mar 15 |
  | | |
-| Feb 7 | **Class:** Survey Panel Presentation ( [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf)). | |
+| Feb 7 | **Class:** Survey Panel Presentation ( [HB, Assignment 1](../CSCI373CourseHandbookLatestEdition.pdf)). | |
 | | | |
 | Feb 11 | **Class:** [Anthro-Vision Discussion: Chapter 2](../Anthro-Vision)  | |
 |  | **Class:** [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
@@ -86,13 +86,13 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | | |
 | Feb 28 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br> **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Position paper due Mar 5, send PDF by email |
 | | **Class:** [Anthro-Vision Discussion: Chapters 5 - 6](../Anthro-Vision)  | |
-| | **Individual:** Prepare Technical Analysis paper for submission | ([HB, pg 21](./CSCI373CourseHandbookLatestEdition.pdf)) |
+| | **Individual:** Prepare Technical Analysis paper for submission | ([HB, Assignment 2](./CSCI373CourseHandbookLatestEdition.pdf)) |
 | | | |
 | Homework | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) account | Before class Mar 4 |
 | | | |
-| Mar 4 | **No class** | **Due:** Tech Analysis Paper complete draft ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) in Submissions section|
+| Mar 4 | **No class** | **Due:** Tech Analysis Paper complete draft ( [HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) in Submissions section|
 | | | |
-| Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Mar 15 |
+| Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Mar 15 |
 | | | |
 | Mar 7 | **No class** | |
 | | | |
@@ -102,11 +102,11 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | **Class:** [Anthro-Vision Discussion: Chapters 7 - 8](../Anthro-Vision)  | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Homework | **Individual:** Tech Analysis Paper recorded presentation ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Mar 21 |
+| Homework | **Individual:** Tech Analysis Paper recorded presentation ( [HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Mar 21 |
 | | | |
 | Mar 21 | **Class:** Viewing of recorded Technical Analysis Presentations| Two 8-talk sesssion. Attend your session only. |
 | | | |
-| Homework | **Individual:** Tech Analysis paper final version after team review. ([HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Apr 1 |
+| Homework | **Individual:** Tech Analysis paper final version after team review. ([HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Apr 1 |
 | | | |
 | Mar 25 | **TBD** | |
 | | | |
@@ -115,7 +115,7 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | Apr 1 | **TBD** | |
 | | | |
 | Apr 4 | **Class:** Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
-| | **Team:** Review of presentation & paper checklists: ([HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
+| | **Team:** Review of presentation & paper checklists: ([HB, last two pages](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
 | | | |
 | Apr 8 | **Individual:** Progress status, review of paper checklist | 1-on-1 meeting |
 | | | |
@@ -133,9 +133,9 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | Homework | **Individual:** Submit [Title, Abstract, Bio](https://forms.gle/ScuC4Ca7xn1zfhaP6) | Due Apr 25 |
 | | | |
 | Apr 25 | **Class:** [Anthro-Vision Discussion: Conclusion and Postscript](../Anthro-Vision) | |
-| | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
+| | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | | |
-| Apr 29 | **Individual:** Final SOTF Talk [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Spring-Final-Presentation-Schedule) |
+| Apr 29 | **Individual:** Final SOTF Talk [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Spring-Final-Presentation-Schedule) |
 | | | |
-| May 6 | **Individual:** Final SOTF Paper [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Apr 18** |
+| May 6 | **Individual:** Final SOTF Paper [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Apr 18** |

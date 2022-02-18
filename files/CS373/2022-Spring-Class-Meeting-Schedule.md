@@ -80,7 +80,7 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | **Class:** [Intro to Mental Models](../MentalModels) | |
 | | **Class:** [Anthro-Vision Discussion: Chapter 4](../Anthro-Vision) | |
 | | | |
-| Homework | **Individual:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | Submit work via email before class on Feb 25 |
+| Homework | **Individual:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | Submit work via email before class on Feb 28 |
 | | | |
 | Feb 25 | **No class** | |
 | | | |

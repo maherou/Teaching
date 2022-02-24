@@ -82,9 +82,9 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | | |
 | Homework | **Individual:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | Submit work via email before class on Feb 28 |
 | | | |
-| Feb 25 | **No class** | |
+| Feb 25 | **No class** | TGIF |
 | | | |
-| Feb 28 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br> **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Position paper due Mar 5, send PDF by email |
+| Feb 28 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/)| |
 | | **Class:** [Anthro-Vision Discussion: Chapters 5 - 6](../Anthro-Vision)  | |
 | | **Individual:** Prepare Technical Analysis paper for submission | ([HB, Assignment 2](./CSCI373CourseHandbookLatestEdition.pdf)) |
 | | | |
@@ -92,13 +92,14 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | | |
 | Mar 4 | **No class** | **Due:** Tech Analysis Paper complete draft ( [HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) in Submissions section|
 | | | |
-| Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Mar 15 |
+| Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Mar 17 |
 | | | |
-| Mar 7 | **No class** | |
+| Mar 7 | **No class** | Spring Break |
 | | | |
-| Mar 11 | **No class** | |
+| Mar 11 | **No class** |  Spring Break |
 | | | |
-| Mar 14 | **Class:** Intro to Reviewing | | 
+| Mar 14 | **Class:** Intro to [Writing Article Reviews](../EffectiveReviews) | | 
+| | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Position paper due Mar 25, send PDF by email |
 | | **Class:** [Anthro-Vision Discussion: Chapters 7 - 8](../Anthro-Vision)  | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
@@ -136,6 +137,6 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | | |
-| Apr 29 | **Individual:** Final SOTF Talk [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Spring-Final-Presentation-Schedule) |
+| May 6 | **Individual:** Final SOTF Talk [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Spring-Final-Presentation-Schedule) |
 | | | |
 | May 6 | **Individual:** Final SOTF Paper [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Apr 18** |

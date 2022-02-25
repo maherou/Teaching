@@ -84,32 +84,34 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | | |
 | Feb 25 | **No class** | TGIF |
 | | | |
-| Feb 28 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/)| |
-| | **Class:** [Anthro-Vision Discussion: Chapters 5 - 6](../Anthro-Vision)  | |
-| | **Individual:** Prepare Technical Analysis paper for submission | ([HB, Assignment 2](./CSCI373CourseHandbookLatestEdition.pdf)) |
+| Feb 28 | **No class** | TGIM |
 | | | |
-| Homework | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) account | Before class Mar 4 |
-| | | |
-| Mar 4 | **No class** | **Due:** Tech Analysis Paper complete draft ( [HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) in Submissions section|
-| | | |
-| Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Mar 17 |
+|Mar 4  | **Individual:** Progress status | 1-on-1  meeting |
 | | | |
 | Mar 7 | **No class** | Spring Break |
 | | | |
 | Mar 11 | **No class** |  Spring Break |
 | | | |
-| Mar 14 | **Class:** Intro to [Writing Article Reviews](../EffectiveReviews) | | 
-| | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Position paper due Mar 25, send PDF by email |
+| Mar 14 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/)| |
+| | **Class:** [Anthro-Vision Discussion: Chapters 5 - 6](../Anthro-Vision)  | |
+| | **Individual:** Prepare Technical Analysis paper for submission ([HB, Assignment 2](./CSCI373CourseHandbookLatestEdition.pdf)) | |
+| | | |
+| Homework | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) account | Before class Mar 18 |
+| | | |
+| Mar 18 | **No class** | **Due:** Tech Analysis Paper complete draft ( [HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) in Submissions section|
+| | | |
+| Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Mar 24 |
+| | | |
+| Mar 21 | **Class:** Intro to [Writing Article Reviews](../EffectiveReviews) | | 
+| | **Class:** [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Position paper due Apr 4, send PDF by email |
 | | **Class:** [Anthro-Vision Discussion: Chapters 7 - 8](../Anthro-Vision)  | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Homework | **Individual:** Tech Analysis Paper recorded presentation ( [HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Mar 21 |
+| Homework | **Individual:** Tech Analysis Paper recorded presentation ( [HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Mar 25 |
 | | | |
-| Mar 21 | **Class:** Viewing of recorded Technical Analysis Presentations| Two 8-talk sesssion. Attend your session only. |
+| Mar 25 | **Class:** Viewing of recorded Technical Analysis Presentations| Two 8-talk sesssion. Attend your session only. |
 | | | |
 | Homework | **Individual:** Tech Analysis paper final version after team review. ([HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Apr 1 |
-| | | |
-| Mar 25 | **TBD** | |
 | | | |
 | Mar 28 | **TBD** | |
 | | | |

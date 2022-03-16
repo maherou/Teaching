@@ -112,9 +112,9 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | | |
 | Homework | **Individual:** Tech Analysis paper final version after team review. ([HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Apr 1 |
 | | | |
-| Mar 28 | **No class** | |
-| | | |
 | Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Mar 29 |
+| | | |
+| Mar 28 | **No class** | |
 | | | |
 | Apr 1 | **No class** | |
 |  | **Due:** Tech Analysis paper final version after team review. ([HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)) | Submit as a PDF attachment via email |

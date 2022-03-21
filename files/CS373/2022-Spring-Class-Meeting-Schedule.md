@@ -144,4 +144,4 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | | |
 | May 6 | **Individual:** Final SOTF Talk [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Spring-Final-Presentation-Schedule) |
 | | | |
-| May 6 | **Individual:** Final SOTF Paper [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Apr 18** |
+| May 6 | **Individual:** Final SOTF Paper [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day May 6** |

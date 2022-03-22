@@ -106,13 +106,13 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | **Individual:** Prepare Technical Analysis paper for submission ([HB, Assignment 2](./CSCI373CourseHandbookLatestEdition.pdf)) | |
 | Homework | **Individual:** Tech Analysis Paper recorded presentation ( [HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Mar 25 |
 | | | |
-| Mar 24 | | **Due:** Tech Analysis Paper complete draft ( [HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) in Submissions section|
+| Mar 24 | | **Due:** Tech Analysis Paper complete draft ( [HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) in Submissions section <br> See [this video](https://csbsju.zoom.us/rec/share/kUhJrAJWj-8uKxIiHX5Rkej1go5Ioh4cbRTlZIUw7zukyruYGP4xJeGnfhsG8MkK.zi7Xe_k7mpdBHZCf?startTime=1647954465000) for instruction to upload your paper. |
 | | | |
 | Mar 25 | **Class:** Viewing of recorded Technical Analysis Presentations| Two 8-talk sesssion. Attend your session only. |
 | | | |
 | Homework | **Individual:** Tech Analysis paper final version after team review. ([HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Apr 1 |
 | | | |
-| Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) Reviews section | Due Mar 29 |
+| Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, Assignment 2](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=spring2022tap) Reviews section | Due Mar 29. See [this video](https://csbsju.zoom.us/rec/share/kUhJrAJWj-8uKxIiHX5Rkej1go5Ioh4cbRTlZIUw7zukyruYGP4xJeGnfhsG8MkK.zi7Xe_k7mpdBHZCf?startTime=1647954942000) for instruction on how to complete your reviews. |
 | | | |
 | Mar 28 | **No class** | |
 | | | |

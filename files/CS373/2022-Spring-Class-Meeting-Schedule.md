@@ -132,14 +132,15 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | | | |
 | Apr 18 | **No class** | Easter Break |
 | | | |
-| Apr 22 | **Class:** [Anthro-Vision Discussion: Chapters 9 - 10](../Anthro-Vision) |  |
-| | **Class:** In-class Scott Hanselman Talk | ["Scaling Yourself as a Software Developer"](http://blog.martinig.ch/videos/scaling-yourself-as-a-software-developer/) |
+| Apr 22 | **Class:** In-class Scott Hanselman Talk | ["Scaling Yourself as a Software Developer"](http://blog.martinig.ch/videos/scaling-yourself-as-a-software-developer/) |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+| | **Individual:** Progress status check | |
 | | | |
-| Homework | **Individual:** Submit [Title, Abstract, Bio](https://forms.gle/ScuC4Ca7xn1zfhaP6) | Due Apr 25 |
+| Homework | **Individual:** Submit [Title, Abstract, Bio](https://forms.gle/ScuC4Ca7xn1zfhaP6) | Due Apr 29 |
 | | | |
-| Apr 25 | **Class:** [Anthro-Vision Discussion: Conclusion and Postscript](../Anthro-Vision) | |
-| | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
+| Apr 25 | **Class:** MFT in Computer Science | Required for graduating senior CS and NCMP majors |
+| | | |
+| Apr 29 | **Class:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | Class starts at 3 pm |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | | |
 | May 6 | **Individual:** Final SOTF Talk [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Spring-Final-Presentation-Schedule) |

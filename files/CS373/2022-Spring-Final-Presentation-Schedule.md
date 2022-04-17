@@ -8,19 +8,21 @@ location: "Collegeville, MN, USA"
 
 ## CSCI 373: Spring 2022 Final Presentation Schedule
 
-Off-campus family and friends are welcome to attend.  They must register via Zoom to receive the connection link via email.
+Family and friends are welcome to attend in person or via Zoom.  
+
+For Zoom participation, they must register via Zoom to receive the connection link via email.
 
 Register in advance for this meeting:
 
-## Friday, April 29, 10 am - 4:30 pm, Room TBD, SJU
+## Friday, May 6, 8:00 am - 12:00 pm, Room TBD
 
-### Session 1: 10:00 am - 1:00 pm
+### Session 1: 8:00 am - 10:00 am
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |
 
 
-### Session 2: 1:30 pm - 4:30 pm
+### Session 2: 10:00 am - 12:00 pm
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |

@@ -141,7 +141,7 @@ Remote Attendance Registration link: [https://csbsju.zoom.us/meeting/register/tJ
 | Apr 25 | **Class:** MFT in Computer Science | Required for graduating senior CS and NCMP majors |
 | | | |
 | Apr 29 | **Class:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | Class starts at 3 pm |
-| | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
+| | **Team:** Work on key points for your talk |  |
 | | | |
 | May 6 | **Individual:** Final SOTF Talk [(HB, Assignment 4)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Spring-Final-Presentation-Schedule) |
 | | | |

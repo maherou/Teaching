@@ -8,6 +8,8 @@ location: "Collegeville, MN, USA"
 
 ## CSCI 373: Spring 2022 Final Presentation Schedule
 
+### Location: Room 251, Main Building, CSB and Virtual via Zoom
+
 Family and friends are welcome to attend in person or via Zoom.  
 
 For Zoom participation, they must register via Zoom to receive the connection link via email. The same Zoom link works for both sessions.

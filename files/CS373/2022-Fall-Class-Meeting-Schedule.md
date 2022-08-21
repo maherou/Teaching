@@ -12,127 +12,92 @@ location: "Collegeville, MN, USA"
 
 | **Date** | **Assignment and Exercises** | **Notes** |
 | ---------- | --- | --- |
-| August 29| Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
+| Aug 29| Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
 | |  [Course Handbook Intro](../CSCI373CourseHandbookLatestEdition.pdf) | |
 | | [Slack Signup]() | Sign up for class Slack workspace |
-|| Team Research Topic Area Discussions | | 
 ||  Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> <br> [How to do cited reference searching](https://clarivate.libguides.com/webofscienceplatform/woscc) <br> <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 | | | |
 | Sep 2| **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 3 using a Google Form  |  
 | | **Team:** Quiz challenge| Each team takes the quizzes created by other teams |
 | |  Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
 | |  [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
-| |  Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
-| | **Team:** Set up GitHub Issues-only repos| |
-| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place *.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 | | **Team:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
-| | **Team:** Refine description of topic area |  [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | | |
-| Homework | **Team:** Review and discuss resources using GitHub issues | Ongoing activity throughout the course.  Mimic structure and design of [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |  
+| Sep 5 | **No class**| |
 | | | |
-| Sep 6 | **No class**| |
+| Sep 9 |  Hobby Talks| |
 | | | |
-| | | |
-| Sep 10 |  Hobby Talks| |
-| | | |
-| Sep 13 |   _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students.pdf) |
-| |  [AWWE Discussion: Introduction](../AWWE-Discussion)  |   |
+| Sep 12 |   _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students.pdf) |
+| |  [ATLB Discussion: Introduction](../ATLB-Discussion)  |   |
 | |  [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
-| |  Survey Panel and Paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 27, team paper due Oct 1 |
-| | **Team:** Review GitHub Issues-only repo with DH| |
-| | **Team:** Summary of your team topic and how it addresses the key requirements listed in the [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |
+| | **Team:** Summary of your topic and how it addresses the key requirements listed in the [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Homework | **Team:** Start prep for Survey Panel and Paper [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 27, team paper due Oct 1 |  
-| Homework | **Individual:** [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | Submit work via email by Sep 20 |
-| Homework | **Team:** Complete prep for Survey Panel and Paper [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf) | Panel Presentation on Sep 27, team paper due Oct 1 |  
+| Sep 16 | **Individual:** Progress status 1-on-1  meeting | [Sign up]()
 | | | |
-| Sep 17 | **Individual:** Progress status 1-on-1  meeting | [Sign up](https://doodle.com/poll/hsahusg36fqp6cxb?utm_source=poll&utm_medium=link)
+| Sep 19 | **No class** | At NSF Advisory Committee on Cyberinfrastructure meeting |
 | | | |
-| Sep 20 |  [A Better Professional You](./BetterYou.pdf) | |
-| |  [AWWE Discussion: Chapter 1](../AWWE-Discussion)  |   |
+| Sep 23 |  [A Better Professional You](./BetterYou.pdf) | |
+| |  [ATLB Discussion: Chapter 1](../ATLB-Discussion)  |   |
+ Sep 26 |  Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| | **Team:** Set up GitHub Issues-only repos| |
+| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place *.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
+| |  [ATLB Discussion: Chapter 2](../ATLB-Discussion)  |   |
+| Sep 30 |  Short-clip video in-class viewing ( [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf)). | |
 | | | |
-| Homework | **Individual:** Set up LinkedIn account | Send invite to DH by Oct 1 |
-| Homework | **Individual:** Create GitHub Pages personal website | Send DH link to website by Nov 15 |
-| | | |
-| Sep 24 | **No class** | |
-| | | |
-| Sep 27 |  Survey Panel Presentation ( [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf)). | |
-| | | |
-| Homework | **Due:** Team Survey paper ( [HB, pg 20](../CSCI373CourseHandbookLatestEdition.pdf)) | Send PDF by email by Oct 1|
-| | | |
-| Oct 1 | **No class** | |
-| | | |
-| Oct 4 | **No class** | Long Weekend |
-| | | |
-| Oct 8 |  [AWWE Discussion: Chapter 2](../AWWE-Discussion)  | |
+| Oct 3 |  [ATLB Discussion: Chapter 3](../ATLB-Discussion)  | |
 |  |  [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
 |  | **Team:** [Overleaf Setup](https://www.overleaf.com) | |
 | | | |
-|Oct 11  | **Individual:** Progress status | 1-on-1  meeting |
+|Oct 7  | **Individual:** Progress status | 1-on-1  meeting |
 | | | |
-| Oct 15 |  [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | Due Oct 22 |
-| |  [AWWE Discussion: Chapter 3 ](../AWWE-Discussion)  | |
+| Oct 10 | **No class** | Long Weekend |
+| | | |
+| Oct 14 | **No class** | At Argonne National Lab |
+| | | |
+| Oct 17 |  [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | Due Oct 22 |
+| |  [ATLB Discussion: Chapter 4 ](../ATLB-Discussion)  | |
 | | **Team:** Review team GitHub Resources database with instructor | |
-| | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
-| Oct 18 |  [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
-| |  [AWWE Discussion: Chapter 4](../AWWE-Discussion) | |
+| | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+| Oct 21 |  [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
+| |  [ATLB Discussion: Chapter 5](../ATLB-Discussion) | |
 | | | |
-| Homework | **Individual:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | Submit work via email before class on Oct 25 |
+| Oct 24 | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br>  [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
+| |  [ATLB Discussion: Chapter 6](../ATLB-Discussion)  | |
 | | | |
-| Oct 22 | **No class** | |
+| Oct 28 | **No class** | |
 | | | |
-| Oct 25 | **In class:** [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br>  [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Position paper due Nov 5, send PDF by email |
-| |  [AWWE Discussion: Chapter 5](../AWWE-Discussion)  | |
-| | **Individual:** Prepare Technical Analysis paper for submission | ([HB, pg 21](./CSCI373CourseHandbookLatestEdition.pdf)) |
+| Oct 31 | **Individual:** Progress status | 1-on-1  meeting |
 | | | |
-| Homework | **Individual:** Create [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) account | Before class Nov 5 |
-| Homework | **Individual:** Tech Analysis Paper complete draft ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) in Submissions section | Due Nov 8 |
 | | | |
-| Oct 29 | **No class** | |
+| Nov 4 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | |
+| |  Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
+| |  [ATLB Discussion: Chapter 7](../ATLB-Discussion)  | |
+| |  [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Nov 1 | **No class** | |
-| | | |
-| Homework | **Individual:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Watch the video before Nov 5 class |
-| | | |
-| Nov 5 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Discuss and complete individual reflections on Crichton talk. Individual write up due Nov 8  |
-| |  Intro to Reviewing | | 
-| |  [AWWE Discussion: Chapter 6](../AWWE-Discussion)  | |
-| | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
-| | | |
-| Homework | **Individual:** Tech Analysis Paper recorded presentation ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | Due Nov 12 |
-| | | |
-| Nov 8 | **No class** | **Due:** Tech Analysis Paper complete draft ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) in Submissions section|
-| | | |
-| Homework | **Team:** Complete Tech Analysis Paper team reviews ([HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2021tap) Reviews section | Due Nov 15 |
-| | | |
-| Nov 12 |  Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
+| Nov 7 |  Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
 | | **Team:** [Review of presentation & paper checklists: HB, pg 24, 25](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
 | | | |
-| Nov 15 |  Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion.  Session 1: Teams 1 & 3 Session 2: Teams 2 & 4. Attend your session only |
+| Nov 11 |  Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion.  Session 1: Teams 1 & 3 Session 2: Teams 2 & 4. Attend your session only |
 | | | |
-| Homework | **Individual:** Tech Analysis paper final version after team review. ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)) | Due Nov 19 |
+| Nov 14 | **No class** | |
 | | | |
-| Nov 19 | **No class** | |
+| Nov 18 | **No class** | |
 | | | |
-| Nov 22 | **Individual:** Progress status, review of paper checklist | 1-on-1 meeting |
+| Nov 21 | **Individual:** Progress status, review of paper checklist | 1-on-1 meeting |
 | | | |
-| Nov 29 | **No class** | |
+| Nov 28 | **No class** | |
 | | | |
-| Dec 3 |  [AWWE Discussion: Chapter 7](../AWWE-Discussion) |  |
+| Dec 2 |  [ATLB Discussion: Chapter 8-9](../ATLB-Discussion) |  |
 | |  In-class Scott Hanselman Talk | ["Scaling Yourself as a Software Developer"](http://blog.martinig.ch/videos/scaling-yourself-as-a-software-developer/) |
 | | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Homework | **Individual:** Submit [Title, Abstract, Bio](https://forms.gle/ScuC4Ca7xn1zfhaP6) | Due Dec 13 |
+| Dec 5 | **No class** | |
 | | | |
-| Dec 6 | **No class** | |
-| | | |
-| Dec 10 |  [AWWE Discussion: Conclusion](../AWWE-Discussion) | |
+| Dec 9 |  [ATLB Discussion: Chapter 10 & Conclusion](../ATLB-Discussion) | |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | | |
-| Dec 13 | **No class** | |
+| Dec 12 | **No class** | |
 | | | |
-| Dec 17 | **Individual:** Final SOTF Talk [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2021-Fall-Final-Presentation-Schedule) |
-| | | |
-| Dec 18 | **Individual:** Final SOTF Paper [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Dec 18** |
+| Dec 16 | Final SOTF Talk [(HB, pg 23)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Fall-Final-Presentation-Schedule) |

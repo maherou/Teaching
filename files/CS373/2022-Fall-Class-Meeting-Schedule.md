@@ -6,16 +6,16 @@ tags: [Teaching, Writing, Presenting, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
-## CSCI 373: Fall 2022 Meeting and Assignment Schedule
+## CSCI 373: Fall 2022 Class Schedule
 
 ### Michael A. Heroux
 
 | **Date** | **Assignment and Exercises** | **Notes** |
 | ---------- | --- | --- |
 | Aug 29| Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
-| |  [Course Handbook Intro](../CSCI373CourseHandbookLatestEdition.pdf) | |
-| | [Slack Signup](https://join.slack.com/t/collegevillef22cs373/shared_invite/zt-1enyc1d7p-PczuPKT6SjbKHyS_N_F_VA) | Sign up for class Slack workspace |
-||  Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [How to do cited reference searching](https://clarivate.libguides.com/webofscienceplatform/woscc) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
+| |  Course Handbook Intro | [Downloadable PDF of Handbook](../CSCI373CourseHandbookLatestEdition.pdf)  |
+| | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/fall-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2022-Fall-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2022-Fall-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading)
+||  Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 | | | |
 | Sep 2| **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 3 using a Google Form  |  
 | | **Team:** Quiz challenge| Each team takes the quizzes created by other teams |

@@ -15,7 +15,8 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | **Date** | **Assignment/Event** | **Notes** |
 | ---------- | --- | --- |
 | Ongoing | Find resources in topic area | Ongoing activity throughout the course. [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/) |
-|2022-09-02 | Handbook Quiz | In-class quiz on the [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) |
+| 2022-08-26 | Sign up for class Slack workspace | [Slack Signup](https://join.slack.com/t/collegevillef22cs373/shared_invite/zt-1enyc1d7p-PczuPKT6SjbKHyS_N_F_VA)  |
+| 2022-09-02 | Handbook Quiz | In-class quiz on the [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) |
 | 2022-09-09 | Hobby talks | See [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) for details |
 | 2022-09-12 | Discuss ATLB: Introduction | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-09-19 | Titles and Abstracts | Details [here](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |

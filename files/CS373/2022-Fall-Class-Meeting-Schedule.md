@@ -14,7 +14,7 @@ location: "Collegeville, MN, USA"
 | ---------- | --- | --- |
 | Aug 29| Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
 | |  [Course Handbook Intro](../CSCI373CourseHandbookLatestEdition.pdf) | |
-| | [Slack Signup](https://join.slack.com/t/newworkspace-x6q6447/shared_invite/zt-1enyc1d7p-PczuPKT6SjbKHyS_N_F_VA) | Sign up for class Slack workspace |
+| | [Slack Signup](https://join.slack.com/t/collegevillef22cs373/shared_invite/zt-1enyc1d7p-PczuPKT6SjbKHyS_N_F_VA) | Sign up for class Slack workspace |
 ||  Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [How to do cited reference searching](https://clarivate.libguides.com/webofscienceplatform/woscc) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 | | | |
 | Sep 2| **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 3 using a Google Form  |  

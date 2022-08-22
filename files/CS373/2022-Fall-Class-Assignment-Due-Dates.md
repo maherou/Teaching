@@ -19,7 +19,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2022-09-02 | Handbook Quiz | In-class quiz on the [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) |
 | 2022-09-09 | Hobby talks | See [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) for details |
 | 2022-09-12 | Discuss ATLB: Introduction | [ATLB Book Details](../ATLB-Discussion) |
-| 2022-09-19 | Titles and Abstracts | Details [here](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+| 2022-09-19 | Titles and Abstracts | Details [here](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) |
 | 2022-09-23 | Discuss ATLB: Chapter 1 | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-09-30 | Short-clip survey video [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class  | 
 | 2022-09-30 | Survey paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email |

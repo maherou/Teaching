@@ -15,7 +15,7 @@ location: "Collegeville, MN, USA"
 | Aug 29| Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
 | |  [Course Handbook Intro](../CSCI373CourseHandbookLatestEdition.pdf) | |
 | | [Slack Signup]() | Sign up for class Slack workspace |
-||  Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> <br> [How to do cited reference searching](https://clarivate.libguides.com/webofscienceplatform/woscc) <br> <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
+||  Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [How to do cited reference searching](https://clarivate.libguides.com/webofscienceplatform/woscc) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 | | | |
 | Sep 2| **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 3 using a Google Form  |  
 | | **Team:** Quiz challenge| Each team takes the quizzes created by other teams |
@@ -78,7 +78,7 @@ location: "Collegeville, MN, USA"
 | Nov 7 |  Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
 | | **Team:** [Review of presentation & paper checklists: HB, pg 24, 25](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
 | | | |
-| Nov 11 |  Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion.  Session 1: Teams 1 & 3 Session 2: Teams 2 & 4. Attend your session only |
+| Nov 11 |  Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion. |
 | | | |
 | Nov 14 | **No class** | |
 | | | |

@@ -11,6 +11,7 @@ location: "Collegeville, MN, USA"
 **Library Research Page (CSCI 373-specific):**
 
 - [http://libguides.csbsju.edu/cs](http://libguides.csbsju.edu/cs) _Local library resources, online resources, starting point for developing research content._
+- [Web of Science Cited References link](https://www.webofscience.com/wos/woscc/basic-search) _Finds articles that cite an given article. **This is magic.  Remember it for the future!**_
 
 **How to Cite Resources**
 - [Purdue Online Writing Lab (OWL)](https://owl.purdue.edu/owl/purdue_owl.html)

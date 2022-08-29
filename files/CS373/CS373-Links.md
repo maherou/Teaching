@@ -48,8 +48,6 @@ location: "Collegeville, MN, USA"
 
 _Subscription to daily email provides links to interesting articles.  Here are a few._
 
-[How to read a scientific paper.](https://medium.com/elysium-health/how-to-read-a-scientific-paper-695188037080)
-
 [Good description for improving writing.](https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937)
 
 [How to Dramatically Improve Your Speaking Voice, According to a Top Vocal Coach](https://medium.com/better-humans/how-to-dramatically-improve-your-speaking-voice-according-to-a-top-vocal-coach-4ae67cdb160d)

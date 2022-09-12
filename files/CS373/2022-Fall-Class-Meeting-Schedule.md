@@ -27,7 +27,7 @@ location: "Collegeville, MN, USA"
 | | | |
 | Sep 9 |  Hobby Talks| |
 | | | |
-| Sep 12 |   _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students.pdf) [Script in MarkDown](../ATaleOfThreeCS373Students)|
+| Sep 12 |   _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students)|
 | |  [ATLB Discussion: Introduction](../ATLB-Discussion)  |   |
 | |  [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
 | | **Team:** Summary of your topic and how it addresses the key requirements listed in the [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |

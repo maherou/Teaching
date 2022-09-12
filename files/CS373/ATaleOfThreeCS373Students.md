@@ -1,5 +1,5 @@
 ---
-layout: coursepost
+layout: default
 title: "CS373 - A Tale of Three CS Students"
 description: A Skit for CS373 Students
 tags: [Teaching, Writing, Presenting, Research] # add tag
@@ -17,6 +17,8 @@ Roles:
 - Student 1, aka Einar
 - Student 2, aka Dux
 
+---
+
 Narrator:  Welcome to a glimpse into the future of three CS373 students.  Let’s take a look at how each student—poised to depart the sheltered life of college in the near future—fares in the capstone course of the Computer Science major.
 
 Null:  Hi, I’m Student 0, but my friends call me Null.  You can call me Null, ‘cuz you’re my friends, right?
@@ -25,6 +27,7 @@ Dux: I am Student 2, or Dux.  I am pleased to meet you.
 
 Einar: Student 1, Einar.  Glad to know you.
 
+---
 
 Narrator: AFTER THE SECOND DAY OF CLASS
 
@@ -39,7 +42,7 @@ Narrator: No, it’s not.
 Dux: Oh, OK.  Then I’ll do 3D gaming!
 
  
-Einar:  I’m heading to the library.  I want to find a topic that lines up with my job interests, probably something in data analysis, maybe something in graph theory.  Also, I better get my second set of article reviews done.  DH said they are worth half a grade difference by the end.  Even more important, I have to get in the habit of keeping up in the field.  A lot of what I know now will be obsolete in five years.
+Einar:  I’m heading to the library.  I want to find a topic that lines up with my job interests, probably something in data analysis, maybe something in graph theory.  Also, I better get my second set of article reviews done.  DH said they are worth half a grade difference by the end.  Even more important, I have to get in the habit of keeping up in the field.  A lot of what I know now will be obsolete in a few years.
 
 Dux: I suppose I should get started on my article reviews.  I think I was supposed to turn something in last time.  Oh well, I am sure I can make up a bunch of them at the end of the semester.
 
@@ -49,6 +52,7 @@ Dux: Oh, OK.
 
 Null: What article reviews?
 
+---
 
 Narrator: TWO DAYS BEFORE THE SURVEY PAPER AND PRESENTATION
 
@@ -56,10 +60,11 @@ Null: Wow, that first 373 paper is due in two days.  I think I have to prepare a
 
 Dux: I have been working on the survey paper, but wow am I having trouble finding material.  You would think there is a lot of information on 3D gaming.  But Google just gives me fluffy stuff!
 
-Einar: Graphs, edges, nodes, clusters.  This is heavy stuff, but I am glad I got some help at the library.  This PhD thesis is really useful.  Goes through all the basic information.  I am going to have trouble fitting everything into this short assignment and talk, but let’s focus on the basics.
+Einar: Graphs, edges, nodes, clusters.  This is heavy stuff, but I am glad I got some help at the library.  Also, I found a great intro video from an online class, and a PhD thesis.  Both are really useful.  They go through all the basic information.  I am going to have trouble fitting everything into this short assignment and talk, but I will focus on the basics.
 
 Null: Oh, fork!  Both a paper and a presentation in two days?  Ugh.  But I can do this, just like all the other times.  What should I do for a topic?  Oh, yeah, I told Heroux I was going to AI.  He said that’s OK.  How about AI in League of Legends?  Yeah!
 
+---
 
 Narrator: SURVEY DAY.  Students have completed their background, aka, survey, paper on their research topic and have prepared a brief presentation.  
 
@@ -67,8 +72,9 @@ Einar:  OK, it was tough to condense all I wanted to say for my presentation.  T
 
 Dux: I should be OK.  My paper is pretty fluffy, to use Heroux’s “technical term”.  Maybe I should cut and paste some text from the Oculus website.  It sounds deep, even though I don’t know what all the words mean.
 
-Null: Well, I’ve got three pages of text, if I use double space and put some filler words in.  I suppose I better add a bibliography.  How do I cite League of Legends website?
+Null: Well, I’ve got three pages of text, if I use double space and put some filler words in.  I suppose I better add a bibliography.  How do I cite the League of Legends website?
 
+---
 
 Narrator: ONE MONTH INTO THE SEMESTER
 
@@ -78,6 +84,7 @@ Dux: I have sure struggled finding references for my topic.  DH said we should g
 
 Null: Wow, 373 sure is easy.  Only one paper and presentation so far.  It didn’t go so well, but I’ll work it out.  DH seems like he is easy going.  Time for some DOTA!
 
+---
 
 Narrator:  TWO DAYS BEFORE THE TECHNICAL ANALYSIS PAPER AND PRESENTATION
 
@@ -86,6 +93,8 @@ Null: Fork!  I am way behind in this course.  How am I supposed to write this lo
 Dux: I have been working like crazy the last week, but I am finally catching up in 373.  Turns out 3D gaming is way too hard, but I was able to focus on the fundamentals of ray tracing.  I think I get the basics now.  It’s actually very interesting.  It won’t be my best presentation, but I should be OK.
 
 Einar:  I am really enjoying graph algorithms.  I had no idea we could learn so much from studying relationships.  It’s a little scary.  It’s cool that so many companies are using graph analysis to understand their business better.  I hope I can use my experience to get a good job.  Or maybe I should consider grad school?
+
+---
 
 Narrator:  3 WEEKS BEFORE FINALS
 
@@ -113,6 +122,7 @@ Null: Do I have to take 373 again?
 
 Narrator: Maybe.
 
+---
 
 Narrator: END OF SEMESTER
 

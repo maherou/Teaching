@@ -54,36 +54,37 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 10 | **No class** | Long Weekend |
 | | | |
-| Oct 14 | **No class** | At Argonne National Lab |
-| | | |
-| Oct 17 |  [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | Due Oct 22 |
+| Oct 14 |  [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | |  [ATLB Discussion: Chapter 4 ](../ATLB-Discussion)  | |
 | | **Team:** Review team GitHub Resources database with instructor | |
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Oct 21 |  [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
+| Oct 17 |  [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
 | |  [ATLB Discussion: Chapter 5](../ATLB-Discussion) | |
+| | | |
+| Oct 21 | **No class** | TGIF |
 | | | |
 | Oct 24 | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br>  [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 | |  [ATLB Discussion: Chapter 6](../ATLB-Discussion)  | |
 | | | |
-| Oct 28 | **No class** | |
+| Oct 28 | **No class** | TGIF |
 | | | |
 | Oct 31 | **Individual:** Progress status | 1-on-1  meeting |
 | | | |
-| Nov 4 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | |
+| Nov 7 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | |
 | |  Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
 | |  [ATLB Discussion: Chapter 7](../ATLB-Discussion)  | |
 | |  [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
-| | | |
-| Nov 7 |  Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
+| |  Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
 | | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
+| | | |
+| Nov 4 | **No class** | |
 | | | |
 | Nov 11 |  Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion. |
 | | | |
-| Nov 14 | **No class** | |
+| Nov 14 | **No class** | At Supercomputing 2022 |
 | | | |
-| Nov 18 | **No class** | |
+| Nov 18 | **No class** | At Supercomputing 2022 |
 | | | |
 | Nov 21 | **Individual:** Progress status, review of paper checklist | 1-on-1 meeting |
 | | | |
@@ -94,11 +95,11 @@ location: "Collegeville, MN, USA"
 | | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Dec 5 | **No class** | |
-| | | |
-| Dec 9 |  [ATLB Discussion: Chapter 10 & Conclusion](../ATLB-Discussion) | |
+| Dec 5 |  [ATLB Discussion: Chapter 10 & Conclusion](../ATLB-Discussion) | |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | | |
-| Dec 12 | **No class** | |
+| Dec 9 | **No class** | |
+| | | |
+| Dec 12 | TBD | |
 | | | |
 | Dec 16 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Fall-Final-Presentation-Schedule) |

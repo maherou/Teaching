@@ -24,11 +24,11 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2022-09-30 | Short-clip survey video [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class  | 
 | 2022-09-30 | Survey paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email |
 | 2022-09-26 | Discuss ATLB: Chapter 2 | [ATLB Book Details](../ATLB-Discussion) |
-| 2022-11-05 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email before class |
 | 2022-10-03 | Discuss ATLB: Chapter 3 | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-10-03 | Set up LinkedIn account | Option: Connect with DH [on LinkedIn](https://in.linkedin.com/in/michael-heroux-763590) |
 | 2022-10-17 | Discuss ATLB: Chapter 4 | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-10-21 | Discuss ATLB: Chapter 5 | [ATLB Book Details](../ATLB-Discussion) |
+| 2022-10-24 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email before class |
 | 2022-10-24 | Discuss ATLB: Chapter 6 | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-11-04 | Discuss ATLB: Chapter 7 | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-11-04 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before Nov 4 class |

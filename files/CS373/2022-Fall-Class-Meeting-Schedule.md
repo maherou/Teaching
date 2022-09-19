@@ -38,15 +38,14 @@ location: "Collegeville, MN, USA"
 | Sep 19 | **No class** | At NSF Advisory Committee on Cyberinfrastructure meeting |
 | | | |
 | Sep 23 |  [A Better Professional You](./BetterYou.pdf) | |
-| |  [ATLB Discussion: Chapter 1](../ATLB-Discussion)  |   |
-| Sep 26 |  Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
-| | **Team:** Set up GitHub Issues-only repos| |
-| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place *.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
-| |  [ATLB Discussion: Chapter 2](../ATLB-Discussion)  |   |
+| |  [ATLB Discussion: Chapters 1 & 2](../ATLB-Discussion)  |   |
+| | | |
+| Sep 26 | **No class** | Prep for Survey video and paper |
 | | | |
 | Sep 30 |  Short-clip video in-class viewing ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
-| | | |
-| Oct 3 |  [ATLB Discussion: Chapter 3](../ATLB-Discussion)  | |
+| Oct 3 |  Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| | **Team:** Set up GitHub Issues-only repos| |
+| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place *.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 |  |  [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
 |  | **Team:** [Overleaf Setup](https://www.overleaf.com) | |
 | | | |
@@ -55,7 +54,7 @@ location: "Collegeville, MN, USA"
 | Oct 10 | **No class** | Long Weekend |
 | | | |
 | Oct 14 |  [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
-| |  [ATLB Discussion: Chapter 4 ](../ATLB-Discussion)  | |
+| |  [ATLB Discussion: Chapters 3 & 4 ](../ATLB-Discussion)  | |
 | | **Team:** Review team GitHub Resources database with instructor | |
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |

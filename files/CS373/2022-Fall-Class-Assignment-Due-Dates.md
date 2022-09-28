@@ -22,7 +22,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2022-09-19 | Titles and Abstracts | Details [here](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) |
 | 2022-09-23 | Discuss ATLB: Chapters 1 & 2 | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-09-30 | Short-clip survey video [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class  | 
-| 2022-09-30 | Survey paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email |
+| 2022-10-03 | Survey paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 12 noon** |
 | 2022-10-03 | Set up LinkedIn account | Option: Connect with DH [on LinkedIn](https://in.linkedin.com/in/michael-heroux-763590) |
 | 2022-10-14 | Discuss ATLB: Chapters 3 & 4 | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-10-17 | Discuss ATLB: Chapter 5 | [ATLB Book Details](../ATLB-Discussion) |

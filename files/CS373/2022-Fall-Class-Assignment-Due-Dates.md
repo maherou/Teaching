@@ -25,6 +25,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2022-10-03 | Survey paper [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 12 noon** |
 | 2022-10-03 | Set up LinkedIn account | Option: Connect with DH [on LinkedIn](https://in.linkedin.com/in/michael-heroux-763590) |
 | 2022-10-14 | Discuss ATLB: Chapters 3 & 4 | [ATLB Book Details](../ATLB-Discussion) |
+| 2022-10-17 |Submit revised survey paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | 2022-10-17 | Discuss ATLB: Chapter 5 | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-10-24 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email before class |
 | 2022-10-24 | Discuss ATLB: Chapter 6 | [ATLB Book Details](../ATLB-Discussion) |

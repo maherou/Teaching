@@ -45,7 +45,7 @@ location: "Collegeville, MN, USA"
 | Sep 30 |  Short-clip video in-class viewing ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
 | Oct 3 |  Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | **Team:** Set up GitHub Issues-only repos| |
-| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place *.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
+| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place \*.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 |  |  [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
 |  | **Team:** [Overleaf Setup](https://www.overleaf.com) | |
 | | | |
@@ -53,8 +53,8 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 10 | **No class** | Long Weekend |
 | | | |
-| Oct 14 |  [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
-| |  [ATLB Discussion: Chapters 3 & 4 ](../ATLB-Discussion)  | Option: Explore using [Jasper](https://www.jasper.ai) or a similar tool for compact writing |
+| Oct 14 |  [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | Option: Explore using [Jasper](https://www.jasper.ai) or a similar tool for compact writing |
+| |  [ATLB Discussion: Chapters 3 & 4](../ATLB-Discussion)  | |
 | | **Team:** Review team GitHub Resources database with instructor | |
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |

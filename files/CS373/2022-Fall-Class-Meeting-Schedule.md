@@ -54,7 +54,7 @@ location: "Collegeville, MN, USA"
 | Oct 10 | **No class** | Long Weekend |
 | | | |
 | Oct 14 |  [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
-| |  [ATLB Discussion: Chapters 3 & 4 ](../ATLB-Discussion)  | |
+| |  [ATLB Discussion: Chapters 3 & 4 ](../ATLB-Discussion)  | Option: Explore using [Jasper](https://www.jasper.ai) or a similar tool for compact writing |
 | | **Team:** Review team GitHub Resources database with instructor | |
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |

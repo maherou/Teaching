@@ -70,14 +70,14 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 31 | **Individual:** Progress status | 1-on-1  meeting |
 | | | |
+| Nov 4 | **No class** | |
+| | | |
 | Nov 7 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | |
 | |  Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
 | |  [ATLB Discussion: Chapter 7](../ATLB-Discussion)  | |
 | |  [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | |  Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
 | | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
-| | | |
-| Nov 4 | **No class** | |
 | | | |
 | Nov 11 |  Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion. |
 | | | |

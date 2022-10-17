@@ -55,10 +55,10 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 14 |  [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | Option: Explore using [Jasper](https://www.jasper.ai) or a similar tool for compact writing |
 | |  [ATLB Discussion: Chapters 3 & 4](../ATLB-Discussion)  | |
-| | **Team:** Review team GitHub Resources database with instructor | |
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
 | Oct 17 |  [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
+| | Review GitHub Issues Bibliography database with instructor | |
 | |  [ATLB Discussion: Chapter 5](../ATLB-Discussion) | |
 | | | |
 | Oct 21 | **No class** | TGIF |

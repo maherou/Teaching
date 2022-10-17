@@ -58,7 +58,7 @@ location: "Collegeville, MN, USA"
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
 | Oct 17 |  [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
-| | Review GitHub Issues Bibliography database with instructor | |
+| | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | |  [ATLB Discussion: Chapter 5](../ATLB-Discussion) | |
 | | | |
 | Oct 21 | **No class** | TGIF |

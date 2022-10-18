@@ -64,6 +64,7 @@ location: "Collegeville, MN, USA"
 | Oct 21 | **No class** | TGIF |
 | | | |
 | Oct 24 | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br>  [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
+| | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | |  [ATLB Discussion: Chapter 6](../ATLB-Discussion)  | |
 | | | |
 | Oct 28 | **No class** | TGIF |

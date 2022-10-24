@@ -65,7 +65,6 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 24 | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br>  [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 | | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
-| |  [ATLB Discussion: Chapter 6](../ATLB-Discussion)  | |
 | | | |
 | Oct 28 | **No class** | TGIF |
 | | | |
@@ -75,7 +74,7 @@ location: "Collegeville, MN, USA"
 | | | |
 | Nov 7 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | |
 | |  Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
-| |  [ATLB Discussion: Chapter 7](../ATLB-Discussion)  | |
+| |  [ATLB Discussion: Chapters 6 & 7](../ATLB-Discussion)  | |
 | |  [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | |  Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
 | | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf)) |  |

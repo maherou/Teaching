@@ -68,7 +68,7 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 28 | **No class** | TGIF |
 | | | |
-| Oct 31 | **Individual:** Progress status | 1-on-1  meeting |
+| Oct 31 | **Individual:** Progress status | Virtual 1-on-1  meeting |
 | | | |
 | Nov 4 | **No class** | |
 | | | |

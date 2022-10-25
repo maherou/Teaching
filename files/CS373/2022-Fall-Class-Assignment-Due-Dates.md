@@ -31,6 +31,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2022-11-04 | Discuss ATLB: Chapters 6 & 7 | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-11-04 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before Nov 4 class |
 | 2022-11-04 | Tech Analysis Paper complete draft [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2022tap) in Submissions section |
+| 2022-11-07 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 
 | 2022-11-11 | Tech Analysis Paper recorded presentation [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class|
 | 2022-11-14 | Complete Tech Analysis Paper team reviews [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2022tap) Reviews section |
 | 2022-11-16 | Final version Tech Analysis paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review. Send PDF by email |

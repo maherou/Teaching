@@ -68,9 +68,9 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 28 | **No class** | TGIF |
 | | | |
-| Oct 31 | **Individual:** Progress status | Virtual 1-on-1  meeting |
+| Oct 31 | **No class** | |
 | | | |
-| Nov 4 | **No class** | |
+| Nov 4 | **Individual:** 1-on-1 meetings | |
 | | | |
 | Nov 7 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | |
 | |  Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 

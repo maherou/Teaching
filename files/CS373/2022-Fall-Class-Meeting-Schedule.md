@@ -75,8 +75,7 @@ location: "Collegeville, MN, USA"
 | | Effective Mental Models | [Mental Models](../MentalModels) |
 | |  [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Nov 7 |  Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
-| | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
+| Nov 7 | **Individual:** Progress status | 1-on-1  meeting |
 | | | |
 | Nov 11 |  Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion. |
 | | | |

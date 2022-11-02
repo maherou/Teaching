@@ -70,13 +70,12 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 31 | **No class** | |
 | | | |
-| Nov 4 | **Individual:** 1-on-1 meetings | |
-| | | |
-| Nov 7 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | |
-| |  Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
+| Nov 4 | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
 | |  [ATLB Discussion: Chapters 6 & 7](../ATLB-Discussion)  | |
+| | Effective Mental Models | [Mental Models](../MentalModels) |
 | |  [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
-| |  Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
+| | | |
+| Nov 7 |  Preparations for final weeks, review checklists <br> **Individual:** Progress status| |
 | | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf)) |  |
 | | | |
 | Nov 11 |  Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion. |
@@ -87,7 +86,7 @@ location: "Collegeville, MN, USA"
 | | | |
 | Nov 21 | **Individual:** Progress status, review of paper checklist | 1-on-1 meeting |
 | | | |
-| Nov 28 | **No class** | |
+| Nov 28 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | |
 | | | |
 | Dec 2 |  [ATLB Discussion: Chapter 8-9](../ATLB-Discussion) |  |
 | |  In-class Scott Hanselman Talk | ["Scaling Yourself as a Software Developer"](http://blog.martinig.ch/videos/scaling-yourself-as-a-software-developer/) |

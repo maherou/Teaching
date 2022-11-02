@@ -29,13 +29,13 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2022-10-17 | Discuss ATLB: Chapter 5 | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-10-24 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email before class |
 | 2022-11-04 | Discuss ATLB: Chapters 6 & 7 | [ATLB Book Details](../ATLB-Discussion) |
-| 2022-11-04 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before Nov 4 class |
-| 2022-11-04 | Tech Analysis Paper complete draft [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2022tap) in Submissions section |
-| 2022-11-07 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 
+ 2022-11-07 | Tech Analysis Paper complete draft [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2022tap) in Submissions section |
+| 2022-11-09 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 
 | 2022-11-11 | Tech Analysis Paper recorded presentation [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class|
 | 2022-11-14 | Complete Tech Analysis Paper team reviews [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2022tap) Reviews section |
-| 2022-11-16 | Final version Tech Analysis paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review. Send PDF by email |
-| 2022-11-30 | Create GitHub Pages personal website | Send DH link to website |
+| 2022-11-18 | Final version Tech Analysis paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review. Send PDF by email |
+| 2022-11-28 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before Nov 28 class |
+|| 2022-11-30 | Create GitHub Pages personal website | Send DH link to website |
 | 2022-12-02 | Discuss ATLB: Chapter 8-9 | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-12-02 | Discuss ATLB: Chapter 10 & Conclusion | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-12-12 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/ScuC4Ca7xn1zfhaP6) |

@@ -87,6 +87,7 @@ location: "Collegeville, MN, USA"
 | Nov 21 | **Individual:** Progress status, review of paper checklist | 1-on-1 meeting |
 | | | |
 | Nov 28 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | |
+| |  Preparations for final weeks, review checklists | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf))  |
 | | | |
 | Dec 2 |  [ATLB Discussion: Chapter 8-9](../ATLB-Discussion) |  |
 | |  In-class Scott Hanselman Talk | ["Scaling Yourself as a Software Developer"](http://blog.martinig.ch/videos/scaling-yourself-as-a-software-developer/) |

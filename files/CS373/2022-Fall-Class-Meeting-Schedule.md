@@ -87,17 +87,18 @@ location: "Collegeville, MN, USA"
 | | | |
 | Nov 28 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | |
 | |  Preparations for final weeks, review checklists | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf))  |
+| |  In-class Scott Hanselman Talk | ["Scaling Yourself"](https://youtu.be/V4NJo2Mfvrc) |
 | | | |
 | Dec 2 |  [ATLB Discussion: Chapter 8-9](../ATLB-Discussion) |  |
-| |  In-class Scott Hanselman Talk | ["Scaling Yourself as a Software Developer"](http://blog.martinig.ch/videos/scaling-yourself-as-a-software-developer/) |
 | | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
 | Dec 5 |  [ATLB Discussion: Chapter 10 & Conclusion](../ATLB-Discussion) | |
+| | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | | |
 | Dec 9 | **No class** | |
 | | | |
 | Dec 12 | TBD | |
 | | | |
-| Dec 16 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Fall-Final-Presentation-Schedule) |
+| Dec 14 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Fall-Final-Presentation-Schedule) |

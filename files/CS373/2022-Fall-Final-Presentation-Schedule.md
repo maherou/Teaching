@@ -17,16 +17,16 @@ For Zoom participation, they must register via Zoom to receive the connection li
 Register in advance for this meeting: [Zoom Registration Link]()
 
 
-### Session 1: 10:00 am - 12:00 noon, Friday, December 16
+### Session 1: 10:45 am - 1:15 pm, Wednesday, December 14
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |
-10:00 | | | |
-10:15 | | | |
+10:45 | | | |
+11:00 | | | |
 
-### Session 2: 1:00 pm - 5:00 pm, Friday, December 16
+### Session 2: 1:30 pm - 4:00 pm, Wednesday, December 14
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |
-1:00 | | | |
-1:15 | | | |
+1:30 | | | |
+1:45 | | | |

@@ -39,5 +39,5 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2022-12-02 | Discuss ATLB: Chapter 8-9 | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-12-02 | Discuss ATLB: Chapter 10 & Conclusion | [ATLB Book Details](../ATLB-Discussion) |
 | 2022-12-12 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/ScuC4Ca7xn1zfhaP6) |
-| 2022-12-16 | Final SOTF Talk [HB, pg 24](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Fall-Final-Presentation-Schedule) |
+| 2022-12-14 | Final SOTF Talk [HB, pg 24](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2022-Fall-Final-Presentation-Schedule) |
 | 2022-12-17 | Final SOTF Paper [HB, pg 24](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Dec 17** |

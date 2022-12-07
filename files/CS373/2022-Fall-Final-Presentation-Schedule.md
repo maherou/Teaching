@@ -17,16 +17,29 @@ For Zoom participation, they must register via Zoom to receive the connection li
 Register in advance for this meeting: [Zoom Registration Link]()
 
 
-### Session 1: 10:45 am - 1:15 pm, Wednesday, December 14
+### Session 1: 10:45 am - 12:45 pm, Wednesday, December 14
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |
-10:45 | | | |
-11:00 | | | |
+| 10:45 | Jack Clisham| | |
+| 11:00 | Kristiana Anderson | | |
+| 11:15 | Mia Sabin | | |
+| 11:30 | Jo Nemanich| | |
+| 11:45 | Aretha McDonald | | |
+| 12:00 | Logan Woods | | |
+| 12:15 | Chinou Thao | | |
+| 12:30 | Ian Wilson | | |
 
-### Session 2: 1:30 pm - 4:00 pm, Wednesday, December 14
+### Session 2: 1:15 - 3:30, Wednesday, December 14
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |
-1:30 | | | |
-1:45 | | | |
+| 1:15 | Reese Marek | | |
+| 1:30 | Luke McElroy | | |
+| 1:45 | Owen Dauk | | |
+| 2:00 | K'Gia Turnquest | | |
+| 2:15 | Arik Rorie | | |
+| 2:30 | Hongtao Wang | | |
+| 2:45 | Wenchy Dutreuil | | |
+| 3:00 | Alexandria Watkins | | |
+| 3:15 | Joe Sebenaler  | | |

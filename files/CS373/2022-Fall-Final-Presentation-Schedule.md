@@ -8,19 +8,20 @@ location: "Collegeville, MN, USA"
 
 ## CSCI 373: Fall 2022 Final Presentation Schedule
 
-### Location: Room 251, Main Building, CSB and Virtual via Zoom
+### Location: Room 270, Main Building, CSB and Virtual via Zoom
 
 Family and friends are welcome to attend in person or via Zoom.  
 
 For Zoom participation, they must register via Zoom to receive the connection link via email. The same Zoom link works for both sessions.
 
-Register in advance for this meeting: [Zoom Registration Link]()
+Register in advance for this meeting: [Zoom Registration Link](https://csbsju.zoom.us/meeting/register/tJwrfuuoqTsuHNNmVvf6qQPqq6I0995FsdjA)
 
 
-### Session 1: 10:45 am - 12:45 pm, Wednesday, December 14
+### Session 1: 10:30 am - 12:45 pm, Wednesday, December 14
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |
+| 10:30 | Eli Weiss | | |
 | 10:45 | Jack Clisham| | |
 | 11:00 | Kristiana Anderson | | |
 | 11:15 | Mia Sabin | | |

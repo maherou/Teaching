@@ -6,9 +6,17 @@ tags: [Teaching, Writing, Presenting, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
-The following papers (and one presentation) are some good examples of what your final work could be.
+The following papers are some good examples of what your final work could be.
 
-- [David Bernardy Paper](./BernardyWebApplicationSecurity.pdf), [David Bernardy Presentation](./BernardyWebApplicationSecurityPresentation.pdf)
+### Fall 2022 final papers
+- [Kristian Anderson](./2022-Fall-Anderson.pdf)
+- [Wenchy Dutreuil](./2022-Fall-Dutreuil.pdf)
+- [Luke McElroy](./2022-Fall-McElroy.pdf)
+- [Jo Nemanich](./2022-Fall-Nemanich.pdf)
+- [Ian Wilson](./2022-Fall-Wilson.pdf)
+
+### Previous years
+
 - [Kevin Kerwin](./KirwinRFIDTechnology.pdf)
 - [Neil Wackwitz](./WackwitzfinalSOF.pdf)
 - [Nick Honetschlager](./NickHonetschlager.pdf)

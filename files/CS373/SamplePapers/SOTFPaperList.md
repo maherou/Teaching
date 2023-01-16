@@ -9,7 +9,7 @@ location: "Collegeville, MN, USA"
 The following papers are some good examples of what your final work could be.
 
 ### Fall 2022 final papers
-- [Kristian Anderson](./2022-Fall-Anderson.pdf)
+- [Kristiana Anderson](./2022-Fall-Anderson.pdf)
 - [Wenchy Dutreuil](./2022-Fall-Dutreuil.pdf)
 - [Luke McElroy](./2022-Fall-McElroy.pdf)
 - [Jo Nemanich](./2022-Fall-Nemanich.pdf)

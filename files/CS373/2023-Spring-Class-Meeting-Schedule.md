@@ -34,37 +34,35 @@ location: "Collegeville, MN, USA"
 | | **Team:** Summary of your topic and how it addresses the key requirements listed in the [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) Chapter 3| |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Feb 6 | **Individual:** Progress status 1-on-1  meeting | [Sign up]()
+| Feb 6 | **Individual:** Progress status 1-on-1  meeting | |
 | | | |
 | Feb 10 |  [A Better Professional You](./BetterYou.pdf) | |
 | |  [ATLB Discussion: Chapters 1 & 2](../ATLB-Discussion)  |   |
 | | | |
-| Feb 13 | **No class** | Prep for Survey video and paper |
-| | | |
-| Feb 17 |  Short-clip video in-class viewing ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
-| Feb 20 |  Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| Feb 13 |  Short-clip video in-class viewing ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
+| Feb 17 |  Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | **Team:** Set up GitHub Issues-only repos| |
 | | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place \*.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
-|  |  [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
+| |  [ATLB Discussion: Chapters 3 & 4](../ATLB-Discussion)  | |
+| Feb 20  |  [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
 |  | **Team:** [Overleaf Setup](https://www.overleaf.com) | |
+| |  [ATLB Discussion: Chapter 5](../ATLB-Discussion) | |
+| | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-|Feb 24  | **Individual:** Progress status | 1-on-1  meeting |
+| Feb 24  | **Individual:** Progress status | 1-on-1  meeting |
 | | | |
-| Feb 27 | **TBD** | At SIAM CSE 2023 Conference |
+| Feb 27 | **TBD** | At SIAM CSE 2023 Conference in Amsterdam, may do remote class |
 | | | |
-| Mar 3 | **TBD** | At SIAM CSE 2023 Conference |
+| Mar 3 | **No Class** | At SIAM CSE 2023 Conference, happy early spring break! |
 | | | |
 | Mar 6 | **No Class** | Spring Break |
 | | | |
 | Mar 10 | **No Class** | Spring Break |
 | | | |
-| Mar 13 |  [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | Option: Explore using [Jasper](https://www.jasper.ai) or a similar tool for compact writing |
-| |  [ATLB Discussion: Chapters 3 & 4](../ATLB-Discussion)  | |
-| | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+| Mar 13 |  [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | | | |
 | Mar 17 |  [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
 | | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
-| |  [ATLB Discussion: Chapter 5](../ATLB-Discussion) | |
 | | | |
 | Mar 20 | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br>  [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 | | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |

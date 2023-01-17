@@ -100,7 +100,7 @@ location: "Collegeville, MN, USA"
 | | | |
 | May 1 | **TBD** |  |
 | | | |
-| May 5 |  [ATLB Discussion: Chapter 10 & Conclusion](../ATLB-Discussion) | |
+| May 5 |  [ATLB Discussion: Chapters 10, 11, & Conclusion](../ATLB-Discussion) | |
 | | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | | |

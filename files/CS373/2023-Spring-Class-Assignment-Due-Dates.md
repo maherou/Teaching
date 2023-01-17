@@ -15,8 +15,8 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | **Date** | **Assignment/Event** | **Notes** |
 | ---------- | --- | --- |
 | Ongoing | Find resources in topic area | Ongoing activity throughout the course. [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/) |
-| 2023-01-23 | Create a generative AI tool account | Consider [ChatGPT](https://chat.openai.com), [beta.openai.com](https://beta.openai.com) or similar platform |
-| 2023-01-23 | Brainstorm on research topic | Use generative AI tools |
+| 2023-01-20 | Create a generative AI tool account | Consider [ChatGPT](https://chat.openai.com), [beta.openai.com](https://beta.openai.com) or similar platform |
+| 2023-01-23 | List of 3-5 research topics | Use generative AI tools |
 | 2023-01-23 | Sign up for class Slack workspace | [Slack Signup](https://join.slack.com/t/collegevilles23cs373/shared_invite/zt-1nbs0ayus-HYP0Xai25peHmL1DP9grPg)  |
 | 2023-01-27 | Handbook Quiz | In-class quiz on the [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) |
 | 2023-01-30 | Hobby talks | See [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) for details |
@@ -39,7 +39,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2023-03-28 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before Nov 28 class |
 | 2023-03-30 | Create GitHub Pages personal website | Send DH link to website |
 | 2023-04-02 | Discuss ATLB: Chapter 8-9 | [ATLB Book Details](../ATLB-Discussion) |
-| 2023-04-02 | Discuss ATLB: Chapter 10 & Conclusion | [ATLB Book Details](../ATLB-Discussion) |
+| 2023-04-02 | Discuss ATLB: Chapter 10, 11, & Conclusion | [ATLB Book Details](../ATLB-Discussion) |
 | 2023-04-12 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/1CBDwxUoPQbjLGib9) |
 | 2023-04-14 | Final SOTF Talk [HB, pg 24](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Fall-Final-Presentation-Schedule) |
 | 2023-04-17 | Final SOTF Paper [HB, pg 24](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Dec 17** |

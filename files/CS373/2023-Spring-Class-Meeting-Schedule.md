@@ -37,21 +37,27 @@ location: "Collegeville, MN, USA"
 | Feb 6 | **Individual:** Progress status 1-on-1  meeting | |
 | | | |
 | Feb 10 |  [A Better Professional You](./BetterYou.pdf) | |
+| |  Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| | **Team:** Set up GitHub Issues-only repos| |
+| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place \*.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 | |  [ATLB Discussion: Chapters 1 & 2](../ATLB-Discussion)  |   |
 | | | |
 | Feb 13 |  Short-clip video in-class viewing ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
-| Feb 17 |  Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
-| | **Team:** Set up GitHub Issues-only repos| |
-| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place \*.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 | |  [ATLB Discussion: Chapters 3 & 4](../ATLB-Discussion)  | |
-| Feb 20  |  [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
+| | | |
+| Feb 17 | [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
 |  | **Team:** [Overleaf Setup](https://www.overleaf.com) | |
 | |  [ATLB Discussion: Chapter 5](../ATLB-Discussion) | |
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Feb 24  | **Individual:** Progress status | 1-on-1  meeting |
+| Feb 20 | Effective Mental Models | [Mental Models](../MentalModels) |
+| | [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
+| |  [ATLB Discussion: Chapters 6 & 7](../ATLB-Discussion)  | |
 | | | |
-| Feb 27 | **TBD** | At SIAM CSE 2023 Conference in Amsterdam, may do remote class |
+| Feb 24  | |
+| | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| | | |
+| Feb 27 | **Individual:** Progress status |  At SIAM CSE 2023 Conference in Amsterdam, via Zoom |
 | | | |
 | Mar 3 | **No Class** | At SIAM CSE 2023 Conference, happy early spring break! |
 | | | |
@@ -59,24 +65,22 @@ location: "Collegeville, MN, USA"
 | | | |
 | Mar 10 | **No Class** | Spring Break |
 | | | |
-| Mar 13 |  [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
-| | | |
-| Mar 17 |  [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
+| Mar 13 | [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
+| | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
 | | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | | |
-| Mar 20 | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) <br>  [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
-| | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| Mar 20 | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
+| | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 | | | |
-| Mar 24 | **TBD** |  |
+| Mar 24 | Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion |  |
 | | | |
-| Mar 27 | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
-| |  [ATLB Discussion: Chapters 6 & 7](../ATLB-Discussion)  | |
-| | Effective Mental Models | [Mental Models](../MentalModels) |
+| Mar 27 | **No Class** | |
+| | | |
+| Mar 31 | **Individual:** Progress status | 1-on-1  meeting |
+| | | |
+| Apr 3 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  |
+| |  [ATLB Discussion: Chapter 8-9](../ATLB-Discussion) | |
 | |  [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
-| | | |
-| Mar 27 | **Individual:** Progress status | 1-on-1  meeting |
-| | | |
-| Apr 3 |  Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion. |
 | | | |
 | Apr 7 | **No class** | Easter Break |
 | | | |
@@ -86,19 +90,20 @@ location: "Collegeville, MN, USA"
 | | | |
 | Apr 17 | **No class** | At NSF ACCI Meeting |
 | | | |
-| Apr 21 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | |
+| Apr 21 |  | |
 | |  Preparations for final weeks, review checklists | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf))  |
+| |  [ATLB Discussion: Chapters 10-11](../ATLB-Discussion) |  |
 | |  In-class Scott Hanselman Talk | ["Scaling Yourself"](https://youtu.be/V4NJo2Mfvrc) |
 | | | |
 | Apr 24 | **TBD** |  |
 | | | |
-| Apr 28 |  [ATLB Discussion: Chapter 8-9](../ATLB-Discussion) |  |
-| | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
+| Apr 28 |  [ATLB Discussion: Conclusion](../ATLB-Discussion) |  |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
 | May 1 | **TBD** |  |
 | | | |
-| May 5 |  [ATLB Discussion: Chapters 10, 11, & Conclusion](../ATLB-Discussion) | |
+| May 5 |  | |
+| | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
 | | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | | |

@@ -16,7 +16,7 @@ location: "Collegeville, MN, USA"
 | | | |
 | Jan 23| Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
 | |  Course Handbook Intro | [Downloadable PDF of Handbook](../CSCI373CourseHandbookLatestEdition.pdf)  |
-| | [Generative AI Tools](../GenerativeAITools.pdf) | |
+| | [Generative AI Tools](../GenerativeAITools/GenerativeAITools.pptx) | |
 | | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/2023-01-01-spring-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2023-Spring-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2023-Spring-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
 ||  Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 | | | |
@@ -71,13 +71,13 @@ location: "Collegeville, MN, USA"
 | Mar 20 | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
 | | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 | | | |
-| Mar 24 | Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion |  |
+| Mar 24 | Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion |
 | | | |
 | Mar 27 | **No Class** | |
 | | | |
 | Mar 31 | **Individual:** Progress status | 1-on-1  meeting |
 | | | |
-| Apr 3 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  |
+| Apr 3 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
 | |  [ATLB Discussion: Chapter 8-9](../ATLB-Discussion) | |
 | |  [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |

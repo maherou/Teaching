@@ -25,6 +25,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2023-01-10 | Discuss ATLB: Chapters 1 & 2 | [ATLB Book Details](../ATLB-Discussion) |
 | 2023-02-13 | Short-clip survey video [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class  | 
 | 2023-02-13 | Discuss ATLB: Chapters 3 & 4 | [ATLB Book Details](../ATLB-Discussion) |
+| 2023-02-14 | Draft survey paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
 | 2023-02-16 | Survey paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
 | 2023-02-17 | Set up LinkedIn account | Option: Connect with DH [on LinkedIn](https://in.linkedin.com/in/michael-heroux-763590) |
 | 2023-02-17 | Discuss ATLB: Chapter 5 | [ATLB Book Details](../ATLB-Discussion) |
@@ -42,5 +43,6 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2023-04-21 | Discuss ATLB: Chapter 10-11 | [ATLB Book Details](../ATLB-Discussion) |
 | 2023-04-28 | Discuss ATLB: Conclusion | [ATLB Book Details](../ATLB-Discussion) |
 | 2023-05-05 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/1CBDwxUoPQbjLGib9) |
+| 2023-05-08 | Draft SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
 | 2023-05-12 | Final SOTF Talk [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Fall-Final-Presentation-Schedule) |
-| 2023-05-12 | Final SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | **Submit as an email attachment by end of day Dec 17** |
+| 2023-05-12 | Final SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |

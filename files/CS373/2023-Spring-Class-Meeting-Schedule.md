@@ -38,13 +38,13 @@ location: "Collegeville, MN, USA"
 | | | |
 | Feb 10 |  [A Better Professional You](./BetterYou.pdf) | |
 | |  Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
-| | **Team:** Set up GitHub Issues-only repos| |
-| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place \*.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 | |  [ATLB Discussion: Chapters 1 & 2](../ATLB-Discussion)  |   |
 | | | |
 | Feb 13 |  Short-clip video in-class viewing ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
 | |  [ATLB Discussion: Chapters 3 & 4](../ATLB-Discussion)  | |
 | | | |
+| | **Team:** Set up GitHub Issues-only repos| |
+| | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place \*.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 | Feb 17 | [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
 |  | **Team:** [Overleaf Setup](https://www.overleaf.com) | |
 | |  [ATLB Discussion: Chapter 5](../ATLB-Discussion) | |
@@ -54,9 +54,9 @@ location: "Collegeville, MN, USA"
 | | [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | |  [ATLB Discussion: Chapters 6 & 7](../ATLB-Discussion)  | |
 | | | |
-| Feb 24 | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| Feb 24 | 1-on-1 review of GitHub Issues resources database with instructor (virtual)| Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | | |
-| Feb 27 | **Individual:** Progress status |  At SIAM CSE 2023 Conference in Amsterdam, via Zoom |
+| Feb 27 | **No Class** |  Work intensely on building your knowledge and expertise! |
 | | | |
 | Mar 3 | **No Class** | At SIAM CSE 2023 Conference, happy early spring break! |
 | | | |

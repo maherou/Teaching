@@ -29,11 +29,15 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2023-02-16 | Survey paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
 | 2023-02-17 | Set up LinkedIn account | Option: Connect with DH [on LinkedIn](https://in.linkedin.com/in/michael-heroux-763590) |
 | 2023-02-17 | Discuss ATLB: Chapter 5 | [ATLB Book Details](../ATLB-Discussion) |
+| | **Team:** Set up GitHub Issues-only repos| |
+| 2023-02-20 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2023-02-24 |Submit revised survey paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | 2023-02-24 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email before class |
+| 2023-02-27 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2023-03-03 | Tech Analysis Paper complete draft [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2023tap) in Submissions section |
-| 2023-03-04 | Discuss ATLB: Chapters 6 & 7 | [ATLB Book Details](../ATLB-Discussion) |
+| 2023-03-13 | Discuss ATLB: Chapters 6 & 7 | [ATLB Book Details](../ATLB-Discussion) |
 | 2023-03-14 | Complete Tech Analysis Paper team reviews [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2023tap) Reviews section |
+| 2023-03-20 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2023-03-24 | Tech Analysis recorded presentation [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class|
 | 2023-03-27 | Final version Tech Analysis paper [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review. Send PDF by email |
 | 2023-03-31 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 

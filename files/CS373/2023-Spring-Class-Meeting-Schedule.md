@@ -45,16 +45,15 @@ location: "Collegeville, MN, USA"
 | | | |
 | | **Team:** Set up GitHub Issues-only repos| |
 | | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place \*.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
-| Feb 17 | [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | |
-|  | **Team:** [Overleaf Setup](https://www.overleaf.com) | |
-| |  [ATLB Discussion: Chapter 5](../ATLB-Discussion) | |
+| Feb 17 | **No Class** | Spring Break |
+| | | |
+| Feb 20 | [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | [Overleaf Setup](https://www.overleaf.com) |
+| | Effective Mental Models | [Mental Models](../MentalModels) |
+| | [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
+| | [ATLB Discussion: Chapters 5, 6 & 7](../ATLB-Discussion)  | |
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Feb 20 | Effective Mental Models | [Mental Models](../MentalModels) |
-| | [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
-| |  [ATLB Discussion: Chapters 6 & 7](../ATLB-Discussion)  | |
-| | | |
-| Feb 24 | 1-on-1 review of GitHub Issues resources database with instructor (virtual)| Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| Feb 24 | 1-on-1 review of GitHub Issues resources database with instructor (virtual)| I am expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | | |
 | Feb 27 | **No Class** |  Work intensely on building your knowledge and expertise! |
 | | | |

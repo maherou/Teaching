@@ -45,10 +45,10 @@ location: "Collegeville, MN, USA"
 | | | |
 | | **Team:** Set up GitHub Issues-only repos| |
 | | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place \*.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
-| Feb 17 | **No Class** | Spring Break |
+| Feb 17 | **No Class** | |
 | | | |
 | Feb 20 | [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | [Overleaf Setup](https://www.overleaf.com) |
-| | Effective Mental Models | [Mental Models](../MentalModels) |
+| | [Effective Mental Models](../MentalModels) | |
 | | [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | | [ATLB Discussion: Chapters 5, 6 & 7](../ATLB-Discussion)  | |
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |

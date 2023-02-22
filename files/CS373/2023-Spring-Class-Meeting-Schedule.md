@@ -43,11 +43,12 @@ location: "Collegeville, MN, USA"
 | Feb 13 |  Short-clip video in-class viewing ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
 | |  [ATLB Discussion: Chapters 3 & 4](../ATLB-Discussion)  | |
 | | | |
-| | **Team:** Set up GitHub Issues-only repos| |
+| | Set up GitHub Issues-only repos| |
 | | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place \*.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 | Feb 17 | **No Class** | |
 | | | |
-| Feb 20 | [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | [Overleaf Setup](https://www.overleaf.com) |
+| Feb 20 | Generative AI Experiences: Discussion | |
+| | [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | [Overleaf Setup](https://www.overleaf.com) |
 | | [Effective Mental Models](../MentalModels) | |
 | | [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | | [ATLB Discussion: Chapters 5, 6 & 7](../ATLB-Discussion)  | |
@@ -67,7 +68,8 @@ location: "Collegeville, MN, USA"
 | | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
 | | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | | |
-| Mar 20 | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
+| Mar 20 | Generative AI Experiences: Discussion | |
+| | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
 | | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 | | | |
 | Mar 24 | Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion |
@@ -88,8 +90,8 @@ location: "Collegeville, MN, USA"
 | | | |
 | Apr 17 | **No class** | At NSF ACCI Meeting |
 | | | |
-| Apr 21 |  | |
-| |  Preparations for final weeks, review checklists | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf))  |
+| Apr 21 | Generative AI Experiences: Discussion | |
+| | Preparations for final weeks, review checklists | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf))  |
 | |  [ATLB Discussion: Chapters 10-11](../ATLB-Discussion) |  |
 | |  In-class Scott Hanselman Talk | ["Scaling Yourself"](https://youtu.be/V4NJo2Mfvrc) |
 | | | |
@@ -100,7 +102,8 @@ location: "Collegeville, MN, USA"
 | | | |
 | May 1 | **TBD** |  |
 | | | |
-| May 5 | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
+| May 5 | Generative AI Experiences: Discussion | |
+| | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
 | | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | | |

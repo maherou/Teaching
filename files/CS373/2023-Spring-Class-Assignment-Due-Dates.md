@@ -32,11 +32,11 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | | **Team:** Set up GitHub Issues-only repos| |
 | 2023-02-20 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2023-02-24 |Submit revised survey paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
-| 2023-02-24 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email before class |
 | 2023-02-27 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2023-03-03 | Tech Analysis Paper complete draft [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2023tap) in Submissions section |
 | 2023-03-13 | Discuss ATLB: Chapters 6 & 7 | [ATLB Book Details](../ATLB-Discussion) |
 | 2023-03-14 | Complete Tech Analysis Paper team reviews [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2023tap) Reviews section |
+| 2023-03-19 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email before class |
 | 2023-03-20 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2023-03-24 | Tech Analysis recorded presentation [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class|
 | 2023-03-27 | Final version Tech Analysis paper [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review. Send PDF by email |

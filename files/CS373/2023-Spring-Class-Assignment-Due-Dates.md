@@ -32,7 +32,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2023-02-20 | Set up GitHub Issues-only repos| |
 | 2023-02-20 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2023-02-24 |Submit revised survey paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
-| 2023-02-27 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
+| 2023-03-01 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2023-03-17 | Tech Analysis Paper complete draft [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2023tap) in Submissions section |
 | 2023-03-19 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email before class |
 | 2023-03-20 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |

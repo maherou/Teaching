@@ -68,7 +68,7 @@ location: "Collegeville, MN, USA"
 | | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
 | | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | | |
-| Mar 17 | **Individual:** Progress status | 1-on-1  meeting |
+| Mar 15 | **Individual:** Progress status | 1-on-1  meeting |
 | | | |
 | Mar 20 | Generative AI Experiences: Discussion | |
 | | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |

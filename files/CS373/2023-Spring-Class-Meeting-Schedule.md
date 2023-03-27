@@ -78,35 +78,37 @@ location: "Collegeville, MN, USA"
 | | | |
 | Mar 27 | **No Class** | |
 | | | |
-| Mar 31 | **Individual:** Progress status | 1-on-1  meeting |
+| Mar 31 | **No Class** | |
 | | | |
-| Apr 3 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
-| |  [ATLB Discussion: Chapter 8-9](../ATLB-Discussion) | |
-| |  [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+| Apr 3 | **Individual:** Progress status | 1-on-1 meeting |
 | | | |
 | Apr 7 | **No class** | Easter Break |
 | | | |
 | Apr 10 | **No class** | Easter Break |
 | | | |
-| Apr 14 | **Individual:** Progress status, review of paper checklist | 1-on-1 meeting |
+| Apr 14 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
+| |  [ATLB Discussion: Chapter 8-9](../ATLB-Discussion) |
+| |  [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
 | | | |
 | Apr 17 | **No class** | At NSF ACCI Meeting |
 | | | |
 | Apr 21 | Generative AI Experiences: Discussion | |
-| | Preparations for final weeks, review checklists | **Team:** [Review of presentation & paper checklists: HB, pg 25, 26](../CSCI373CourseHandbookLatestEdition.pdf))  |
+| | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf))  |
 | |  [ATLB Discussion: Chapters 10-11](../ATLB-Discussion) |  |
 | |  In-class Scott Hanselman Talk | ["Scaling Yourself"](https://youtu.be/V4NJo2Mfvrc) |
 | | | |
-| Apr 24 | **TBD** |  |
+| Apr 24 | **No Class** |  |
 | | | |
 | Apr 28 |  [ATLB Discussion: Conclusion](../ATLB-Discussion) |  |
-| | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
-| | | |
-| May 1 | **TBD** |  |
-| | | |
-| May 5 | Generative AI Experiences: Discussion | |
-| | **Team:** SOTF Presentation Slide Laydown: [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | **Team-based Slide Laydown of Formal presentations** |
+| | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
 | | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
+| | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+| | | |
+| May 1 | **No Class** |  |
+| | | |
+| May 5 | **No Class** |  |
+| | | |
+| May 11 | Virtual 1-1 Slide Laydown of SOTF presentations | See [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) and [(HB, pg 25)](../CSCI373CourseHandbookLatestEdition.pdf) | 
 | | | |
 | May 12 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Spring-Final-Presentation-Schedule) |

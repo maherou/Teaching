@@ -96,7 +96,7 @@ location: "Collegeville, MN, USA"
 | | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf))  |
 | |  [ATLB Discussion: Chapters 10-11](../ATLB-Discussion) |  |
 | |  In-class Scott Hanselman Talk | [Scaling Yourself](https://youtu.be/V4NJo2Mfvrc) |
-| | One more Hanselman talk if you are interested | Building Teams Through Systems Thinking and Stories](https://www.youtube.com/live/VFIw0LlULyc?feature=share)
+| | One more Hanselman talk if you are interested | [Building Teams Through Systems Thinking and Stories](https://www.youtube.com/live/VFIw0LlULyc?feature=share)
 | | | |
 | Apr 24 | **No Class** |  |
 | | | |

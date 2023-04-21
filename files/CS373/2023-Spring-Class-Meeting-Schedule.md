@@ -95,20 +95,21 @@ location: "Collegeville, MN, USA"
 | Apr 21 | Generative AI Experiences: Discussion | |
 | | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf))  |
 | |  [ATLB Discussion: Chapters 10-11](../ATLB-Discussion) |  |
-| |  In-class Scott Hanselman Talk | ["Scaling Yourself"](https://youtu.be/V4NJo2Mfvrc) |
+| |  In-class Scott Hanselman Talk | [Scaling Yourself](https://youtu.be/V4NJo2Mfvrc) |
+| | One more Hanselman talk if you are interested | Building Teams Through Systems Thinking and Stories](https://www.youtube.com/live/VFIw0LlULyc?feature=share)
 | | | |
 | Apr 24 | **No Class** |  |
 | | | |
-| Apr 28 |  [ATLB Discussion: Conclusion](../ATLB-Discussion) |  |
+| Apr 28 | [Official Course Evaluation](https://csbsju.iasystem.org/survey/15349)
 | | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
 | | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
+| |  [ATLB Discussion: Conclusion](../ATLB-Discussion) |  |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
 | May 1 | **No Class** |  |
 | | | |
 | May 5 | **No Class** |  |
+| | Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
 | | | |
-| May 11 | Virtual 1-1 Slide Laydown of SOTF presentations | See [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) and [(HB, pg 25)](../CSCI373CourseHandbookLatestEdition.pdf) | 
-| | | |
-| May 12 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Spring-Final-Presentation-Schedule) |
+| May 11 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Spring-Final-Presentation-Schedule) |

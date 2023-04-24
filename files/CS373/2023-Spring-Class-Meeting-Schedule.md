@@ -6,7 +6,7 @@ tags: [Teaching, Writing, Presenting, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
-## CSCI 373: Fall 2022 Class Schedule
+## CSCI 373: Spring 2023 Class Schedule
 
 ### Michael A. Heroux
 

@@ -23,15 +23,15 @@ Register in advance for this meeting: [Zoom Registration Link](https://csbsju.zo
 | -------- | ----------- | --------- | ------------ |
 | 10:00 | Max Vogel | | |
 | 10:15 | Cameron Bjork |Security Frameworks in Cloud Computing | This presentation explores two approaches for addressing security challenges within cloud computing: dynamic changes to Virtual Machines (VMs) and secure orchestration of containers. The Security Service Level Agreement-Moving Target Defense framework provides a way to dynamically change VMs used by cloud applications by determining admissible configurations that respect a given Security SLA. Additionally, the Secure Container Orchestration (SCO) framework ensures that only trusted code runs inside the enclave and that the code has not been modified since it was signed. As cloud-native technologies continue to grow, looking back at frameworks such as the SCO and SLA-MTD and how they address security of the application from the cloud service provider will be increasingly important for the future development of security in cloud applications.|
-| 10:30 | Zachariah Kratz | | |
-| 10:45 | Cavin Allen | | |
-| 11:00 | Mario Montalvo | | |
+| 10:30 | Cavin Allen | | |
+| 10:45 | Mario Montalvo | | |
+| 11:00 | Maria Bedford | | |
 | 11:15 | Break | | |
-| 11:30 | Maria Bedford | | |
-| 11:45 | Joe Koller | | |
-| 12:00 | Noah  Presseller | | |
-| 12:15 | Zachary Patock | Unleashing the Power of Data |Database management systems (DBMS) are indispensable tools for modern applications and data-driven businesses. As technology continues to evolve and new data management techniques emerge, the use of serverless platforms for data management is becoming increasingly prevalent. This paper aims to provide a comprehensive overview of the advantages and disadvantages of using a database management system. A detailed examination of DBMSs, including their architecture, functionality, and limitations, will be used to compare the performance of various DBMSs implemented in production environments. The paper adopts a comparative analysis approach to evaluate the performance of various DBMSs. A better understanding of the advantages and limitations of DBMSs can help businesses optimize their data management systems and improve overall performance. The results of this study are generalizable and could be used to improve DBMSs in various real-world scenarios. |
-| 12:30 | Michael Murphy |Navigational Algorithms |Understanding the differences between Dijkstra's and A* algorithms and their respective advantages and disadvantages is crucial for efficiently solving complex graph problems. This knowledge can have practical applications in various fields such as transportation, logistics and robotics. Additionally, exploring ethical implications related to the use of these algorithms in decision-making processes can contribute to the development of responsible and fair solutions.  |
+| 11:30 | Joe Koller | | |
+| 11:45 | Noah  Presseller | | |
+| 12:00 | Zachary Patock | Unleashing the Power of Data |Database management systems (DBMS) are indispensable tools for modern applications and data-driven businesses. As technology continues to evolve and new data management techniques emerge, the use of serverless platforms for data management is becoming increasingly prevalent. This paper aims to provide a comprehensive overview of the advantages and disadvantages of using a database management system. A detailed examination of DBMSs, including their architecture, functionality, and limitations, will be used to compare the performance of various DBMSs implemented in production environments. The paper adopts a comparative analysis approach to evaluate the performance of various DBMSs. A better understanding of the advantages and limitations of DBMSs can help businesses optimize their data management systems and improve overall performance. The results of this study are generalizable and could be used to improve DBMSs in various real-world scenarios. |
+| 12:15 | Michael Murphy |Navigational Algorithms |Understanding the differences between Dijkstra's and A* algorithms and their respective advantages and disadvantages is crucial for efficiently solving complex graph problems. This knowledge can have practical applications in various fields such as transportation, logistics and robotics. Additionally, exploring ethical implications related to the use of these algorithms in decision-making processes can contribute to the development of responsible and fair solutions.  |
+| 12:30 | Zachariah Kratz | | |
 
 ### Session 2: 1:30 - 4:00, Thursday, May 11
 

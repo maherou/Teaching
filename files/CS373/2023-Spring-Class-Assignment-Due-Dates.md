@@ -47,5 +47,5 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2023-04-28 | Discuss ATLB: Conclusion | [ATLB Book Details](../ATLB-Discussion) |
 | 2023-05-05 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/d6xJTCqofyq4jXGh8) |
 | 2023-05-08 | Draft SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
-| 2023-05-12 | Final SOTF Talk [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Fall-Final-Presentation-Schedule) |
+| 2023-05-11 | Final SOTF Talk [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Fall-Final-Presentation-Schedule) |
 | 2023-05-12 | Final SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |

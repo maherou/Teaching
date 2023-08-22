@@ -10,5 +10,5 @@ location: "Collegeville, MN, USA"
 
 
 ### Michael Heroux Whitepapers on Using Generative AI for Computer Science Research:
-- [Embracing Generative AI Tools for Capstone](./files/papers/2023-05-31-Embracing-Generative-AI-Tools-for-Capstone-Heroux.pdf)
-- [Using AI Personas for Capstone](./files/papers/2023-08-17-Using-AI-Personas-for-Capstone-Heroux.pdf)
+- [Embracing Generative AI Tools for Capstone](https:maherou.github.io/files/papers/2023-05-31-Embracing-Generative-AI-Tools-for-Capstone-Heroux.pdf)
+- [Using AI Personas for Capstone](https://maherou.github.io/files/papers/2023-08-17-Using-AI-Personas-for-Capstone-Heroux.pdf)

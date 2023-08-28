@@ -17,7 +17,7 @@ location: "Collegeville, MN, USA"
 | | Intro to Generative AI Tools | [Generative AI Tools](../GenerativeAITools/2023-09-Heroux-GenerativeAITools.pptx) | 
 | | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/fall-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2023-Fall-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2023-Fall-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
 | | AI Resource Page | [AI-Assisted Computer Science Research](https://maherou.github.io/Teaching/AI-Assisted-Research/)| 
-| | First AI-Assisted Task | [Scenarios: Personas, Contexts, Tasks](../GenerativeAITools/2023-09-Heroux-ScenariosPersonasContexts)| 
+| | First AI-Assisted Task | [Scenarios: Personas, Contexts, Tasks](../GenerativeAITools/2023-09-Heroux-ScenariosPersonasContexts.pptx)| 
 | | | |
 | Sep 1 |  Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 | | **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Jan 27 using a Google Form  |  

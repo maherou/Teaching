@@ -16,8 +16,9 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | ---------- | --- | --- |
 | Ongoing | Find resources in topic area | Ongoing activity throughout the course. [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/) |
 | 2023-08-28 | Create a generative AI tool account | Consider [ChatGPT](https://chat.openai.com) |
+| 2023-09-01 | Submit content reflections by 12 noon CT **This assignment is due every Friday during semester, except Thanksgiving break** | [Submit here](https://forms.gle/99m7TCQNvQo7cFQu7)
 | 2023-09-01 | List of 3-5 research topics | Use generative AI tools |
-| 2023-09-04 | Sign up for class Slack workspace | [Slack Signup]()  |
+| 2023-09-04 | Sign up for class Slack workspace | [Slack Signup](https://join.slack.com/t/newworkspace-v9a6356/shared_invite/zt-21zhvcrzb-EI83fvHjquviHdwmKXUfkQ)  |
 | 2023-09-01 | Handbook Quiz | In-class quiz on the [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) |
 | 2023-09-04 | Hobby talks | See [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) for details |
 | 2023-09-08 | Titles and Abstracts | Details [here](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) |

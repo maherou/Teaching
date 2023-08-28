@@ -15,7 +15,7 @@ location: "Collegeville, MN, USA"
 | Aug 28 | Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
 | |  Course Handbook Intro | [Downloadable PDF of Handbook](../CSCI373CourseHandbookLatestEdition.pdf)  |
 | | Intro to Generative AI Tools | [Generative AI Tools](../GenerativeAITools/2023-09-Heroux-GenerativeAITools.pptx) | 
-| | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/2023-01-01-spring-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2023-Spring-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2023-Spring-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
+| | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/fall-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2023-Spring-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2023-Spring-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
 | | AI Resource Page | [AI-Assisted Computer Science Research](https://maherou.github.io/Teaching/AI-Assisted-Research/)| 
 | | First AI-Assisted Task | [Scenarios: Personas, Contexts, Tasks](../GenerativeAITools/2023-09-Heroux-ScenariosPersonasContexts)| 
 | | | |

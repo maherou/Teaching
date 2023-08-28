@@ -40,12 +40,14 @@ location: "Collegeville, MN, USA"
 | |  Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | | |
 | Sep 18 |  Short-clip video in-class viewing ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
+| | In-class Reveal discussions | |
 | | Set up GitHub Issues-only repos| |
 | | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place \*.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 | | | |
 | Sep 22 | **No Class** | Attending the [NSF Advisory Committee on Cyberinfrastructure Fall 2023 Meeting](https://www.nsf.gov/cise/oac/ACCI_Members.pdf) |
 | | | |
 | Sep 25 | Generative AI Experiences: Discussion | |
+| | In-class Reveal discussions | |
 | | [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | [Overleaf Setup](https://www.overleaf.com) |
 | | [Effective Mental Models](../MentalModels) | |
 | | [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
@@ -55,6 +57,7 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 2 | [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
 | | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
+| | In-class Reveal discussions | |
 | | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | | |
 | Oct 6 | **Individual:** Progress status | 1-on-1  meeting |
@@ -62,43 +65,50 @@ location: "Collegeville, MN, USA"
 | Oct 9 | **No Class** | Long Weekend|
 | | | |
 | Oct 13 | Generative AI Experiences: Discussion | |
+| | In-class Reveal discussions | |
 | | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
 | | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 | | | |
 | Oct 16 | **No Class** | Speaking at US RSE Conference ["Research Software Science: A Complement to and Companion of Research Software Engineering"](https://us-rse.org/usrse23/program/sessions/#session-8-culture--community-2)|
 | | | |
-| Oct 20 | Viewing of recorded Technical Analysis Presentations| Two 9-talk sesssion |
+| Oct 20 | Viewing of recorded Technical Analysis Presentations| Two 6-talk sesssion |
 | | | |
 | Oct 23 | **Individual:** Progress status | 1-on-1 meeting |
 | | | |
 | Oct 27 | **TBD** | |
+| | In-class Reveal discussions | |
 | | | |
-| Apr 10 | **No class** | Easter Break |
+| Oct 30 | **TBD** | |
 | | | |
-| Apr 14 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
-| |  [ATLB Discussion: Chapter 8-9](../ATLB-Discussion) |
-| |  [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
-| | | |
-| Apr 17 | **No class** | At NSF ACCI Meeting |
-| | | |
-| Apr 21 | Generative AI Experiences: Discussion | |
+| Nov 3 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
 | | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf))  |
-| |  [ATLB Discussion: Chapters 10-11](../ATLB-Discussion) |  |
+| | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
+| | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
+| | | |
+| Nov 6 | **TBD** | |
+| | In-class Reveal discussions | |
+| | Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
+| | | |
+| Nov 10 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Spring-Final-Presentation-Schedule) |
+| | | |
+| Nov 13 | **No class** | At Supercomputing 2023 |
+| | | |
+| Nov 17 | **No class** | At Supercomputing 2023 |
+| | | |
+| Nov 20 | Generative AI Experiences: Discussion | |
+| | In-class Reveal discussions | |
 | |  In-class Scott Hanselman Talk | [Scaling Yourself](https://youtu.be/V4NJo2Mfvrc) |
 | | One more Hanselman talk if you are interested | [Building Teams Through Systems Thinking and Stories](https://www.youtube.com/live/VFIw0LlULyc?feature=share)
 | | | |
-| Apr 24 | **No Class** |  |
+| Nov 27 | In-class Reveal discussions |  |
 | | | |
-| Apr 28 | [Official Course Evaluation](https://csbsju.iasystem.org/survey/15349)
-| | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
+| Dec 1 | In-class Reveal discussions |  |
+| | | |
+| Dec 4 | In-class Reveal discussions |  |
+| | | |
+| Dec 8 | In-class Reveal discussions |  |
+| | | |
+| Dec 11 | [Official Course Evaluation](https://csbsju.iasystem.org/survey/15349) | |
 | | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
-| |  [ATLB Discussion: Conclusion](../ATLB-Discussion) |  |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
-| | | |
-| May 1 | **No Class** |  |
-| | | |
-| May 5 | **No Class** |  |
-| | Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
-| | | |
-| May 11 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Spring-Final-Presentation-Schedule) |

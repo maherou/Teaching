@@ -20,7 +20,7 @@ location: "Collegeville, MN, USA"
 | | First AI-Assisted Task | [Scenarios: Personas, Contexts, Tasks](../GenerativeAITools/2023-09-Heroux-ScenariosPersonasContexts.pptx)| 
 | | | |
 | Sep 1 |  Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
-| | **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Jan 27 using a Google Form  |  
+| | **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 1 using a Google Form  |  
 | | **Team:** Quiz challenge| Each team takes the quizzes created by other teams |
 | |  Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
 | |  [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |

@@ -26,9 +26,9 @@ location: "Collegeville, MN, USA"
 | |  [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
 | | **Team:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | | |
-| Sep 4 |  Hobby Talks| |
-| |   _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students)|
+| Sep 4 | _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students)|
 | |  [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+| | Hobby Talks | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
 | Sep 8 | **No Class** | At the HPC User Forum, Speaking: [ECP Update and Future Sustainability Efforts](https://www.hpcuserforum.com/wp-content/uploads/2023/08/Agenda-Tucson-2023-HPC-User-Forum-8.17.2023-V10.pdf)

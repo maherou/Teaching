@@ -47,7 +47,6 @@ location: "Collegeville, MN, USA"
 | Sep 22 | **No Class** | Attending the [NSF Advisory Committee on Cyberinfrastructure Fall 2023 Meeting](https://www.nsf.gov/cise/oac/ACCI_Members.pdf) |
 | | | |
 | Sep 25 | Generative AI Experiences: Discussion | |
-| | In-class Reveal discussions | |
 | | [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | [Overleaf Setup](https://www.overleaf.com) |
 | | [Effective Mental Models](../MentalModels) | |
 | | [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |

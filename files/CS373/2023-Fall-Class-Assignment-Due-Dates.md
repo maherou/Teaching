@@ -33,7 +33,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2023-10-13 | Tech Analysis Paper complete draft [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2023tap) in Submissions section |
 | 2023-10-13 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email before class |
 | 2023-10-13 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
-| 2023-10-16 | Complete Tech Analysis Paper team reviews [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2023tap) Reviews section |
+| 2023-10-17 | Complete Tech Analysis Paper reviews [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2023tap) Reviews section |
 | 2023-10-20 | Tech Analysis recorded presentation [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class|
 | 2023-10-23 | Final version Tech Analysis paper [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review. Send PDF by email by 11:59 pm |
 | 2023-10-27 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 

@@ -70,7 +70,7 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 16 | **No Class** | Speaking at US RSE Conference ["Research Software Science: A Complement to and Companion of Research Software Engineering"](https://us-rse.org/usrse23/program/sessions/#session-8-culture--community-2)|
 | | | |
-| Oct 20 | Viewing of recorded Technical Analysis Presentations| Two 6-talk sesssion |
+| Oct 20 | Viewing of recorded Technical Analysis Presentations|  |
 | | | |
 | Oct 23 | **No Class** | |
 | | | |

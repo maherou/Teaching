@@ -72,12 +72,11 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 20 | Viewing of recorded Technical Analysis Presentations| Two 6-talk sesssion |
 | | | |
-| Oct 23 | **Individual:** Progress status | 1-on-1 meeting |
+| Oct 23 | **No Class** | |
 | | | |
-| Oct 27 | **TBD** | |
-| | In-class Reveal discussions | |
+| Oct 27 | **Individual:** Progress status | 1-on-1 meeting |
 | | | |
-| Oct 30 | **TBD** | |
+| Oct 30 | **No Class** | |
 | | | |
 | Nov 3 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
 | | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf))  |

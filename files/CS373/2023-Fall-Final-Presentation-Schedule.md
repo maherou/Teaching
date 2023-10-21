@@ -8,7 +8,7 @@ location: "Collegeville, MN, USA"
 
 ## CSCI 373: Fall 2023 Final Presentation Schedule
 
-### Location: Room 270, Main Building, CSB and Virtual via Zoom
+### Location: Room TBD, Main Building, CSB and Virtual via Zoom
 
 Family and friends are welcome to attend in person or via Zoom.  
 

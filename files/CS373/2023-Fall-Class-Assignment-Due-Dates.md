@@ -37,9 +37,9 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2023-10-20 | Tech Analysis recorded presentation [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class|
 | 2023-10-23 | Final version Tech Analysis paper [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review. Send PDF by email by 11:59 pm |
 | 2023-10-27 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 
-| 2023-11-03 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
-| 2023-11-06 | Optional Assignment: Create GitHub Pages personal website | Send DH link to website |
-| 2023-11-06 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/d6xJTCqofyq4jXGh8) |
-| 2023-11-06 | Draft SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
-| 2023-11-10 | Final SOTF Talk [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Fall-Final-Presentation-Schedule) |
-| 2023-11-17 | Final SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
+| 2023-11-06 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
+| 2023-11-10 | Optional Assignment: Create GitHub Pages personal website | Send DH link to website |
+| 2023-11-20 | Draft SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
+| 2023-11-27 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/d6xJTCqofyq4jXGh8) |
+| 2023-12-01 | Final SOTF Talk [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Fall-Final-Presentation-Schedule) |
+| 2023-12-08 | Final SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |

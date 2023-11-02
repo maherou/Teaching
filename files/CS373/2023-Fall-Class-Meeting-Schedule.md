@@ -78,29 +78,26 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 30 | **No Class** | |
 | | | |
-| Nov 3 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
-| | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf))  |
-| | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
-| | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
+| Nov 3 | Review: CS component of your project | Class ends at 3 pm |
 | | | |
-| Nov 6 | **TBD** | |
+| Nov 6 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
 | | In-class Reveal discussions | |
-| | Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
 | | | |
-| Nov 10 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Fall-Final-Presentation-Schedule) |
+| Nov 10 | Generative AI Experiences: Discussion | |
+| | In-class Reveal discussions | |
 | | | |
 | Nov 13 | **No class** | At Supercomputing 2023 |
 | | | |
 | Nov 17 | **No class** | At Supercomputing 2023 |
 | | | |
-| Nov 20 | Generative AI Experiences: Discussion | |
-| | In-class Reveal discussions | |
-| |  In-class Scott Hanselman Talk | [Scaling Yourself](https://youtu.be/V4NJo2Mfvrc) |
-| | One more Hanselman talk if you are interested | [Building Teams Through Systems Thinking and Stories](https://www.youtube.com/live/VFIw0LlULyc?feature=share)
+| Nov 20 | **Individual:** Progress status | 1-on-1 meeting |
 | | | |
-| Nov 27 | In-class Reveal discussions |  |
+| Nov 27 | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf))  |
+| | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
+| | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
+| | Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
 | | | |
-| Dec 1 | In-class Reveal discussions |  |
+| Dec 1 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Fall-Final-Presentation-Schedule) |
 | | | |
 | Dec 4 | In-class Reveal discussions |  |
 | | | |

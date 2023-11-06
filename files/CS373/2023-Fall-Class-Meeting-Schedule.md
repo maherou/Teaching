@@ -78,7 +78,7 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 30 | **No Class** | |
 | | | |
-| Nov 3 | Review: CS component of your project | Class ends at 3 pm |
+| Nov 3 | Review: CS component of your project | [CS Component Guidance](./CSComponent.md) |
 | | | |
 | Nov 6 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
 | | In-class Reveal discussions | |

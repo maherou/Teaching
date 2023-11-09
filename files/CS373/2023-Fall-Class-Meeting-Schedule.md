@@ -85,6 +85,7 @@ location: "Collegeville, MN, USA"
 | | In-class Reveal discussions | |
 | | | |
 | Nov 10 | Generative AI Experiences: Discussion | |
+| | In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
 | | In-class Reveal discussions | |
 | | | |
 | Nov 13 | **No class** | At Supercomputing 2023 |

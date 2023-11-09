@@ -58,6 +58,7 @@ location: "Collegeville, MN, USA"
 | | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
 | | In-class Reveal discussions | |
 | | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| | Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
 | | | |
 | Oct 6 | **Individual:** Progress status | 1-on-1  meeting |
 | | | |
@@ -78,7 +79,7 @@ location: "Collegeville, MN, USA"
 | | | |
 | Oct 30 | **No Class** | |
 | | | |
-| Nov 3 | Review: CS component of your project | [CS Component Guidance](./CSComponent.md) |
+| Nov 3 | Review: Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
 | | | |
 | Nov 6 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
 | | In-class Reveal discussions | |

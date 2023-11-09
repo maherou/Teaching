@@ -30,6 +30,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2023-09-29 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2023-10-02 |Submit revised survey paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | 2023-10-02 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
+| 2023-10-06 | Submit draft thesis statement | [Thesis Statement](./ThesisStatement.md) |
 | 2023-10-13 | Tech Analysis Paper complete draft [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2023tap) in Submissions section |
 | 2023-10-13 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email before class |
 | 2023-10-13 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
@@ -37,6 +38,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2023-10-20 | Tech Analysis recorded presentation [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class|
 | 2023-10-23 | Final version Tech Analysis paper [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review. Send PDF by email by 11:59 pm |
 | 2023-10-27 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 
+| 2023-11-06 | Submit revised thesis statement | [Thesis Statement](./ThesisStatement.md) |
 | 2023-11-06 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
 | 2023-11-10 | Optional Assignment: Create GitHub Pages personal website | Send DH link to website |
 | 2023-11-20 | Draft SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |

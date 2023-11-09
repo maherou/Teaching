@@ -1,12 +1,12 @@
 ---
 layout: coursepost
-title: "CS373 - CS Component"
-description: Computer Science Component
+title: "CS373 - Thesis Statement"
+description: Your SOTF Project must have a strong CS component.  A good thesis statement assists you in ensuring this requirement.
 tags: [Teaching, Writing, Presenting, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
-## Computer Science Requirements for Your Project
+## Thesis Statement: Addressing the Computer Science Requirements for Your Project
 
 ### Your Project Must Have a Significant Computer Science Component
 The basic test for the success of your project is: _Does it require your computer science background to understand and do the work?_

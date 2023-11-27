@@ -44,6 +44,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2023-11-20 | Draft SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
 | 2023-11-27 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/d6xJTCqofyq4jXGh8) |
 | 2023-11-27 | Submit video clip for in-class Reveal discussions | Google submission sheet is [here](https://docs.google.com/spreadsheets/d/1X9lnNhuZnz5B0PQIjGZ0NnBeM0XF3_OA8f5Mzc1M66U/edit#gid=0) |
-| 2023-12-01 | Final SOTF Talk [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Fall-Final-Presentation-Schedule) |
-| 2023-12-08 | Final SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
+| 2023-12-04 | Final SOTF Talk [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal 10-minute presentations**](../2023-Fall-Final-Presentation-Schedule) |
+| 2023-12-07 | Final SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** 
+| 2023-12-08 | Final SOTF Interview [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | **In person** |
 | 2023-12-11 | In-class Demonstrations [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Show video or give live demonstration related to your project |

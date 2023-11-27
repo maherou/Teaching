@@ -99,11 +99,11 @@ location: "Collegeville, MN, USA"
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
 | | Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
 | | | |
-| Dec 1 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2023-Fall-Final-Presentation-Schedule) |
+| Dec 1 | In-class Reveal discussions |  |
 | | | |
-| Dec 4 | In-class Reveal discussions |  |
+| Dec 4 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal 10-minute presentations**](../2023-Fall-Final-Presentation-Schedule) |
 | | | |
-| Dec 8 | In-class Reveal discussions |  |
+| Dec 8 | SOTF Expertise Interviews | In person |
 | | | |
 | Dec 11 | [Official Course Evaluation](https://csbsju.iasystem.org/survey/15349) | |
 | | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |

@@ -99,13 +99,15 @@ location: "Collegeville, MN, USA"
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
 | | Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
 | | | |
-| Dec 1 | In-class Reveal discussions |  |
+| Dec 1 | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf))  |
+| | In-class Reveal discussions |  |
+| | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
 | | | |
 | Dec 4 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal 10-minute presentations**](../2023-Fall-Final-Presentation-Schedule) |
 | | | |
 | Dec 8 | SOTF Expertise Interviews | In person |
 | | | |
-| Dec 11 | [Official Course Evaluation](https://csbsju.iasystem.org/survey/15349) | |
+| Dec 11 | [Official Course Evaluation](https://csbsju.iasystem.org/survey/16139) | |
 | | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
 | | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |

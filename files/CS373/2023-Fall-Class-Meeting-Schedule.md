@@ -107,7 +107,8 @@ location: "Collegeville, MN, USA"
 | | | |
 | Dec 8 | SOTF Expertise Interviews | In person |
 | | | |
-| Dec 11 | [Official Course Evaluation](https://csbsju.iasystem.org/survey/16139) | |
+| Dec 11| **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
+| | Menti Quiz Challenge | |
 | | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
-| | **Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+| | [Official Course Evaluation](https://csbsju.iasystem.org/survey/16139) | |

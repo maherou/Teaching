@@ -6,110 +6,109 @@ tags: [Teaching, Writing, Presenting, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
-## CSCI 373: Fall 2023 Class Schedule
+## CSCI 373: Spring 2024 Class Schedule
 
 ### Michael A. Heroux
 
 | **Date** | **Assignment and Exercises** | **Notes** |
 | ---------- | --- | --- |
-| Aug 28 | Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
+| Jan 19 | Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
 | |  Course Handbook Intro | [Downloadable PDF of Handbook](../CSCI373CourseHandbookLatestEdition.pdf)  |
 | | Intro to Generative AI Tools | [Generative AI Tools](../GenerativeAITools/2023-09-Heroux-GenerativeAITools.pptx) | 
-| | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/fall-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2023-Fall-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2023-Fall-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
+| | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/spring2024-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2024-Spring-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2024-Spring-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
 | | AI Resource Page | [AI-Assisted Computer Science Research](https://maherou.github.io/Teaching/AI-Assisted-Research/)| 
 | | First AI-Assisted Task | [Scenarios: Personas, Contexts, Tasks](../GenerativeAITools/2023-09-Heroux-ScenariosPersonasContexts.pptx)| 
 | | | |
-| Sep 1 |  Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
-| | **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 1 using a Google Form  |  
+| Jan 22 | **Individual:** Progress status | 1-on-1  meeting **Virtual from airport** |
+| | | |
+| Jan 26 |  Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
+| | | |
+| Jan 29 |  **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 1 using a Google Form  |  
 | | **Team:** Quiz challenge| Each team takes the quizzes created by other teams |
 | |  Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
 | |  [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
 | | **Team:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | | |
-| Sep 4 | _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students)|
+| Feb 2 | _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students)|
 | |  [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
 | | Hobby Talks | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Sep 8 | **No Class** | At the HPC User Forum, Speaking: [ECP Update and Future Sustainability Efforts](https://www.hpcuserforum.com/wp-content/uploads/2023/08/Agenda-Tucson-2023-HPC-User-Forum-8.17.2023-V10.pdf)
+| Feb 5 | **No Class** | At DOE PI meeting, Atlanta, GA |
 | | | |
-| Sep 11 | In-class Reveal discussions | |
+| Feb 9 | In-class Reveal discussions | |
 | | **Individual:** Progress status 1-on-1  meeting | |
 | | | |
-| Sep 15 |  [A Better Professional You](./BetterYou.pdf) | |
+| Feb 12 |  [A Better Professional You](./BetterYou.pdf) | |
 | |  Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | | |
-| Sep 18 |  Short-clip video in-class viewing ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
+| Feb 16 |  Short-clip video in-class viewing ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
 | | In-class Reveal discussions | |
 | | Set up GitHub Issues-only repos| |
 | | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place \*.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 | | | |
-| Sep 22 | **No Class** | Attending the [NSF Advisory Committee on Cyberinfrastructure Fall 2023 Meeting](https://www.nsf.gov/cise/oac/ACCI_Members.pdf) |
-| | | |
-| Sep 25 | Generative AI Experiences: Discussion | |
+| Feb 19 | Generative AI Experiences: Discussion | |
 | | [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | [Overleaf Setup](https://www.overleaf.com) |
 | | [Effective Mental Models](../MentalModels) | |
 | | [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |
-| Sep 29 | 1-on-1 review of GitHub Issues resources database with instructor (virtual)| I am expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| Feb 23 | 1-on-1 review of GitHub Issues resources database with instructor (virtual)| I am expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | | |
-| Oct 2 | [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
+| Feb 26 | [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
 | | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
 | | In-class Reveal discussions | |
 | | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
 | | | |
-| Oct 6 | **Individual:** Progress status | 1-on-1  meeting |
+| Mar 1 | **Individual:** Progress status | 1-on-1  meeting |
 | | | |
-| Oct 9 | **No Class** | Long Weekend|
+| Mar 4 - 8 | **No Class** | Spring Break|
 | | | |
-| Oct 13 | Generative AI Experiences: Discussion | |
+| Mar 11 | Generative AI Experiences: Discussion | |
 | | In-class Reveal discussions | |
 | | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
 | | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 | | | |
-| Oct 16 | **No Class** | Speaking at US RSE Conference ["Research Software Science: A Complement to and Companion of Research Software Engineering"](https://us-rse.org/usrse23/program/sessions/#session-8-culture--community-2)|
+| Mar 15 | **No Class** | Speaking at ORAP meeting, Paris|
 | | | |
-| Oct 20 | Viewing of recorded Technical Analysis Presentations|  |
+| Mar 18 | **No Class** | At ACM Publications Board Meeting, Washington, DC |
 | | | |
-| Oct 23 | **No Class** | |
+| Mar 22 | Viewing of recorded Technical Analysis Presentations|  |
 | | | |
-| Oct 27 | **Individual:** Progress status | 1-on-1 meeting |
+| Mar 25 | **Individual:** Progress status | 1-on-1 meeting |
 | | | |
-| Oct 30 | **No Class** | |
+| Mar 29 | **No Class** | Easter Break|
 | | | |
-| Nov 3 | Review: Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
+| April 1 | Review: Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
 | | | |
-| Nov 6 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
+| Apr 5 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
 | | In-class Reveal discussions | |
 | | | |
-| Nov 10 | Generative AI Experiences: Discussion | |
+| Apr 8 | Generative AI Experiences: Discussion | |
 | | In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
 | | In-class Reveal discussions | |
 | | | |
-| Nov 13 | **No class** | At Supercomputing 2023 |
+| Apr 12 | **Individual:** Progress status | 1-on-1 meeting |
 | | | |
-| Nov 17 | **No class** | At Supercomputing 2023 |
+| Apr 15 | **No class** | At Daghstuhl Conference, Germany |
 | | | |
-| Nov 20 | **Individual:** Progress status | 1-on-1 meeting |
+| Apr 19 | **No class** | At Daghstuhl Conference, Germany |
 | | | |
-| Nov 27 | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf))  |
+| Apr 22-26 | **Individual:** Progress status | 1-on-1 meeting |
+| | | |
+| Apr 29 | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf))  |
 | | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
-| | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
-| | Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
-| | | |
-| Dec 1 | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf))  |
 | | In-class Reveal discussions |  |
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
-| | | |
-| Dec 4 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal 10-minute presentations**](../2023-Fall-Final-Presentation-Schedule) |
-| | | |
-| Dec 8 | SOTF Expertise Interviews | In person |
-| | | |
-| Dec 11| Project Demo Videos | [Link](https://docs.google.com/spreadsheets/d/1mxVe5t8q1eVcIYhp3C9jtcapS1hhovJkMEViuquVHKU/edit#gid=0) |
+| | Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
 | |**Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |
 | | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
-| | [Official Course Evaluation](https://csbsju.iasystem.org/survey/16139) | |
+|| | | |
+| May 3 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal 10-minute presentations**](../2024-Spring-Final-Presentation-Schedule) |
+| | Project Demo Videos | [Link](https://docs.google.com/spreadsheets/d/1mxVe5t8q1eVcIYhp3C9jtcapS1hhovJkMEViuquVHKU/edit#gid=0) |
+ | [Official Course Evaluation](https://csbsju.iasystem.org/survey/16139) | |
+ | | | |
+| May 7 - 9 | SOTF Expertise Interviews | In person |

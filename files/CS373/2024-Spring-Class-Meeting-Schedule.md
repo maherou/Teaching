@@ -14,10 +14,10 @@ location: "Collegeville, MN, USA"
 | ---------- | --- | --- |
 | Jan 19 | Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
 | |  Course Handbook Intro | [Downloadable PDF of Handbook](../CSCI373CourseHandbookLatestEdition.pdf)  |
-| | Intro to Generative AI Tools | [Generative AI Tools](../GenerativeAITools/2023-09-Heroux-GenerativeAITools.pptx) | 
+| | Intro to Generative AI Tools | [Generative AI Tools](../GenerativeAITools/2023-09-Heroux-GenerativeAITools.pdf) | 
 | | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/spring2024-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2024-Spring-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2024-Spring-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
 | | AI Resource Page | [AI-Assisted Computer Science Research](https://maherou.github.io/Teaching/AI-Assisted-Research/)| 
-| | First AI-Assisted Task | [Scenarios: Personas, Contexts, Tasks](../GenerativeAITools/2023-09-Heroux-ScenariosPersonasContexts.pptx)| 
+| | First AI-Assisted Task | [Scenarios: Personas, Contexts, Tasks](../GenerativeAITools/2024-01-Heroux-ScenariosPersonasContexts.pdf)| 
 | | | |
 | Jan 22 | **Individual:** Progress status | 1-on-1  meeting **Virtual from airport** |
 | | | |

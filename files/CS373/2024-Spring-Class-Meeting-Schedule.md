@@ -23,14 +23,14 @@ location: "Collegeville, MN, USA"
 | | | |
 | Jan 26 |  Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 | | | |
-| Jan 29 |  **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 1 using a Google Form  |  
+| Jan 29 |  _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students)|
+| |   **Team:** [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams using a Google Form  |  
 | | **Team:** Quiz challenge| Each team takes the quizzes created by other teams |
 | |  Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
 | |  [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
 | | **Team:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | | |
-| Feb 2 | _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students)|
-| |  [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+| Feb 2 |[Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
 | | Hobby Talks | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |

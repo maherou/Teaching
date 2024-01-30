@@ -31,6 +31,7 @@ location: "Collegeville, MN, USA"
 | | **Team:** Review topic area with DH | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
 | | | |
 | Feb 2 |[Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+| | In-class Reveal discussions | |
 | | Hobby Talks | |
 | | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | | |

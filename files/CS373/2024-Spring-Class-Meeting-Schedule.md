@@ -37,11 +37,11 @@ location: "Collegeville, MN, USA"
 | | | |
 | Feb 5 | **No Class** | At DOE PI meeting, Atlanta, GA |
 | | | |
-| Feb 9 | In-class Reveal discussions | |
-| | **Individual:** Progress status 1-on-1  meeting | |
+| Feb 9 | **Individual:** Progress status 1-on-1  meeting | |
 | | | |
 | Feb 12 |  [A Better Professional You](./BetterYou.pdf) | |
 | |  Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| | In-class Reveal discussions | |
 | | | |
 | Feb 16 |  Short-clip video in-class viewing ( [HB, pg 21](../CSCI373CourseHandbookLatestEdition.pdf)). | |
 | | In-class Reveal discussions | |

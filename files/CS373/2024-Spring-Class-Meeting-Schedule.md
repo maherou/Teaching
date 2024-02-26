@@ -56,20 +56,18 @@ location: "Collegeville, MN, USA"
 | | | |
 | Feb 23 | 1-on-1 review of GitHub Issues resources database with instructor (virtual)| I am expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | | |
-| Feb 26 | [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
-| | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
+| Feb 26 | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 | | In-class Reveal discussions | |
-| | Review GitHub Issues resources database with instructor | Expecting to see something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 | | Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
 | | | |
-| Mar 1 | **Individual:** Progress status | 1-on-1  meeting |
+| Mar 1 | **Individual:** Progress status (thesis statement, GitHub Resources) | 1-on-1  meeting |
 | | | |
 | Mar 4 - 8 | **No Class** | Spring Break|
 | | | |
-| Mar 11 | Generative AI Experiences: Discussion | |
+| Mar 11 | [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
+| | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
+| | Generative AI Experiences: Discussion | |
 | | In-class Reveal discussions | |
-| | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
-| | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 | | | |
 | Mar 15 | **No Class** | Speaking at ORAP meeting, Paris|
 | | | |
@@ -92,11 +90,11 @@ location: "Collegeville, MN, USA"
 | | | |
 | Apr 12 | **Individual:** Progress status | 1-on-1 meeting |
 | | | |
-| Apr 15 | **No class** | At Daghstuhl Conference, Germany |
+| Apr 15 | **No class** | At Oak Ridge National Lab |
 | | | |
-| Apr 19 | **No class** | At Daghstuhl Conference, Germany |
+| Apr 19 | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
 | | | |
-| Apr 22-26 | **Individual:** Progress status | 1-on-1 meeting |
+| Apr 22-26 | **No Class** | At Salishan Conference on High-Speed Computing |
 | | | |
 | Apr 29 | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf))  |
 | | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |

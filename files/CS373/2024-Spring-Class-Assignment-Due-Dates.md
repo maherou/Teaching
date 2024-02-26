@@ -30,7 +30,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2024-02-23 | Set up GitHub Issues-only repos| |
 | 2024-02-23 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2024-03-01 |Submit revised survey paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
-| 2024-04-01 | Submit revised [thesis statement](./ThesisStatement.md) | Submit prior to class |
+| 2024-03-01 | Submit revised [thesis statement](./ThesisStatement.md) | Submit prior to class |
 | 2024-03-01 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 
 | 2024-03-15 | Tech Analysis Paper complete draft [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2024tap) in Submissions section |
 | 2024-03-18 | Complete Tech Analysis Paper reviews [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2024tap) Reviews section |

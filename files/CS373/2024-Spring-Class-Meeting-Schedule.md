@@ -79,13 +79,13 @@ location: "Collegeville, MN, USA"
 | | | |
 | Mar 29 | **No Class** | Easter Break|
 | | | |
-| April 1 | Review: Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
+| April 1 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
 | | | |
-| Apr 5 | **Team:** [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
-| | In-class Reveal discussions | |
+| Apr 5 |  **No Class** | TGIF |
 | | | |
 | Apr 8 | Generative AI Experiences: Discussion | |
 | | In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
+| | In-class contributed video viewing and discussion | |
 | | In-class Reveal discussions | |
 | | | |
 | Apr 12 | **Individual:** Progress status | 1-on-1 meeting |
@@ -93,6 +93,8 @@ location: "Collegeville, MN, USA"
 | Apr 15 | **No class** | At Oak Ridge National Lab |
 | | | |
 | Apr 19 | [Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
+| | In-class contributed video viewing and discussion | |
+| | In-class Reveal discussions | |
 | | | |
 | Apr 22-26 | **No Class** | At Salishan Conference on High-Speed Computing |
 | | | |

@@ -32,7 +32,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2024-03-01 |Submit revised survey paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | 2024-03-01 | Submit revised [thesis statement](./ThesisStatement.md) | Submit prior to class |
 | 2024-03-01 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 
-| 2024-03-22 | Tech Analysis recorded presentation [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class|
+| 2024-03-22 | Tech Analysis recorded presentation [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class. Upload video link [here](https://docs.google.com/spreadsheets/d/1o9zHRzoNTM3sgDEJfBScP86pTyVatuC5mDjBxzSgAsk/edit?usp=sharing)|
 | 2024-03-25 | Tech Analysis Paper complete draft [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2024tap) in Submissions section |
 | 2024-04-01 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
 | 2024-04-01 | Complete Tech Analysis Paper reviews [HB, pg 23](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=spring2024tap) Reviews section |

@@ -79,9 +79,9 @@ location: "Collegeville, MN, USA"
 | | | |
 | Mar 29 | **No Class** | Easter Break|
 | | | |
-| April 1 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
+| April 1 | **No Class** | Easter Break |
 | | | |
-| Apr 5 |  **No Class** | TGIF |
+| Apr 5 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)   |  |
 | | | |
 | Apr 8 | Generative AI Experiences: Discussion | |
 | | In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |

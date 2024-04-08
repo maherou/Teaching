@@ -83,7 +83,7 @@ location: "Collegeville, MN, USA"
 | | | |
 | Apr 5 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)   |  |
 | | | |
-| Apr 8 | Generative AI Experiences: Discussion | |
+| Apr 8 | Generative AI Experiences: Discussion | **Class starts at 3:15 pm** |
 | | In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
 | | In-class contributed video viewing and discussion | |
 | | In-class Reveal discussions | |

@@ -41,7 +41,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2024-04-08 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2024-04-12 | Optional Assignment: Create GitHub Pages personal website | Send DH link to website |
 | 2024-04-19 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) **via email before class** |
-| 2024-04-21 | Draft SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
+| 2024-04-26 | Draft SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
 | 2024-04-30 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/d6xJTCqofyq4jXGh8) |
 | 2024-05-03 | Final SOTF Talk and in-class demo [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal 10-minute presentations**](../2024-Fall-Final-Presentation-Schedule) |
 | 2024-05-08 | Final SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** 

@@ -6,23 +6,27 @@ tags: [Teaching, Writing, Presenting, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
-## CSCI 373: Fall 2023 Final Presentation Schedule
+## CSCI 373: Spring 2024 Final Presentation Schedule
 
-### Location: Room TBD, Main Building, CSB and Virtual via Zoom
+### Location: Room 270, Main Building, CSB
 
-Family and friends are welcome to attend in person or via Zoom.  
-
-For Zoom participation, they must register via Zoom to receive the connection link via email. The same Zoom link works for both sessions.
-
-Register in advance for this meeting: [Zoom Registration Link]()
+Family and friends are welcome to attend in person
 
 
-### Session 1: 10:00 am - 12:30 pm, Friday, November 10
+### 2:10 pm - 4:45 pm, Friday, May 3
 
-| **Time** | **Speaker** | **Title** | **Abstract** |
-| -------- | ----------- | --------- | ------------ |
-
-### Session 2: 1:30 - 4:00, Thursday, May 11
-
-| **Time** | **Speaker** | **Title** | **Abstract** |
-| -------- | ----------- | --------- | ------------ |
+| **Time** | **Speaker** | **Title** |
+| -------- | ----------- | --------- | 
+| 2:10 | Carl Balfanz | TBD |
+| 2:22 | Jayden Brownlee | TBD |
+| 2:34 | Jack Buczak | TBD |
+| 2:46 | Grant Evans | TBD |
+| 2:58 | Matthew Gross | TBD |
+| 3:10 | Noah Halonen | TBD |
+| 3:22 | Break |  |
+| 3:30 | Claire Hippen | TBD |
+| 3:42 | Mason Meyer | TBD |
+| 3:54 | Ethan Sutton | TBD |
+| 4:06 | Jimmy Tai | TBD |
+| 4:18 | Hunter Walklin | TBD |
+| 4:30 | Ethan Youso | TBD |

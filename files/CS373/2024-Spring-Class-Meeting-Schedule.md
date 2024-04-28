@@ -102,14 +102,14 @@ location: "Collegeville, MN, USA"
 | | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
 | | In-class Reveal discussions |  |
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
-| | Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
-| |**Team:** [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
+| | Complete Presentation [Bio Form](https://forms.gle/wAqfHpzmWpYM2ScR7) | |
+| | [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 | | Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |
 | | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
-| | **Individual:** [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+| | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+| | [Official Course Evaluation](https://csbsju.iasystem.org/survey/16836) | |
 | | | |
 | May 3 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal 10-minute presentations**](../2024-Spring-Final-Presentation-Schedule) |
-| | Project Demo Videos | [Link](https://docs.google.com/spreadsheets/d/1mxVe5t8q1eVcIYhp3C9jtcapS1hhovJkMEViuquVHKU/edit#gid=0) |
-| | [Official Course Evaluation](https://csbsju.iasystem.org/survey/16139) | |
+| | Project Demo Videos | [Link](https://docs.google.com/spreadsheets/d/1IoAN4WasmNyKdqlGTJOwR2bFnnfPdG2DIv14Qbe-Hr0/edit?usp=sharing) |
 | | | |
 | May 7 - 9 | SOTF Expertise Interviews | In person |

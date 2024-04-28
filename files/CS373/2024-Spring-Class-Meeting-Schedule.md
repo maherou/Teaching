@@ -112,4 +112,4 @@ location: "Collegeville, MN, USA"
 | May 3 | Final SOTF Talk [(HB, pg 24)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal 10-minute presentations**](../2024-Spring-Final-Presentation-Schedule) |
 | | Project Demo Videos | [Link](https://docs.google.com/spreadsheets/d/1IoAN4WasmNyKdqlGTJOwR2bFnnfPdG2DIv14Qbe-Hr0/edit?usp=sharing) |
 | | | |
-| May 9 | SOTF Expertise Interviews | In person, Main 250 |
+| May 9 | SOTF Expertise Interviews | In person, Main 250, [Schedule](https://docs.google.com/spreadsheets/d/1EUbEiiO5sP_YmQwjoLMCCTA-rcPOwcbIXBzHx1gD7tY/edit?usp=sharing) |

@@ -101,10 +101,9 @@ location: "Collegeville, MN, USA"
 | Apr 29 | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf))  |
 | | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
 | | In-class Reveal discussions |  |
-| | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
-| | Complete Presentation [Bio Form](https://forms.gle/wAqfHpzmWpYM2ScR7) | |
+| | Complete [Presentation Bio Form](https://forms.gle/wAqfHpzmWpYM2ScR7) | |
 | | [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
-| | Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |
+| | [Menti Quiz Challenge](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) | |
 | | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
 | | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 | | [Official Course Evaluation](https://csbsju.iasystem.org/survey/16836) | |

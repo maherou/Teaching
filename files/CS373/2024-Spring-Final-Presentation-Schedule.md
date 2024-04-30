@@ -17,16 +17,16 @@ Family and friends are welcome to attend in person
 
 | **Time** | **Speaker** | **Title** |
 | -------- | ----------- | --------- | 
-| 2:10 | Carl Balfanz | TBD |
-| 2:22 | Jayden Brownlee | TBD |
-| 2:34 | Jack Buczak | TBD |
+| 2:10 | Carl Balfanz | How Deep Reinforcement Learning can increase the fuel efficiency of HEV’s |
+| 2:22 | Jayden Brownlee | Guarding the Gates: Key Generation in Modern Cryptography |
+| 2:34 | Jack Buczak | Powering the Future: Optimizing EV Charging Stations with Smart Clustering Technologies |
 | 2:46 | Grant Evans | TBD |
-| 2:58 | Matthew Gross | TBD |
-| 3:10 | Noah Halonen | TBD |
+| 2:58 | Matthew Gross | How Machines See |
+| 3:10 | Noah Halonen | YOLO: A Solution for Real-Time Quality Control |
 | 3:22 | Break |  |
-| 3:30 | Claire Hippen | TBD |
-| 3:42 | Mason Meyer | TBD |
-| 3:54 | Ethan Sutton | TBD |
-| 4:06 | Jimmy Tai | TBD |
-| 4:18 | Hunter Walklin | TBD |
-| 4:30 | Ethan Youso | TBD |
+| 3:30 | Claire Hippen | A Machine Learning Approach to Earthquake Forecasting |
+| 3:42 | Mason Meyer | NBA Predictions with Decision Trees and Random Forests |
+| 3:54 | Ethan Sutton | The Role of AES in Enhancing the Security of Cloud Storage |
+| 4:06 | Jimmy Tai | A\* Algorithm in Game Development |
+| 4:18 | Hunter Walklin | Beyond the Court: Enhancing NCAA Tournament Predictions through Machine Learning |
+| 4:30 | Ethan Youso | SVMs in Basketball Player Development |

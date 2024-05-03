@@ -20,7 +20,7 @@ Family and friends are welcome to attend in person
 | 2:10 | Carl Balfanz | How Deep Reinforcement Learning can increase the fuel efficiency of HEV’s |
 | 2:22 | Jayden Brownlee | Guarding the Gates: Key Generation in Modern Cryptography |
 | 2:34 | Jack Buczak | Powering the Future: Optimizing EV Charging Stations with Smart Clustering Technologies |
-| 2:46 | Grant Evans | TBD |
+| 2:46 | Grant Evans | How Machines Learn |
 | 2:58 | Matthew Gross | How Machines See |
 | 3:10 | Noah Halonen | YOLO: A Solution for Real-Time Quality Control |
 | 3:22 | Break |  |

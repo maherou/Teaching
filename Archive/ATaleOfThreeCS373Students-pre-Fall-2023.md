@@ -7,6 +7,7 @@ location: "Collegeville, MN, USA"
 ---
 
 # A Tale of Three CS373 Students
+### Revised for Fall 2024
 
 Michael A. Heroux
 
@@ -19,7 +20,7 @@ Roles:
 
 ---
 
-**Narrator:**  Welcome to a glimpse into the future of three CS373 students.  Let’s take a look at how each student—poised to depart the sheltered life of college in the near future—fares in the capstone course of the Computer Science major.
+**Narrator:**  Welcome to a glimpse into the future of three CS373, or capstone, students.  Let’s take a look at how each student—-poised to depart the sheltered life of college in the near future-—fares in the capstone course of the Computer Science major.
 
 **Null:**  Hi, I’m Student 0, but my friends call me Null.  You can call me Null, ‘cuz you’re my friends, right?
 
@@ -31,9 +32,9 @@ Roles:
 
 **Narrator:** AFTER THE SECOND DAY OF CLASS
 
-**Narrator:** CS373 students have just completed two 373 classes.  Let’s see what they have to say.
+**Narrator:** Capstone students have just completed two classes.  Let’s see what they have to say.
 
-**Null:** I heard this was a tough course, but I don’t get it.  There are really only a few assignments, and the last one is just gluing three of them together.  This will be easy.  Time for some League of Legends!
+**Null:** I heard this was a tough course, but I don’t get it.  There are really only a few assignments, and the last one is just gluing a few of them together.  This will be easy.  Time for some League of Legends!
 
 **Dux:** DH said we should start finding our resources right away, but I’m going to pick an easy topic.  Maybe I’ll just do the same project I did for databases last semester.  Yeah, that’s a good idea!  
 
@@ -54,11 +55,11 @@ Roles:
 
 ---
 
-**Narrator:** TWO DAYS BEFORE THE SURVEY PAPER AND PRESENTATION
+**Narrator:** TWO DAYS BEFORE THE FOUNDATIONS 'PHASE A' PAPER AND PRESENTATION
 
-**Null:** Wow, that first 373 paper is due in two days.  I think I have to prepare a short talk too.  Let’s see.
+**Null:** Wow, that first capstone paper is due in two days.  I think I have to prepare a short talk too.  Let’s see.
 
-**Dux:** I have been working on the survey paper, but wow am I having trouble finding material.  You would think there is a lot of information on 3D gaming.  But Google just gives me fluffy stuff!
+**Dux:** I have been working on the first Foundations paper, but wow am I having trouble finding material.  You would think there is a lot of information on 3D gaming.  But Google just gives me fluffy stuff!
 
 **Einar:** Graphs, edges, nodes, clusters.  This is heavy stuff, but I am glad I got some help at the library.  Also, I found a great intro video from an online class, and a PhD thesis.  Both are really useful.  They go through all the basic information.  I am going to have trouble fitting everything into this short assignment and talk, but I will focus on the basics.
 
@@ -66,7 +67,7 @@ Roles:
 
 ---
 
-**Narrator:** SURVEY DAY.  Students have completed their background, aka, survey, paper on their research topic and have prepared a brief presentation.  
+**Narrator:** FOUNDATIONS 'PHASE A' DAY.  Students have completed their background, aka, survey, paper on their research topic and have prepared a brief presentation.  
 
 **Einar:**  OK, it was tough to condense all I wanted to say for my presentation.  The paper’s long, but that’s OK. I can work on reducing word count and clarifying my statements in the next version.
 
@@ -82,15 +83,15 @@ Roles:
 
 **Dux:** I have sure struggled finding references for my topic.  DH said we should go to the library, but I haven’t been in there since first semester of first year.  Why start now?  I’ll just do some more Google searching.  I have to get some article reviews in too.  Missed the last few.
 
-**Null:** Wow, 373 sure is easy.  Only one paper and presentation so far.  It didn’t go so well, but I’ll work it out.  DH seems like he is easy going.  Time for some DOTA!
+**Null:** Wow, capstone sure is easy.  Only one paper and presentation so far.  It didn’t go so well, but I’ll work it out.  DH seems like he is easy going.  Time for some DOTA!
 
 ---
 
-**Narrator:**  TWO DAYS BEFORE THE TECHNICAL ANALYSIS PAPER AND PRESENTATION
+**Narrator:**  TWO DAYS BEFORE THE FOUNDATIONS PHASE C PAPER AND PRESENTATION
 
 **Null:** Fork!  I am way behind in this course.  How am I supposed to write this long paper?  I still haven’t figured out how to use LaTeX, so I’ll just write in MS Word, and copy and paste it.  I haven’t found anything on how AI is done in League of Legends.  It’s almost like they don’t want people to know how they do it!   I think I have another assignment due too, but I don’t remember what Heroux said.  Here’s the email.  He always signs his emails with DH.  I’m sure the D stands for dull.
 
-**Dux:** I have been working like crazy the last week, but I am finally catching up in 373.  Turns out 3D gaming is way too hard, but I was able to focus on the fundamentals of ray tracing.  I think I get the basics now.  It’s actually very interesting.  It won’t be my best presentation, but I should be OK.
+**Dux:** I have been working like crazy the last week, but I am finally catching up in capstone.  Turns out 3D gaming is way too hard, but I was able to focus on the fundamentals of ray tracing.  I think I get the basics now.  It’s actually very interesting.  It won’t be my best presentation, but I should be OK.
 
 **Einar:**  I am really enjoying graph algorithms.  I had no idea we could learn so much from studying relationships.  It’s a little scary.  It’s cool that so many companies are using graph analysis to understand their business better.  I hope I can use my experience to get a good job.  Or maybe I should consider grad school?
 
@@ -98,11 +99,11 @@ Roles:
 
 **Narrator:**  3 WEEKS BEFORE FINALS
 
-**Einar:** I thought 373 was going to be hard, but it really wasn’t.  I learned a lot about graph algorithms, which should help me find a good job.  Even more important, I learned how to learn on my own.  The last few weeks should be easy.  I just have to synthesize my previous papers and talks and add some things I have learned recently.
+**Einar:** I thought capstone was going to be hard, but it really wasn’t.  I learned a lot about graph algorithms, which should help me find a good job.  Even more important, I learned how to learn on my own.  The last few weeks should be easy.  I just have to synthesize my previous papers and talks and add some things I have learned recently.
 
-**Dux:** I think I am going to make it through 373.  But I sure wish I had started sooner.  I have to basically redo my survey paper content.
+**Dux:** I think I am going to make it through capstone.  But I sure wish I had started sooner.  I have to basically redo my survey paper content.
 
-**Null:** I am in trouble.  Flagging 373. (thoughtful pause)  I know!  I was planning to move to Seattle next summer to get into the gaming field.  I bet I can take this course out there!
+**Null:** I am in trouble.  Flagging capstone. (thoughtful pause)  I know!  I was planning to move to Seattle next summer to get into the gaming field.  I bet I can take this course out there!
 
 **Narrator:** No, you can’t.
 
@@ -118,7 +119,7 @@ Roles:
 
 **Narrator:** Maybe.
 
-**Null:** Do I have to take 373 again?
+**Null:** Do I have to take capstone again?
 
 **Narrator:** Maybe.
 
@@ -126,7 +127,7 @@ Roles:
 
 **Narrator:** END OF SEMESTER
 
-**Null:** Back again next semester.  Ugh.
+**Null:** will need to work completing everything over break.  Ugh.
 
 **Dux:**  I made it.  Even got a B.  I really enjoyed learning about ray tracing.  I also really enjoyed learning LaTeX.  Very cool.
 

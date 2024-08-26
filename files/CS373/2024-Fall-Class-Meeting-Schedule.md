@@ -10,6 +10,8 @@ location: "Collegeville, MN, USA"
 
 ### Michael A. Heroux
 
+# Under Construction
+
 | **Date** | **Assignment and Exercises** | **Notes** |
 | ---------- | --- | --- |
 | Aug 28 | Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |

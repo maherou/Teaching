@@ -10,6 +10,8 @@ location: "Collegeville, MN, USA"
 
 ### Michael A. Heroux
 
+# Under Construction
+
 Unless otherwise noted, assignments are due as email attachments by 11:59 pm on the specified date.
 
 | **Date** | **Assignment/Event** | **Notes** |

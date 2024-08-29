@@ -48,4 +48,4 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2024-11-27 | Submit video clip for in-class Reveal discussions | Google submission sheet is [here]() |
 | 2024-12-09 | Final SOTF Talk [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2024-Fall-Final-Presentation-Schedule) |
 | 2024-12-11 | Final SOTF Paper [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** 
-| 2024-12-12 | Final SOTF Interview [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | **In person** |
+| 2024-12-14 | Final SOTF Interview [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | **In person** |

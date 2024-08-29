@@ -113,5 +113,5 @@ location: "Collegeville, MN, USA"
 |        |[Official Course Evaluation](https://csbsju.iasystem.org/survey/16139) | ||        || |
 | Dec 9  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2024-Fall-Final-Presentation-Schedule) |
 |        |        ||
-| Dec 12 | SOTF Expertise Interviews | In person |
+| Dec 14 | SOTF Expertise Interviews | In person 10:45 am - 3:15 pm |
 |        |        ||

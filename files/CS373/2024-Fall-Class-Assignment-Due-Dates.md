@@ -18,10 +18,11 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | ---------- | --- | --- |
 | Ongoing | Find resources in topic area | Ongoing activity throughout the course. [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/) |
 |  | Submit [ReVeaL](../RevealDiscussions) content reflections by 12 noon CT **This assignment is due every Friday during semester, except Thanksgiving break** | [Submit here](https://forms.gle/Rhh8XzG76JEZJ7MJA)
-| 2024-08-28 | Create a generative AI tool account | Consider [ChatGPT](https://chat.openai.com) |
-| 2024-09-01 | List of 3-5 research topics | Use generative AI tools |
-| 2024-09-04 | Sign up for class Slack workspace | [Slack Signup](https://join.slack.com/t/newworkspace-v9a6356/shared_invite/zt-21zhvcrzb-EI83fvHjquviHdwmKXUfkQ)  |
-| 2024-09-01 | Handbook Quiz | In-class quiz on the [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) |
+| 2024-08-26 | Create a generative AI tool account | Consider [ChatGPT](https://chat.openai.com) |
+| 2024-08-26 | Sign up for class Slack workspace | [Slack Signup](https://join.slack.com/t/collegevillef-zxt9686/shared_invite/zt-2pa21gy1u-bidCEy2ovOOP9TwWoh7LOw)  |
+| 2024-08-30 | List of 3-5 research topics | Use generative AI tools |
+| 2024-08-30 | Find one foundational resource for your topic and study it | Be prepared to discuss this resource with instructor |
+| 2024-09-02 | Handbook Quiz | In-class quiz on the [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) |
 | 2024-09-04 | Hobby talks | See [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) for details |
 | 2024-09-08 | Titles and Abstracts | Details [here](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) |
 | 2024-09-18 | Short-clip survey video [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class  | 

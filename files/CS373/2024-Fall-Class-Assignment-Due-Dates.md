@@ -17,7 +17,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | **Date** | **Assignment/Event** | **Notes** |
 | ---------- | --- | --- |
 | Ongoing | Find resources in topic area | Ongoing activity throughout the course. [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/) |
-|  | Submit [ReVeaL](../RevealDiscussions) content reflections by 12 noon CT **This assignment is due every Friday during semester, except Thanksgiving break** | [Submit here](https://forms.gle/99m7TCQNvQo7cFQu7)
+|  | Submit [ReVeaL](../RevealDiscussions) content reflections by 12 noon CT **This assignment is due every Friday during semester, except Thanksgiving break** | [Submit here](https://forms.gle/Rhh8XzG76JEZJ7MJA)
 | 2024-08-28 | Create a generative AI tool account | Consider [ChatGPT](https://chat.openai.com) |
 | 2024-09-01 | List of 3-5 research topics | Use generative AI tools |
 | 2024-09-04 | Sign up for class Slack workspace | [Slack Signup](https://join.slack.com/t/newworkspace-v9a6356/shared_invite/zt-21zhvcrzb-EI83fvHjquviHdwmKXUfkQ)  |

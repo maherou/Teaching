@@ -44,6 +44,7 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Sep 16 | [Effective Mental Models](../MentalModels) | |
 |        | In-class Reveal discussions | |
+|        | Review Resources in GitHub Issues | Show instructor progress in summarizing project resources |
 |        |        ||
 | Sep 20 |  Short-clip Foundations Phase A video in-class viewing ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). | |
 |        | In-class Reveal discussions | |

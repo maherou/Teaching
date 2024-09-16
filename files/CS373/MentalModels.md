@@ -22,9 +22,9 @@ A documented mental model allows us to communicate our thoughts with others, fur
 - [Mental Model Definition - Wikipedia](https://en.wikipedia.org/wiki/Mental_model)
 
 ### Examples
-- [The E4S-SDK Software Stack](./E4S-Mental-Model.png) from this [E4S Overview](https://e4s.io/talks/E4S_IAW21.pdf) presentation from the [Getting Ready for E4S for Industry and Agencies Workshop](https://www.exascaleproject.org/event/e4sforindustry/).
+- [The E4S-SDK Software Stack](./E4S-Mental-Model.png) from this [E4S Overview](https://maherou.github.io/files/presentations/E4S_IAW21.pdf) presentation from the [Getting Ready for E4S for Industry and Agencies Workshop](https://www.exascaleproject.org/event/e4sforindustry/).
 - [Research Software Science](./Research-Software-Science-Mental-Model.png) from the IEEE CiSE article [Research Software Science: Expanding the Impact of Research Software Engineering](https://digitalcommons.csbsju.edu/csci_pubs/36/).
 
 ### Assignment
 
-As part of your Technical Analysis paper, you will include at least a "big picture" mental model diagram that visually describes your project.  You will continue to evolve this diagram and create additional diagrams that illustrate the key mental models related to your topic.
+As part of your Foundations assignment, you will include at least a "big picture" mental model diagram that visually describes your project.  You will continue to evolve this diagram and create additional diagrams that illustrate the key mental models related to your topic.

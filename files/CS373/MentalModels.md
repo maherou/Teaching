@@ -22,7 +22,7 @@ A documented mental model allows us to communicate our thoughts with others, fur
 - [Mental Model Definition - Wikipedia](https://en.wikipedia.org/wiki/Mental_model)
 
 ### Examples
-- [The E4S-SDK Software Stack](./E4S-Mental-Model.png) from this [E4S Overview](https://maherou.github.io/files/presentations/E4S_IAW21.pdf) presentation from the [Getting Ready for E4S for Industry and Agencies Workshop](https://www.exascaleproject.org/event/e4sforindustry/).
+- [The E4S-SDK Software Stack](./E4S-Mental-Model.png) from this [E4S Overview](https://maherou.github.io/files/presentations/2021-06-14-E4S_IAW21.pdf) presentation from the [Getting Ready for E4S for Industry and Agencies Workshop](https://www.exascaleproject.org/event/e4sforindustry/).
 - [Research Software Science](./Research-Software-Science-Mental-Model.png) from the IEEE CiSE article [Research Software Science: Expanding the Impact of Research Software Engineering](https://digitalcommons.csbsju.edu/csci_pubs/36/).
 
 ### Assignment

@@ -87,14 +87,16 @@ location: "Collegeville, MN, USA"
 |        |[Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 |        | In-class Reveal discussions | |
 |        |        ||
-| Nov 6 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
+| Nov 8 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
 |        |In-class Reveal discussions | |
 |        |        ||
-| Nov 10 | Generative AI Experiences: Discussion | |
+| Nov 11 | Generative AI Experiences: Discussion | |
 |        |In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
 |        |In-class Reveal discussions | |
 |        |        ||
 | Nov 18 | **No class** | At Supercomputing 2024 |
+|        |        ||
+| Nov 22 | **No class** | At Supercomputing 2024 |
 |        |        ||
 | Nov 25 | Progress status | 1-on-1 meeting |
 |        |        ||
@@ -105,7 +107,7 @@ location: "Collegeville, MN, USA"
 |        |[Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
 |        |Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
 |        |        ||
-|  Dec 6 | Project Demo Videos | [Link]() |
+|  Dec 6 | Project Explorations Videos | [Link]() |
 |        | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        |[Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 |        |Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |

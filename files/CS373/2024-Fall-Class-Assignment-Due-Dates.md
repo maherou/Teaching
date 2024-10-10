@@ -33,12 +33,12 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2024-10-02 |Submit revised survey paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | 2024-10-04 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2024-10-06 | Submit draft thesis statement | [Thesis Statement](./ThesisStatement.md) |
-| 2024-10-11 | Foundations Phase B paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2024tap) in Submissions section |
 | 2024-10-17 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email |
+| 2024-10-18 | Foundations Phase B paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2024tap) in Submissions section |
 | 2024-10-18 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
-| 2024-10-18 | Complete Foundations Phase B paper reviews [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2024tap) Reviews section |
+| 2024-10-21 | Complete Foundations Phase B paper reviews [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2024tap) Reviews section |
 | 2024-10-25 | Foundations Phase C presentation [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Live presentations in class|
-| 2024-10-28 | Foundations Phase C paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
+| 2024-11-01 | Foundations Phase C paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
 | 2024-11-05 | Submit revised thesis statement | [Thesis Statement](./ThesisStatement.md) |
 | 2024-11-05 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
 | 2024-11-11 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 

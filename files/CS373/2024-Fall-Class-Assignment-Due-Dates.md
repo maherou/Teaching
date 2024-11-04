@@ -34,18 +34,17 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | 2024-10-04 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2024-10-06 | Submit draft thesis statement | [Thesis Statement](./ThesisStatement.md) |
 | 2024-10-17 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email |
-| 2024-10-18 | Foundations Phase B paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2024tap) in Submissions section |
+| 2024-10-18 | Foundations Phase B paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2024foundations) in Submissions section |
 | 2024-10-18 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
-| 2024-10-21 | Complete Foundations Phase B paper reviews [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2024tap) Reviews section |
+| 2024-10-21 | Complete Foundations Phase B paper reviews [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2024foundations) Reviews section |
 | 2024-10-25 | Foundations Phase C presentation [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Live presentations in class|
 | 2024-11-01 | Foundations Phase C paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
 | 2024-11-05 | Submit revised thesis statement | [Thesis Statement](./ThesisStatement.md) |
-| 2024-11-05 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
+| 2024-11-07 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
 | 2024-11-11 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 
 | 2024-11-11 | Optional Assignment: Create GitHub Pages personal website | Send DH link to website |
-| 2024-11-22 | Draft SOTF Paper [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
-| 2024-12-05 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/d6xJTCqofyq4jXGh8) |
-| 2024-12-06 | Submit Explorations Video link [HB, pg 24](../CSCI373CourseHandbookLatestEdition.pdf)for in-class viewing | Google submission sheet is [here]() |
+| 2024-11-07 | Draft SOTF Paper [HB, pg 25](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
+| 2024-12-07 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/d6xJTCqofyq4jXGh8) |
 | 2024-12-09 | Final SOTF Talk [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2024-Fall-Final-Presentation-Schedule) |
-| 2024-12-11 | Final SOTF Paper [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** 
+| 2024-12-14 | Final SOTF Paper [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** 
 | 2024-12-14 | Final SOTF Interview [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | **In person** |

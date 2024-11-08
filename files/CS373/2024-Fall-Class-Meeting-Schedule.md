@@ -92,15 +92,15 @@ location: "Collegeville, MN, USA"
 |        |In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
 |        | Generative AI Experiences: Discussion | |
 |        |        ||
-| Nov 11 | Progress status | 1-on-1 meeting (in-person/remote) |
+| Nov 11 | Progress status: Review of Foundations | 1-on-1 meeting (in-person/remote) |
 |        |        ||
-| Nov 15 | Progress status | 1-on-1 meeting (remote) |
+| Nov 15 | Progress status: Progress on Explorations | 1-on-1 meeting (remote) |
 |        |        ||
 | Nov 18 | **No class** | At Supercomputing 2024 |
 |        |        ||
 | Nov 22 | **No class** | At Supercomputing 2024 |
 |        |        ||
-| Nov 25 | Progress status | 1-on-1 meeting |
+| Nov 25 | Progress status: Progress on Future Trends | 1-on-1 meeting (in-person/remote) |
 |        |        ||
 | Nov 29 | **No class** | Thanksgiving Break |
 |        |        ||

@@ -110,7 +110,6 @@ location: "Collegeville, MN, USA"
 |        |Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
 |        |        ||
 |  Dec 6 | Project Explorations Videos | [Link]() |
-|        | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        |[Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 |        |Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |
 |        |[Capstone Bingo](../Bingo/Capstone-Bingo/) | |
@@ -118,6 +117,7 @@ location: "Collegeville, MN, USA"
 |        |[Official Course Evaluation](https://csbsju.iasystem.org/survey/16139) | |
 |        |        ||
 | Dec 9  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2024-Fall-Final-Presentation-Schedule) |
+|        | Review presentation checklist | [Presentation checklist: HB, pg 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        |        ||
-| Dec 14 | SOTF Expertise Interviews | In person 10:45 am - 3:15 pm |
+| Dec 14 | SOTF Expertise Interviews | In person 10:45 am - 3:15 pm, **paper due the evening before** |
 |        |        ||

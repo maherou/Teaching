@@ -114,7 +114,7 @@ location: "Collegeville, MN, USA"
 |        |Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |
 |        |[Capstone Bingo](../Bingo/Capstone-Bingo/) | |
 |        |[Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
-|        |[Official Course Evaluation](https://csbsju.iasystem.org/survey/16139) | |
+|        |[Official Course Evaluation](https://csbsju.iasystem.org/survey/17414) | |
 |        |        ||
 | Dec 9  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2024-Fall-Final-Presentation-Schedule) |
 |        | Review presentation checklist | [Presentation checklist: HB, pg 28](../CSCI373CourseHandbookLatestEdition.pdf)  |

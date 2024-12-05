@@ -20,53 +20,42 @@ Play:
 
 1. When you have a term associated with one of the definitions, paste a copy of your "X" on the square with that term.
 2. When you have a "Bingo" (three-in-row, column or diagonal, or blackout - all 9) shout out "Capstone".
+3. Note: Some terms appear more than once on a card.  Look carefully!
 
 
 
-[Card01.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card01.tiff)
+[TermsCard01.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard01.pdf)
 
-[Card02.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card02.tiff)
+[TermsCard02.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard02.pdf)
 
-[Card03.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card03.tiff)
+[TermsCard03.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard03.pdf)
 
-[Card04.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card04.tiff)
+[TermsCard04.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard04.pdf)
 
-[Card05.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card05.tiff)
+[TermsCard05.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard05.pdf)
 
-[Card06.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card06.tiff)
+[TermsCard06.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard06.pdf)
 
-[Card07.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card07.tiff)
+[TermsCard07.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard07.pdf)
 
-[Card08.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card08.tiff)
+[TermsCard08.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard08.pdf)
 
-[Card09.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card09.tiff)
+[TermsCard09.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard09.pdf)
 
-[Card10.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card10.tiff)
+[TermsCard10.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard10.pdf)
 
-[Card11.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card11.tiff)
+[TermsCard11.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard11.pdf)
 
-[Card12.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card12.tiff)
+[TermsCard12.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard12.pdf)
 
-[Card13.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card13.tiff)
+[TermsCard13.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard13.pdf)
 
-[Card14.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card14.tiff)
+[TermsCard14.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard14.pdf)
 
-[Card15.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card15.tiff)
+[TermsCard15.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard15.pdf)
 
-[Card16.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card16.tiff)
+[TermsCard16.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard16.pdf)
 
-[Card17.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card17.tiff)
+[TermsCard17.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard17.pdf)
 
-[Card18.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card18.tiff)
-
-[Card19.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card19.tiff)
-
-[Card20.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card20.tiff)
-
-[Card21.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card21.tiff)
-
-[Card22.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card22.tiff)
-
-[Card23.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card23.tiff)
-
-[Card24.tiff](https://maherou.github.io/Teaching/files/CS373/Bingo/Card24.tiff)
+[TermsCard18.pdf](https://maherou.github.io/Teaching/files/CS373/Bingo/TermsCard18.pdf)

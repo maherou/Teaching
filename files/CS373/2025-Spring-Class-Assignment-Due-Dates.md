@@ -15,9 +15,9 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | **Date** | **Assignment/Event** | **Notes** |
 | ---------- | --- | --- |
 | Ongoing | Find resources in topic area | Ongoing activity throughout the course. [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/) |
-|  | Submit [ReVeaL](../RevealDiscussions) content reflections by 12 noon CT **This assignment is due every Friday during semester, except Thanksgiving break** | [Submit here](https://forms.gle/Rhh8XzG76JEZJ7MJA)
+|  | Submit [ReVeaL](../RevealDiscussions) content reflections by 12 noon CT **This assignment is due every Friday during semester, except Thanksgiving break** | [Submit here]()
 | 2025-08-26 | Create a generative AI tool account | Consider [ChatGPT](https://chat.openai.com) |
-| 2025-08-26 | Sign up for class Slack workspace | [Slack Signup](https://join.slack.com/t/collegevillef-zxt9686/shared_invite/zt-2pa21gy1u-bidCEy2ovOOP9TwWoh7LOw)  |
+| 2025-08-26 | Sign up for class Slack workspace | [Slack Signup]()  |
 | 2025-08-30 | List of 3-5 research topics | Use generative AI tools |
 | 2025-08-30 | Find one foundational resource for your topic and study it | Be prepared to discuss this resource with instructor |
 | 2025-09-02 | Hobby talks | See [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) for details |

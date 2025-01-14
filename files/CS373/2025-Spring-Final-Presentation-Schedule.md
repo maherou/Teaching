@@ -18,13 +18,13 @@ Register in advance: [Zoom Registration Link]()
 
 ### Friday, May 9, 2025
 
-### Session 1: 2:00 - 3:15 pm
+### Session 1: TBD
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |
 
 
-### Session 2: 3:30 - 4:45 pm
+### Session 2: TBD
 
 | **Time** | **Speaker** | **Title** | **Abstract** |
 | -------- | ----------- | --------- | ------------ |

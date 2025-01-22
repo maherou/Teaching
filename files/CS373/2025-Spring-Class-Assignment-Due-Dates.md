@@ -17,7 +17,7 @@ Unless otherwise noted, assignments are due as email attachments by 11:59 pm on 
 | Ongoing | Find resources in topic area | Ongoing activity throughout the course. [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/) |
 |  | Submit [ReVeaL](../RevealDiscussions) content reflections by 12 noon CT **This assignment is due every Friday during semester, except Spring and Easter break** | [Submit here](https://forms.gle/bpY8ZK66sphorVps7)
 | 2025-01-23 | Create a Google Gemini Advanced account | [Gemini Advanced](https://gemini.google.com/) |
-| 2025-01-23 | Sign up for class Slack workspace | [Slack Signup](https://join.slack.com/t/collegevilles-ldq8458/shared_invite/zt-2ya0rspgi-4mKxAiCJeYtv8p1I~uhKPA)  |
+| 2025-01-23 | Sign up for class Slack workspace | [Slack Signup](https://join.slack.com/t/collegevilles-ldq8458/shared_invite/zt-2ya0rspgi-4mKxAiCJeYtv8p1I~uhKPA)  | 
 | 2025-01-23 | Listen to CS373 podcast | [Google NotebookLM generated podcast about CS373 (about 15 mins)](../CSCI373CourseHandbookLatestEdition.wav) |
 | 2025-01-27 | List of 3-5 research topics | Use generative AI tools |
 | 2025-01-27 | Find one foundational resource for your topic and study it | Be prepared to discuss this resource with instructor |

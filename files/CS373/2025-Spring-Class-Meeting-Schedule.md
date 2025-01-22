@@ -13,7 +13,7 @@ location: "Collegeville, MN, USA"
 | **Date** | **Assignment and Exercises** | **Notes** |
 | ---------- | --- | --- |
 | Jan 24 | Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
-|        |  Course Intro | [Google NotebookLM-generated content about CSCI373](../CSCI373Overview.md) [Downloadable PDF of Handbook](../CSCI373CourseHandbookLatestEdition.pdf)  |
+|        |  Course Intro | [Google NotebookLM-generated content about CSCI373](../CSCI373Overview) <br> [Downloadable PDF of Handbook](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        | Intro to Generative AI Tools | [Generative AI Tools](../GenerativeAITools/2025-01-Heroux-GenerativeAITools.pptx) | 
 |        | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/fall-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Spring-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Spring-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
 |        | AI Resource Page | [AI-Assisted Computer Science Research](https://maherou.github.io/Teaching/AI-Assisted-Research/)| 

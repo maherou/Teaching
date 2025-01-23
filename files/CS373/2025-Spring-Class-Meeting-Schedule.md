@@ -16,8 +16,7 @@ location: "Collegeville, MN, USA"
 |        |  Course Intro | [Google NotebookLM-generated content about CSCI373](../CSCI373Overview) <br> [Downloadable PDF of Handbook](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        | Intro to Generative AI Tools | [Generative AI Tools](../GenerativeAITools/2025-01-Heroux-GenerativeAITools.pptx) | 
 |        | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/fall-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Spring-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Spring-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
-|        | AI Resource Page | [AI-Assisted Computer Science Research](https://maherou.github.io/Teaching/AI-Assisted-Research/)| 
-|        | First AI-Assisted Task | [Scenarios: Personas, Contexts, Tasks](../GenerativeAITools/2024-09-Heroux-ScenariosPersonasContexts.pptx)| 
+|        | First AI-Assisted Task | [Scenarios: Personas, Contexts, Tasks](../GenerativeAITools/2025-01-Heroux-ScenariosPersonasContexts.pptx)| 
 |        | Second AI-Assisted Task | [Generate Research Report](https://gemini.google.com)| 
 |        |        ||
 | Jan 27 |  Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|

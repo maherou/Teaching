@@ -19,12 +19,10 @@ location: "Collegeville, MN, USA"
 |        | First AI-Assisted Task | [Scenarios: Personas, Contexts, Tasks](../GenerativeAITools/2025-01-Heroux-ScenariosPersonasContexts.pptx)| 
 |        | Second AI-Assisted Task | [Generate Research Report](https://gemini.google.com)| 
 |        |        ||
-| Jan 27 |  Quick review of Google Deep Research reports | |
+| Jan 27 |  [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) | |
 |        | Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
-|        |  [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) |   |
 |        |  [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
-|        | Review topic area with instructor | [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/)|
-|        | In-class Reveal discussions | |
+|        | Review potential research topics | **Have Gemini Deep Research papers available**|
 |        |        ||
 | Jan 31  | _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students)|
 |        | Hobby Talks | |

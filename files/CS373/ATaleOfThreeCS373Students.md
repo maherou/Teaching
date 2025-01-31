@@ -7,7 +7,6 @@ location: "Collegeville, MN, USA"
 ---
 
 # A Tale of Three CS373 Students
-### Revised for Fall 2024
 
 Michael A. Heroux
 

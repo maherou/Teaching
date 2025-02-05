@@ -27,17 +27,17 @@ location: "Collegeville, MN, USA"
 | Jan 31  | _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students)|
 |        | Hobby Talks | |
 |        | [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 1 using a Google Form  |  
-|        | Quiz challenge| Each team takes the quizzes created by other teams |
-|        |  Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
-|        | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 |        |        ||
 | Feb 3  | Progress status 1-on-1  meeting | Via Zoom |
 |        |        ||
-| Feb 7  | [A Better Professional You](./BetterYou.pdf) | |
+| Feb 7  | Quiz challenge| Each team takes the quizzes created by other teams |
+|        |  Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
+|        | [A Better Professional You](./BetterYou.pdf) | |
 |        | Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 |        | Set up GitHub Issues-only repos| |
 |        | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place \*.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
 |        | In-class Reveal discussions | |
+|        | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 |        |        ||
 | Feb 10 | [Effective Mental Models](../MentalModels) | |
 |        | In-class Reveal discussions | |

@@ -44,25 +44,25 @@ This setup ensures you stay updated on new research without having to check manu
 Besides Google Scholar, several other services provide research notifications with access to different types of resources, including journals, preprints, and technical reports. Here are some good alternatives:
 
 1. Semantic Scholar
-	-	Website: https://www.semanticscholar.org/
+	-	Website: [https://www.semanticscholar.org](https://www.semanticscholar.org)
 	-	Uses AI to provide personalized recommendations.
 	-	Allows you to set up alerts for new research papers based on keywords, authors, or citations.
 	-	Covers both journal articles and preprints (e.g., arXiv, bioRxiv).
 
 2. ResearchGate
-	-	Website: https://www.researchgate.net/
+	-	Website: [https://www.researchgate.net](https://www.researchgate.net)
 	-	Focuses on academic networking.
 	-	Provides notifications for new papers from researchers you follow.
 	-	Sends updates on discussions and new citations of your work.
 
 3. arXiv Digest
-	-	Website: https://arxiv.org/
+	-	Website: [https://arxiv.org](https://arxiv.org)
 	-	Covers preprints in computer science, physics, and related fields.
 	-	You can set up custom email alerts for specific topics or categories (e.g., “Machine Learning” or “Computational Science”).
 	-	ArXiv Sanity Preserver (https://www.arxiv-sanity.com/) also provides personalized feeds.
 
 4. IEEE Xplore Alerts
-	-	Website: https://ieeexplore.ieee.org/
+	-	Website: [https://ieeexplore.ieee.org](https://ieeexplore.ieee.org)
 	-	Best for engineering, computing, and technology fields.
 	-	Allows you to set up email alerts for new papers in specific IEEE journals/conferences.
 

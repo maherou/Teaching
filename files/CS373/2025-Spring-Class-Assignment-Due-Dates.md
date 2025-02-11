@@ -25,7 +25,7 @@ location: "Collegeville, MN, USA"
 | 2025-02-03 | Preparation for Individual Progress meeting | You will meet individually with the instructor |
 | 2025-02-07 | Titles and Abstracts | Details [here](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) |
 | 2025-02-07 | Set up GitHub Issues-only repos| |
-| 2025-02-14 | Set up new resource notifications | [Notifications Setup Guide](./ResourceNotifications.md)
+| 2025-02-14 | Set up at least 1 new Google Scholar resource notification | [Notifications Setup Guide](./ResourceNotifications.md)
 | 2025-02-17 | Short-clip Foundations Phase A video [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class  | 
 | 2025-02-19 | Draft Foundations Phase A paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
 | 2025-02-21 | Foundations Phase A paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **Before class** |

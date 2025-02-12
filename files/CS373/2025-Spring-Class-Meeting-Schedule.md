@@ -64,13 +64,15 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Mar 3 | Progress status | 1-on-1  meeting |
 |        |        ||
-| Mar 7 | Generative AI Experiences: Discussion | |
+| Mar 7 | **No Class** | TGIF |
+|        |        ||
+| Mar 10 | Generative AI Experiences: Discussion | |
 |        | In-class Reveal discussions | |
 |        |[Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
 |        |        ||
-| Mar 10 - 21 | **No Class** | In France, Spring Break |
+| Mar 14 | Progress status | 1-on-1  meeting |
 |        |        ||
-| Mar 24 | Progress status | 1-on-1 meeting |
+| Mar 17 - 24 | **No Class** | Spring Break, ACM Pubs Board |
 |        |        ||
 | Mar 28 | Live Foundations Phase C Presentations Group I|  |
 |        |        ||

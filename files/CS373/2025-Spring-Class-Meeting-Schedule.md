@@ -54,7 +54,7 @@ location: "Collegeville, MN, USA"
 |        | In-class Reveal discussions | |
 |        |[Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 |        |        ||
-| Feb 24 | 1-on-1 review of GitHub Issues resources (virtual)| Expecting something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| Feb 24 | **No class** Instructor review of GitHub Issues resources | Expecting something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 |        |        ||
 | Feb 28 | [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
 |        |Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 

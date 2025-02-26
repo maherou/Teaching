@@ -56,15 +56,14 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Feb 24 | **No class** Instructor review of GitHub Issues resources | Expecting something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
 |        |        ||
-| Feb 28 | [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
-|        |Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
-|        |In-class Reveal discussions | |
-|        |Review GitHub Issues resources database with instructor | Expecting something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
-|        |Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
+| Feb 28 | **No Class** | TGIF |
 |        |        ||
 | Mar 3 | Progress status | 1-on-1  meeting |
 |        |        ||
-| Mar 7 | **No Class** | TGIF |
+| Mar 7 | [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
+|        |Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
+|        |In-class Reveal discussions | |
+|        |Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
 |        |        ||
 | Mar 10 | Generative AI Experiences: Discussion | |
 |        | In-class Reveal discussions | |

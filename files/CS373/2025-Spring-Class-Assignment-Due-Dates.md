@@ -31,7 +31,7 @@ location: "Collegeville, MN, USA"
 | 2025-02-21 | Foundations Phase A paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **Before class** |
 | 2025-02-27 | Set up LinkedIn account | Option: Connect with DH [on LinkedIn](https://in.linkedin.com/in/michael-heroux-763590) |
 | 2025-02-24 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
-| 2025-03-02 | Submit revised Foundations Phase A paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
+| 2025-03-03 | Submit revised Foundations Phase A paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | 2025-03-03 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2025-03-07 | Submit draft thesis statement | [Thesis Statement](./ThesisStatement.md) |
 | 2025-03-07 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email **prior to class** |

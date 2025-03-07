@@ -67,11 +67,9 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Mar 10 | Generative AI Experiences: Discussion | |
 |        | In-class Reveal discussions | |
-|        |[Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
+|        |[Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | [The science behind dramatically better conversations (Charles Duhigg@TEDxManchester)](https://www.ted.com/talks/charles_duhigg_the_science_behind_dramatically_better_conversations_mar_2025?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)|
 |        |        ||
-| Mar 14 | Progress status | 1-on-1  meeting |
-|        |        ||
-| Mar 17 - 24 | **No Class** | Spring Break, ACM Pubs Board |
+| Mar 14 - 24 | **No Class** | Spring Break, ACM Pubs Board |
 |        |        ||
 | Mar 28 | Live Foundations Phase C Presentations Group I|  |
 |        |        ||

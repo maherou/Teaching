@@ -62,12 +62,11 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Mar 7 | [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
 |        |Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
-|        |In-class Reveal discussions | |
 |        |Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
 |        |        ||
 | Mar 10 | Generative AI Experiences: Discussion | |
-|        | In-class Reveal discussions | |
 |        |[Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | [The science behind dramatically better conversations (Charles Duhigg@TEDxManchester)](https://www.ted.com/talks/charles_duhigg_the_science_behind_dramatically_better_conversations_mar_2025?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)|
+|        | In-class Reveal discussions | |
 |        |        ||
 | Mar 14 - 24 | **No Class** | Spring Break, ACM Pubs Board |
 |        |        ||

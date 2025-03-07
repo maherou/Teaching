@@ -60,7 +60,7 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Mar 3 | Progress status | 1-on-1  meeting |
 |        |        ||
-| Mar 7 | [Tech Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
+| Mar 7 | [Technical Research, Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
 |        |Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
 |        |Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
 |        |        ||

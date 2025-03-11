@@ -35,3 +35,5 @@ We will use AI tools in our review process in the following ways:
         - Provide a description of the article strengths and opportunities for improvement using the above rubrik.
    - Assess the quality of the AI review.
    - Add, subtract, and correct anything you find to be insufficient.
+   - Include the AI content, your assessment, and the modified review as separate parts of your submission.
+   

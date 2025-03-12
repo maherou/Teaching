@@ -70,9 +70,9 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Mar 14 - 24 | **No Class** | Spring Break, ACM Pubs Board |
 |        |        ||
-| Mar 28 | Live Foundations Phase C Presentations Group I|  |
+| Mar 28 | Live Foundations Phase C Presentations Group I| Group I: Last names B - L |
 |        |        ||
-| Mar 31 | Live Foundations Phase C Presentations Group II | |
+| Mar 31 | Live Foundations Phase C Presentations Group II | Group I: Last names M - W |
 |        |        ||
 | Apr 4 | Review: Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
 |        |[Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |

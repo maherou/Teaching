@@ -38,10 +38,10 @@ location: "Collegeville, MN, USA"
 | 2025-03-10 | Foundations Phase B paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2025foundations) in Submissions section |
 | 2025-03-10 | Review of resources | Assure current annotated bibliography is up to date and accessible to instructor |
 | 2025-03-13 | Complete Foundations Phase B paper reviews [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=spring2025foundations) Reviews section |
-| 2025-03-28 | Foundations Phase C in-class presentations Group I [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Group I: Last names B - L |
-| 2025-03-28 | Foundations Phase C paper Group II [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
-| 2025-03-31 | Foundations Phase C in-class presentations Group II [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Last names M - W | 
-| 2025-03-31 | Foundations Phase C paper Group I [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
+| 2025-03-31 | Foundations Phase C in-class presentations Group I [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Group I: Last names B - L |
+| 2025-03-31 | Foundations Phase C paper Group II [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
+| 2025-04-04 | Foundations Phase C in-class presentations Group II [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Last names M - W | 
+| 2025-04-04 | Foundations Phase C paper Group I [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
 | 2025-04-04 | Submit revised thesis statement | [Thesis Statement](./ThesisStatement.md) |
 | 2025-04-07 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
 | 2025-04-04 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 

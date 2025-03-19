@@ -70,28 +70,28 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Mar 14 - 24 | **No Class** | Spring Break, ACM Pubs Board |
 |        |        ||
-| Mar 28 | Live Foundations Phase C Presentations Group I| Group I: Last names B - L |
-|        |        ||
-| Mar 31 | Live Foundations Phase C Presentations Group II | Group I: Last names M - W |
-|        |        ||
-| Apr 4 | Review: Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
+| Mar 28 | Review: Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
 |        |[Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 |        | In-class Reveal discussions | |
 |        |        ||
-| Apr 7 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
+|| Mar 31 | Live Foundations Phase C Presentations Group I| Group I: Last names B - L |
+|        |        ||
+| Apr 4 | Live Foundations Phase C Presentations Group II | Group I: Last names M - W |
+|        |        ||
+ Apr 7 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
 |        |In-class Reveal discussions | |
 |        |In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
 |        | Generative AI Experiences: Discussion | |
 |        |        ||
-| Apr 11 | Progress status: Review of Foundations | 1-on-1 meeting (in-person/remote) |
+| Apr 11 | Progress status: Level of Expertise assessment | 1-on-1 meeting |
 |        |        ||
-| Apr 14 | Progress status: Progress on Explorations | 1-on-1 meeting (remote) |
+| Apr 14 | TBD |  |
 |        |        ||
 | Apr 18 | **No class** | Easter Break |
 |        |        ||
 | Apr 21 | **No class** | Easter Break |
 |        |        ||
-| Apr 25 | Progress status: Progress on Future Trends | 1-on-1 meeting (in-person/remote) |
+| Apr 25 | TBD |  |
 |        |        ||
 | Apr 28  | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        |[Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |

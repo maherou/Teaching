@@ -74,7 +74,7 @@ location: "Collegeville, MN, USA"
 |        |[Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 |        | In-class Reveal discussions | |
 |        |        ||
-|| Mar 31 | Live Foundations Phase C Presentations Group I| Group I: Last names B - L |
+| Mar 31 | Live Foundations Phase C Presentations Group I | Group I: Last names B - L | 
 |        |        ||
 | Apr 4 | Live Foundations Phase C Presentations Group II | Group I: Last names M - W |
 |        |        ||

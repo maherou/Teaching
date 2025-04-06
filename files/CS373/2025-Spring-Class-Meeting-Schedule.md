@@ -83,20 +83,20 @@ location: "Collegeville, MN, USA"
 |        |In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
 |        | Generative AI Experiences: Discussion | |
 |        |        ||
-| Apr 11 | Progress status: Level of Expertise assessment | 1-on-1 meeting |
+| Apr 11 | Progress status: Level of Expertise assessment | 1-on-1 meeting  Group I|
 |        |        ||
-| Apr 14 | TBD |  |
+| Apr 14 | Progress status: Level of Expertise assessment | 1-on-1 meeting  Group II |
 |        |        ||
 | Apr 18 | **No class** | Easter Break |
 |        |        ||
 | Apr 21 | **No class** | Easter Break |
 |        |        ||
-| Apr 25 | TBD |  |
-|        |        ||
-| Apr 28  | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
+| Apr 25  | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        |[Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
 |        |[Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
 |        |Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
+|        |        ||
+| Apr 28 | **No Class**    | Prep time for video presentations |
 |        |        ||
 |  May 2 | Project Explorations Videos | Viewed in class |
 |        |[Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |

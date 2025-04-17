@@ -91,12 +91,14 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Apr 21 | **No class** | Easter Break |
 |        |        ||
-| Apr 25  | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
+| Apr 23 | **CS MFT**    | Main 251, CSB |
+|        |        ||
+| Apr 25 | **CS MFT**    | Main 251, CSB |
+|        |        ||
+| Apr 28  | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        |[Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
 |        |[Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
 |        |Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
-|        |        ||
-| Apr 28 | **No Class**    | Prep time for video presentations |
 |        |        ||
 |  May 2 | Project Explorations Videos | Viewed in class |
 |        |[Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |

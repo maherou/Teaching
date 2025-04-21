@@ -95,10 +95,7 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Apr 25 | **CS MFT**    | Main 251, CSB |
 |        |        ||
-| Apr 28  | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
-|        |[Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
-|        |[Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
-|        |Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
+| Apr 28 | **No class**    |  |
 |        |        ||
 |  May 2 | Project Explorations Videos | Viewed in class |
 |        |[Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
@@ -108,8 +105,13 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | May 5 | **No class** | HPSFCon |
 |        |        ||
-| May 9  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Spring-Final-Presentation-Schedule) |
+| May 9  | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
+|        |[Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
+|        |[Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
+|        |Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
+|        |        ||
+| May 13-14  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Spring-Final-Presentation-Schedule) |
 |        | Review presentation checklist | [Presentation checklist: HB, pg 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        |        ||
-| May 14-15 | SOTF Expertise Interviews | In person TBD, **paper due the evening before** |
+| May 15 | SOTF Expertise Interviews | In person TBD, **paper due the evening before** |
 |        |        ||

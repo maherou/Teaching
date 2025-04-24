@@ -103,12 +103,12 @@ location: "Collegeville, MN, USA"
 |        |[Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
 |        |Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
 |        |        ||
-| May 5  | **No class** | HPSFCon |
+| May 5  | **No class** | [HPSFCon](https://events.linuxfoundation.org/hpsf-conference/) |
 |        |        ||
 | May 9  |[Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 |        |Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |
 |        |[Capstone Bingo](../Bingo/Capstone-Bingo/) | |
-|        |[Official Course Evaluation](https://csbsju.iasystem.org/survey/17414) | |
+|        |[Official Course Evaluation](https://csbsju.iasystem.org/survey/18256) | |
 |        |        ||
 | May 13-14  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Spring-Final-Presentation-Schedule) |
 |        | Review presentation checklist | [Presentation checklist: HB, pg 28](../CSCI373CourseHandbookLatestEdition.pdf)  |

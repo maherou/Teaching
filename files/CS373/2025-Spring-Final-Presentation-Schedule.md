@@ -14,7 +14,7 @@ Family and friends are welcome to attend in person or via Zoom.
 
 For virtual participation, register via Zoom to receive the connection link via email. The same Zoom link works for both sessions.
 
-Register in advance: [Zoom Registration Link]()
+Register in advance: [Zoom Registration Link](https://csbsju.zoom.us/meeting/register/NoJh7h2xSFGEH1z-OyGZEQ)
 
 ### Tuesday, May 13, 2025
 

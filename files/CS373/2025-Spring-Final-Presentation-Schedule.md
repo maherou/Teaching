@@ -40,6 +40,7 @@ Register in advance: [Zoom Registration Link](https://csbsju.zoom.us/meeting/reg
 | 1:30 PM  | Dylan Bartness | TBD  | TBD |
 | 1:45 PM  | Nathan Courchane | TBD  | TBD |
 | 2:00 PM  | Matt DeRosa | TBD  | TBD |
+| 2:15 PM. | Colin Glynn |     TBD  |     |
 | 2:30 PM  | Benjamin Hennen | TBD  | TBD |
 | 2:45 PM  | Break |   |  |
 | 3:00 PM  | Logen Landowski | TBD  | TBD |

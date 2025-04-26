@@ -47,9 +47,9 @@ When writing technical papers and including diagrams, charts, tables, or other f
 
 ### Example: Short vs. Long Captions
 
-### Imaginary Figure
+### Example Figure
 
-*(Line plot showing two curves: Strain A and Strain B growth rates from 10°C to 40°C.)*
+<img src="strain_growth_rates.png" alt="Growth Rates of Strain A and Strain B" width="500"/>
 
 ### Short Caption
 

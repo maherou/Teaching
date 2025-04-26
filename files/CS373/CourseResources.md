@@ -45,6 +45,7 @@ location: "Collegeville, MN, USA"
 | Better Abstracts | Link to the Better Abstracts Document. | [./BetterAbstracts.md](./BetterAbstracts.md) |
 | Talks that Work | Link to the Talks That Work document. | [https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) |
 | Quick Survey | Link to a Quick Survey. | [https://forms.gle/v77ztSXy42bzjfKF8](https://forms.gle/v77ztSXy42bzjfKF8) |
+| Captions That Work | Link to the Captions That Work document. | [../CaptionsThatWork](../CaptionsThatWork) |
 | Bio Form | This is a form to fill out for your presentation. | [https://forms.gle/d6xJTCqofyq4jXGh8](https://forms.gle/d6xJTCqofyq4jXGh8)|
 | Course Retrospective | Link to Course Retrospective. | [https://collegeville.github.io/Scribe/Retrospectives/](https://collegeville.github.io/Scribe/Retrospectives/) |
 | Menti Quiz Challenge | Link to the Menti Quiz. | [https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |

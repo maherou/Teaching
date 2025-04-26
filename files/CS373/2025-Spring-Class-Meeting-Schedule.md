@@ -99,9 +99,8 @@ location: "Collegeville, MN, USA"
 |        |        ||
 |  May 2 | Project Explorations Videos | Viewed in class |
 |        | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
-|        | [Better Abstracts](../BetterAbstracts) | | 
+|        | [Better Abstracts](../BetterAbstracts) | Submit Draft Abstract via Email during Class | 
 |        | [Captions That Work](../CaptionsThatWork) | |
-|        | [Capstone Bingo](../Bingo/Capstone-Bingo)
 |        |[Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
 |        |[Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
 |        |Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |

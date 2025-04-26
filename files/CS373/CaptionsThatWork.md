@@ -1,12 +1,14 @@
-# Narrative Captions for Figures in Technical Papers
+# Captions That Work
 
-## Introduction
+### Narrative Captions for Figures in Technical Papers
+
+### Introduction
 
 When writing technical papers and including diagrams, charts, tables, or other figures, using a **multi-sentence, stand-alone caption** that creates a mini-story is a highly effective technique. This approach is supported by best practices in scientific communication and has proven benefits.
 
 ---
 
-## What the Literature Says
+### What the Literature Says
 
 1. **"Extended Captions" or "Narrative Captions":**
    - Style guides refer to this as *extended* or *narrative* captions, providing context, explanation, and even interpretation.
@@ -25,7 +27,7 @@ When writing technical papers and including diagrams, charts, tables, or other f
 
 ---
 
-## Why It Works (And Why Others Use It)
+### Why It Works (And Why Others Use It)
 
 - **Enhances Skimmability:** Readers often skim papers by jumping from figure to figure.
 - **Improves Accessibility:** Helps both novice and expert readers.
@@ -34,7 +36,7 @@ When writing technical papers and including diagrams, charts, tables, or other f
 
 ---
 
-## Tips for Writing Strong Stand-Alone Captions
+### Tips for Writing Strong Stand-Alone Captions
 
 - **Start with context:** What is being shown and why?
 - **Describe the method or metric:** How was the data obtained or calculated?
@@ -43,7 +45,7 @@ When writing technical papers and including diagrams, charts, tables, or other f
 
 ---
 
-## Example: Short vs. Long Captions
+### Example: Short vs. Long Captions
 
 ### Imaginary Figure
 

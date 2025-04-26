@@ -1,3 +1,11 @@
+---
+layout: coursepost
+title: "CS373 - Captions That Work"
+description: How to create meaningful captions
+tags: [Teaching, Writing, Presenting, Research] # add tag
+location: "Collegeville, MN, USA"
+---
+
 # Captions That Work
 
 ### Narrative Captions for Figures in Technical Papers

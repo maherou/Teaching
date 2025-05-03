@@ -112,7 +112,7 @@ location: "Collegeville, MN, USA"
 |        |Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |
 |        |[Official Course Evaluation](https://csbsju.iasystem.org/survey/18256) | |
 |        |        ||
-| May 13-14  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Spring-Final-Presentation-Schedule) |
+| May 13  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Spring-Final-Presentation-Schedule) |
 |        | Review presentation checklist | [Presentation checklist: HB, pg 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        |        ||
 | May 15 | SOTF Expertise Interviews | In person TBD, **paper due the evening before** |

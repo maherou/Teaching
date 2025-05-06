@@ -115,5 +115,5 @@ location: "Collegeville, MN, USA"
 | May 13  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Spring-Final-Presentation-Schedule) |
 |        | Review presentation checklist | [Presentation checklist: HB, pg 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        |        ||
-| May 15 | SOTF Expertise Interviews | In person TBD, **paper due the evening before** |
+| May 14/15 | SOTF Expertise Interviews | In person TBD, **paper due the evening before** |
 |        |        ||

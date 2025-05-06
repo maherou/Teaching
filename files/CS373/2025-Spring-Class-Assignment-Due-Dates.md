@@ -50,5 +50,5 @@ location: "Collegeville, MN, USA"
 | 2025-05-06 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/d6xJTCqofyq4jXGh8) |
 | 2025-05-09 | Draft SOTF Paper [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
 | 2025-05-13 | Final SOTF Talk [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Fall-Final-Presentation-Schedule) |
-| 2025-05-14 | Final SOTF Paper [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
-| 2025-05-15 | Final SOTF Interview [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | **In person** |
+| 2025-05-14/15 | Final SOTF Interview [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | **In person** |
+| 2025-05-15 | Final SOTF Paper [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |

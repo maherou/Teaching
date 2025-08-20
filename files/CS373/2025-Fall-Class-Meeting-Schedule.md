@@ -14,9 +14,9 @@ location: "Collegeville, MN, USA"
 | ---------- | --- | --- |
 | Aug 25 | Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
 |        |  Course Intro | [Google NotebookLM-generated content about CSCI373](../CSCI373Overview) <br> [Downloadable PDF of Handbook](../CSCI373CourseHandbookLatestEdition.pdf)  |
-|        | Intro to Generative AI Tools | [Generative AI Tools](../GenerativeAITools/2025-01-Heroux-GenerativeAITools.pptx) | 
-|        | Important webpages | [Main class webpage (bookOctk it)](https://maherou.github.io/Teaching/fall-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Spring-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Spring-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
-|        | First AI-Assisted Task | [Scenarios: Personas, Contexts, Tasks](../GenerativeAITools/2025-01-Heroux-ScenariosPersonasContexts.pptx)| 
+|        | Intro to Generative AI Tools | [Generative AI Tools](../GenerativeAITools/2025-08-Heroux-GenerativeAITools.pdf) | 
+|        | Important webpages | [Main class webpage (bookOctk it)](https://maherou.github.io/Teaching/fall-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Fall-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Fall-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
+|        | First AI-Assisted Task | [Brainstorming On Research Topics](../GenerativeAITools/2025-08-Heroux-BrainstormingOnResearchTopics.pptx)| 
 |        | Second AI-Assisted Task | [Generate Research Report](https://gemini.google.com)| 
 |        | Individual AI Usage Policy | [AI Usage Policy Development Kit](./AiUsagePolicy.md) |
 |        | Knowledge Half Life | [Knowledge Half Life](./KnowledgeHalfLife.md) |
@@ -116,7 +116,7 @@ location: "Collegeville, MN, USA"
 |        |Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |
 |        |[Official Course Evaluation]() | |
 |        |        ||
-| Dec 9-10  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Spring-Final-Presentation-Schedule) |
+| Dec 9-10  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Fall-Final-Presentation-Schedule) |
 |        | Review presentation checklist | [Presentation checklist: HB, pg 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        |        ||
 | Dec 11-13 | SOTF Expertise Interviews | In person TBD, **paper due the evening before** |

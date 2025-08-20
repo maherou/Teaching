@@ -6,7 +6,7 @@ tags: [Teaching, Writing, Presenting, Research] # add tag
 location: "Collegeville, MN, USA"
 ---
 
-Our knowledge of things that change quickly is valuable for just a few years. In other words, half of what you know now will be obsolete or less relevant in three years. The positive statement is half of what you need to know in three years you need to learn between now and then. 
+Our knowledge of things that change quickly is valuable for just a few years. A truism that reflects this dynamic is can be stated as, "The half of what you know now will be obsolete or less relevant in three years." The positive statement of this dynamic is "The half of what you need to know in three years you need to learn between now and then." 
 
 In the literature, this idea often comes up under the theme of "lifelong learning" or "continuous learning," especially in fields that evolve quickly like computer science. We sometimes hear about the idea of a "half-life of skills" in tech industry reports or in educational research, which basically says the same thing: a significant portion of what professionals know today will become outdated in just a few years, and they'll need to keep refreshing their skills to stay relevant.
 

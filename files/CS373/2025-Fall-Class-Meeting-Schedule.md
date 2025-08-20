@@ -22,7 +22,7 @@ location: "Collegeville, MN, USA"
 |        | Knowledge Half Life | [Knowledge Half Life](./KnowledgeHalfLife.md) |
 |        |        ||
 | Aug 29 |  [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) | |
-|        | Reference librarian (J. Carlson) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
+|        | Reference librarian (K. Schleck) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 |        |  [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
 |        | Review potential research topics | **Have Gemini Deep Research papers available**|
 |        |        ||

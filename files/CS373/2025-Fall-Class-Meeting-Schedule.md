@@ -15,7 +15,7 @@ location: "Collegeville, MN, USA"
 | Aug 25 | Class Introduction | [Slides](../IntroToCompSciResearch.pdf) |
 |        |  Course Intro | [Google NotebookLM-generated content about CSCI373](../CSCI373Overview) <br> [Downloadable PDF of Handbook](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        | Intro to Generative AI Tools | [Generative AI Tools](../GenerativeAITools/2025-08-Heroux-GenerativeAITools.pdf) | 
-|        | Important webpages | [Main class webpage (bookOctk it)](https://maherou.github.io/Teaching/fall-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Fall-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Fall-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
+|        | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/fall-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Fall-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Fall-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
 |        | First AI-Assisted Task | [Brainstorming On Research Topics](../GenerativeAITools/2025-08-Heroux-BrainstormingOnResearchTopics.pptx)| 
 |        | Second AI-Assisted Task | [Generate Research Report](https://gemini.google.com)| 
 |        | Individual AI Usage Policy | [AI Usage Policy Development Kit](./AiUsagePolicy.md) |

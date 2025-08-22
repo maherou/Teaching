@@ -93,7 +93,7 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Nov 10 | Progress report on demos and AI development tools |  |
 |        |        ||
-| Nov 14 | **No class** | Easter Break |
+| Nov 14 | **No class** | TBD |
 |        |        ||
 | Nov 17 | **No Class**    | At SC25 |
 |        |        ||

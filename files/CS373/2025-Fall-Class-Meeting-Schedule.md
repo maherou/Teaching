@@ -18,12 +18,12 @@ location: "Collegeville, MN, USA"
 |        | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/fall-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Fall-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Fall-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
 |        | First AI-Assisted Task | [Brainstorming On Research Topics](../GenerativeAITools/2025-08-Heroux-BrainstormingOnResearchTopics.pdf)| 
 |        | Second AI-Assisted Task | [Generate Research Report](https://gemini.google.com)| 
-|        | Individual AI Usage Policy | [AI Usage Policy Development Kit](./AiUsagePolicy.md) |
 |        | Submit "Two-Truths-and-a-Lie" form | [Submit content here](https://forms.gle/WX12oFyYtphaG1aaA) |
 |        |        ||
 | Aug 29 | Reference librarian (K. Schleck) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
 |        |  [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) | |
 |        |  [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+|        | Individual AI Usage Policy | [AI Usage Policy Development Kit](./AiUsagePolicy.md) |
 |        | Two Truths and a Lie | Class participation event |
 |        | Review potential research topics | **Have Gemini Deep Research papers available**|
 |        |        ||

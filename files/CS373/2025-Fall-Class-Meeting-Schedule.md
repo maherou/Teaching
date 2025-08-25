@@ -42,6 +42,7 @@ location: "Collegeville, MN, USA"
 |        | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 |        |        ||
 | Sep 12 | [Effective Mental Models](../MentalModels) | |
+|        | Automated Resource Notifications | [Get automatic updates on content that might interest you](./ResourceNotifications.md)
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        | Review Resources in GitHub Issues | Show instructor progress in sumOctizing project resources |
 |        |        ||
@@ -53,7 +54,7 @@ location: "Collegeville, MN, USA"
 | Sep 22 | Generative AI Experiences: Discussion | |
 |        |[LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | [Overleaf Setup](https://www.overleaf.com) |
 |        |[Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
-|        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
+|        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess) |
 |        |[Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 |        |        ||
 |        |        ||

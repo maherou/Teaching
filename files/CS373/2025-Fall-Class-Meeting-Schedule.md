@@ -19,10 +19,12 @@ location: "Collegeville, MN, USA"
 |        | First AI-Assisted Task | [Brainstorming On Research Topics](../GenerativeAITools/2025-08-Heroux-BrainstormingOnResearchTopics.pdf)| 
 |        | Second AI-Assisted Task | [Generate Research Report](https://gemini.google.com)| 
 |        | Individual AI Usage Policy | [AI Usage Policy Development Kit](./AiUsagePolicy.md) |
+|        | Submit "Two-Truths-and-a-Lie" form | [Submit content here](https://forms.gle/WX12oFyYtphaG1aaA) |
 |        |        ||
-| Aug 29 |  [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) | |
-|        | Reference librarian (K. Schleck) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
+| Aug 29 | Reference librarian (K. Schleck) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
+|        |  [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) | |
 |        |  [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+|        | Two Truths and a Lie | Class participation event |
 |        | Review potential research topics | **Have Gemini Deep Research papers available**|
 |        |        ||
 | Sep 1  | _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students)|

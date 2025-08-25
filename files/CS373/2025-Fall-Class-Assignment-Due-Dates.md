@@ -18,6 +18,7 @@ location: "Collegeville, MN, USA"
 |  | Submit [ReVeaL](../RevealDiscussions) content reflections by 12 noon CT **This assignment is due every Friday during semester, except Spring and Easter break** | [Submit here](https://forms.gle/wSqXeDSb6wayUYR59)
 | 2025-08-25 | Create a Google Gemini Advanced account | [Gemini Advanced](https://gemini.google.com/) |
 | 2025-08-25 | Sign up for class Slack workspace | [Slack Signup](https://join.slack.com/t/collegevillef-wzw1557/shared_invite/zt-3c22c77m9-JHuiy5_nCFvq46CDKE3EnQ)  | 
+| 2025-08-29 | Submit "Two-Truths-and-a-Lie" form | [Submit content here](https://forms.gle/WX12oFyYtphaG1aaA)
 | 2025-08-29 | List of 3-5 research topics | Use generative AI tools |
 | 2025-08-29 | Find one foundational resource for your topic and study it | Be prepared to discuss this resource with instructor |
 | 2025-09-01 | Hobby talks | See [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) for details |

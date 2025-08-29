@@ -10,7 +10,7 @@ As part of our capstone course in computer science, each student will create the
 
 # Generative AI Tool Usage: Background
 
-- CSB|SJU does not have a specific policy to guide the use of generative AI tools.
+- CSBSJU does not have a specific policy to guide the use of generative AI tools.
 - The use of generative AI tools falls under the general school policies for [academic honesty and misconduct](https://catalog.csbsju.edu/catalog/academic-programs-policies-regulations/rights-responsibilities/).
 - In some courses, use of generative AI tools is prohibited or highly restrictive.
 - In CS373, use of generative AI tools is expected up to but not beyond the expectations for academic honesty.

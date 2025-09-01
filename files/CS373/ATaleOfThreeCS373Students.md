@@ -61,7 +61,7 @@ Roles:
 
 **Einar:** Graphs, edges, nodes, clusters.  This is heavy stuff, but I am glad I got a kickstart from my AI advisors and got some help at the library.  Also, I found a great intro video from an online class, and a PhD thesis.  Both are really useful.  They go through all the basic information.  I am going to have trouble fitting everything into this short assignment and talk, but I will focus on the basics.
 
-**Null:** Oh, fork!  Both a paper and a presentation in two days?  Ugh.  But I can do this, just like all the other times.  What should I do for a topic?  Oh, yeah, I told Heroux I was going to AI.  He said that’s OK.  How about AI in TikTok?  Yeah!
+**Null:** Oh, fork!  Both a paper and a presentation in two days?  Ugh.  But I can do this, just like all the other times.  What should I do for a topic?  Oh, yeah, I told Heroux I was going to something with AI.  He said that’s OK.  How about AI in TikTok?  Yeah!
 
 ---
 

@@ -37,9 +37,7 @@ location: "Collegeville, MN, USA"
 | Sep 8  | Quiz challenge| Each team takes the quizzes created by other teams |
 |        |  Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
 |        | [A Better Professional You](./BetterYou.pdf) | |
-|        | Collaborative resource management using GitHub Issues |[Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
-|        | Set up GitHub Issues-only repos| |
-|        | [Virtual Teams Issues-only Repo Intro](https://github.com/Collegeville/VirtualTeams/issues)| Download this [IssueTemplates.zip](../IssueTemplates.zip) file.  Place \*.md files into .github/ISSUE_TEMPLATE folder in Issues-only Repo|  
+|        | Set up [Zotero](https://zotero.org)| We will use Zotero for collecting and sharing resources |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
 |        |        ||
@@ -62,7 +60,7 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Sep 26 | **No Class** | TGIF |
 |        |        ||
-| Sep 29 | Progress status. Review of GitHub Issues resources | Expecting something like the [Virtual Teams Issues-only repo](https://github.com/Collegeville/VirtualTeams/issues) |
+| Sep 29 | Progress status. Review of Zotero resources | |
 | Oct 3 | [Technical Research, Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
 |        |Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
 |        |Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |

@@ -26,7 +26,7 @@ location: "Collegeville, MN, USA"
 | 2025-09-01 | Handbook Quiz | In-class quiz on the [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) |
 | 2025-09-05 | Preparation for Individual Progress meeting | You will meet individually with the instructor |
 | 2025-09-08 | Titles and Abstracts | Details [here](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) |
-| 2025-09-08 | Set up GitHub Issues-only repos| |
+| 2025-09-08 | Set up Zotero Group Sharing with instructor | [Zotero Group Instructions](https://www.zotero.org/support/groups)|
 | 2025-09-12 | Set up at least 1 new Google Scholar resource notification | [Notifications Setup Guide](./ResourceNotifications.md)
 | 2025-09-15 | Short-clip Foundations Phase A video [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class  | 
 | 2025-09-19 | Draft Foundations Phase A paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |

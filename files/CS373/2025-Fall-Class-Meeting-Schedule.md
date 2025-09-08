@@ -36,7 +36,6 @@ location: "Collegeville, MN, USA"
 | Sep 8  | [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 5 using a Google Form  |  
 |        | Quiz challenge| Each team takes the quizzes created by other teams |
 |        |  Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
-|        | [A Better Professional You](./BetterYou.pdf) | |
 |        | [AI-assisted Development Exercise](./AiAssistedDevelopment.md) | Getting started with AI development tools |
 |        | Set up [Zotero](https://zotero.org)| We will use Zotero for collecting and sharing resources |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
@@ -44,6 +43,7 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Sep 12 | [Effective Mental Models](../MentalModels) | |
 |        | Automated Resource Notifications | [Get automatic updates on content that might interest you](./ResourceNotifications.md)
+|        | [A Better Professional You](./BetterYou.pdf) | |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        | Review Resources in GitHub Issues | Show instructor progress in sumOctizing project resources |
 |        |        ||

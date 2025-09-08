@@ -29,12 +29,12 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Sep 1  | _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students)|
 |        | Hobby Talks | |
-|        | [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 5 using a Google Form  |  
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        |        ||
 | Sep 5  | Progress status 1-on-1  meeting | Via Zoom |
 |        |        ||
-| Sep 8  | Quiz challenge| Each team takes the quizzes created by other teams |
+| Sep 8  | [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 5 using a Google Form  |  
+|        | Quiz challenge| Each team takes the quizzes created by other teams |
 |        |  Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
 |        | [A Better Professional You](./BetterYou.pdf) | |
 |        | [AI-assisted Development Exercise](./AiAssistedDevelopment.md) | Getting started with AI development tools |

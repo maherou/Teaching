@@ -37,6 +37,7 @@ location: "Collegeville, MN, USA"
 | Sep 8  | Quiz challenge| Each team takes the quizzes created by other teams |
 |        |  Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
 |        | [A Better Professional You](./BetterYou.pdf) | |
+|        | [AI-assisted Development Exercise](./AiAssistedDevelopment.md) | Getting started with AI development tools |
 |        | Set up [Zotero](https://zotero.org)| We will use Zotero for collecting and sharing resources |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
@@ -56,7 +57,6 @@ location: "Collegeville, MN, USA"
 |        |[Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess) |
 |        |[Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
-|        |        ||
 |        |        ||
 | Sep 26 | **No Class** | TGIF |
 |        |        ||

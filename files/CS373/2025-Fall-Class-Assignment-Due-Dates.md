@@ -27,11 +27,12 @@ location: "Collegeville, MN, USA"
 | 2025-09-05 | Preparation for Individual Progress meeting | You will meet individually with the instructor |
 | 2025-09-08 | Titles and Abstracts | Details [here](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) |
 | 2025-09-08 | Set up Zotero Group Sharing with instructor | [Zotero Group Instructions](https://www.zotero.org/support/groups)|
-| 2025-09-12 | Set up at least 1 new Google Scholar resource notification | [Notifications Setup Guide](./ResourceNotifications.md)
+| 2025-09-12 | Set up at least 1 new Google Scholar resource notification. Describe what you set up via email to instructor | [Notifications Setup Guide](./ResourceNotifications.md)
 | 2025-09-15 | Short-clip Foundations Phase A video [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class  | 
 | 2025-09-19 | Draft Foundations Phase A paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
 | 2025-09-22 | Foundations Phase A paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **Before class** |
 | 2025-09-27 | Set up LinkedIn account | Option: Connect with DH [on LinkedIn](https://in.linkedin.com/in/michael-heroux-763590) |
+| 2025-09-28 | Submit Solitaire Simulator Report | [Solitaire Simulator exercise](./Solitaire.md) |
 | 2025-09-29 | Review of resources | Ensure current annotated bibliography is up to date and accessible to instructor |
 | 2025-10-03 | Submit revised Foundations Phase A paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | 2025-10-06 | Submit draft thesis statement | [Thesis Statement](./ThesisStatement.md) |

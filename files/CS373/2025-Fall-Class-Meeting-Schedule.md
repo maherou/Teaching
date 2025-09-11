@@ -45,7 +45,7 @@ location: "Collegeville, MN, USA"
 |        | Automated Resource Notifications | [Get automatic updates on content that might interest you](./ResourceNotifications.md)
 |        | [A Better Professional You](./BetterYou.pdf) | |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
-|        | Review Resources in GitHub Issues | Show instructor progress in sumOctizing project resources |
+|        | Review Resources in Zotero | Show instructor progress in finding project resources |
 |        |        ||
  Sep 15 |  Short-clip Foundations Phase A video in-class viewing ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). | |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |

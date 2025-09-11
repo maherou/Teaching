@@ -8,9 +8,10 @@ location: "Collegeville, MN, USA"
 
 ## CSCI 373: Fall 2025 Assignment and Event Due Dates
 
-### Michael A. Heroux
-
-**Unless otherwise noted, assignments are due as email attachments by 11:59 pm on the specified date.**
+**Unless otherwise noted:**
+ - Assignments are due by 11:59 pm on the specified date
+ - Send as a PDF attachment by email
+ - Do not send as a link to a file, or as an MS Word document
 
 | **Date** | **Assignment/Event** | **Notes** |
 | ---------- | --- | --- |

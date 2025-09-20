@@ -62,7 +62,7 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Sep 29 | Progress status. Review of Zotero resources | |
 |        |        ||
-| Oct 3 | **No Class** | TGIM |
+| Oct 3 | **No Class** | TGIF |
 | Oct 6 | [Technical Research, Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
 |        |Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
 |        |Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |

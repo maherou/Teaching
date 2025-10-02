@@ -74,27 +74,26 @@ location: "Collegeville, MN, USA"
 | Oct 13 | **No Class** | Long weekend |
 |        |        ||
 | Oct 17 | Review: Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
-|        |[Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 |        | In-class Reveal discussions | |
 |        |        ||
-| Oct 20 | Live Foundations Phase C Presentations Group I | Group I: Last names B - L | 
+| Oct 20 | Progress status: Level of Expertise assessment | 1-on-1 meeting  Group I: Last names B - M |
 |        |        ||
-| Oct 24 | Live Foundations Phase C Presentations Group II | Group I: Last names M - W |
+| Oct 24 | Progress status: Level of Expertise assessment | 1-on-1 meeting  Group II: Last names P - Z |
 |        |        ||
-| Oct 27  | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
+| Oct 27 |[Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 |        |In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        |In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
 |        | Generative AI Experiences: Discussion | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        |        ||
 | Oct 31 | **No Class** | TGIF |
 |        |        ||
-| Nov 3  | Progress status: Level of Expertise assessment | 1-on-1 meeting  Group I|
+| Nov 3  | Live Foundations Phase C Presentations Group I | Group I: Last names B - M | 
 |        |        ||
-| Nov 7  | Progress status: Level of Expertise assessment | 1-on-1 meeting  Group II |
+| Nov 7  | Live Foundations Phase C Presentations Group II | Group I: Last names P - Z |
 |        |        ||
-| Nov 10 | Progress report on demos and AI development tools |  |
+| Nov 10 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
 |        |        ||
-| Nov 14 | **No class** | TBD |
+| Nov 14 |  Progress report on demos and AI development tools       | |
 |        |        ||
 | Nov 17 | **No Class**    | At SC25 |
 |        |        ||

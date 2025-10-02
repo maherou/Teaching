@@ -38,17 +38,17 @@ location: "Collegeville, MN, USA"
 | 2025-10-03 | Submit revised Foundations Phase A paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | 2025-10-06 | Submit draft thesis statement | [Thesis Statement](./ThesisStatement.md) |
 | 2025-10-10 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email **prior to class** |
-| 2025-10-11 | Foundations Phase B paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2025foundations) in Submissions section |
-| 2025-10-11 | Review of resources | Ensure current annotated bibliography is up to date and accessible to instructor |
-| 2025-10-17 | Complete Foundations Phase B paper reviews [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=spring2025foundations) Reviews section |
-| 2025-10-31 | Foundations Phase C in-class presentations Group I [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Group I: Last names B - L |
-| 2025-10-31 | Foundations Phase C paper Group II [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
-| 2025-11-04 | Foundations Phase C in-class presentations Group II [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Last names M - W | 
-| 2025-11-04 | Foundations Phase C paper Group I [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
-| 2025-11-04 | Submit revised thesis statement | [Thesis Statement](./ThesisStatement.md) |
-| 2025-11-07 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
-| 2025-11-04 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 
-| 2025-11-04 | Optional Assignment: Create GitHub Pages personal website | Send DH link to website |
+| 2025-10-17 | Foundations Phase B paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2025foundations) in Submissions section |
+| 2025-10-17 | Review of resources | Ensure current annotated bibliography is up to date and accessible to instructor |
+| 2025-10-22 | Complete Foundations Phase B paper reviews [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=spring2025foundations) Reviews section |
+| 2025-11-03 | Foundations Phase C in-class presentations Group I [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Group I: Last names B - L |
+| 2025-11-03 | Foundations Phase C paper Group II [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
+| 2025-11-07 | Foundations Phase C in-class presentations Group II [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Last names M - W | 
+| 2025-11-07 | Foundations Phase C paper Group I [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
+| 2025-11-10 | Submit revised thesis statement | [Thesis Statement](./ThesisStatement.md) |
+| 2025-11-10 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
+| 2025-11-17 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 
+| 2025-11-21 | Optional Assignment: Create GitHub Pages personal website | Send DH link to website |
 | 2025-12-05 | Project Explorations Video [HB, pg 24](../CSCI373CourseHandbookLatestEdition.pdf) | View in class |
 | 2025-12-05 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/d6xJTCqofyq4jXGh8) |
 | 2025-12-08 | Draft SOTF Paper [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | **Complete** version of your paper. Send PDF by email **by 11:59 pm** |

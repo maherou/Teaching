@@ -36,11 +36,11 @@ location: "Collegeville, MN, USA"
 | 2025-09-28 | Submit Solitaire Simulator Report | [Solitaire Simulator exercise](./AiAssistedDevelopment.md) |
 | 2025-09-29 | Review of resources | Ensure current annotated bibliography is up to date and accessible to instructor |
 | 2025-10-03 | Submit revised Foundations Phase A paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
-| 2025-10-06 | Submit draft thesis statement | [Thesis Statement](./ThesisStatement.md) |
+| 2025-10-08 | Submit draft thesis statement | [Thesis Statement](./ThesisStatement.md) |
 | 2025-10-10 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email **prior to class** |
-| 2025-10-17 | Foundations Phase B paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2025foundations) in Submissions section |
+| 2025-10-17 | Foundations Phase B paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2025foundations) in Submissions section |
 | 2025-10-17 | Review of resources | Ensure current annotated bibliography is up to date and accessible to instructor |
-| 2025-10-22 | Complete Foundations Phase B paper reviews [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=spring2025foundations) Reviews section |
+| 2025-10-22 | Complete Foundations Phase B paper reviews [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2025foundations) Reviews section |
 | 2025-11-03 | Foundations Phase C in-class presentations Group I [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Group I: Last names B - L |
 | 2025-11-03 | Foundations Phase C paper Group II [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
 | 2025-11-07 | Foundations Phase C in-class presentations Group II [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Last names M - W | 

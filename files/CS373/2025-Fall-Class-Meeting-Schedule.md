@@ -64,12 +64,12 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Oct 3  | **No Class** | TGIF |
 | Oct 6  | [Technical Research, Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
-|        | Create EasyChair account | [EasyChair website](https://easychair.org) |
+|        | Create EasyChair account using CSBSJU email address | [EasyChair website](https://easychair.org) |
 |        | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
 |        | Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
 |        |        ||
 | Oct 10 | Generative AI Experiences: Discussion | [Class Discussion Process](./ClassDiscussionProcess.md) |
-|        |[Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | [The science behind dramatically better conversations (Charles Duhigg@TEDxManchester)](https://www.ted.com/talks/charles_duhigg_the_science_behind_dramatically_better_conversations_Oct_2025?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare)|
+|        |[Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | [The science behind dramatically better conversations (Charles Duhigg@TEDxManchester)](https://www.ted.com/talks/charles_duhigg_the_science_behind_dramatically_better_conversations_sep_2025)|
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        |        ||
 | Oct 13 | **No Class** | Long weekend |

@@ -74,7 +74,8 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Oct 13 | **No Class** | Long weekend |
 |        |        ||
-| Oct 17 | Review: Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
+| Oct 17 | Review Thesis Statement | [Thesis Statement](./ThesisStatement.md) |
+|        | Foundations Phase B paper gap analysis | [(HB, pg 27)](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        | In-class Reveal discussions | |
 |        |        ||
 | Oct 20 | Progress status: Level of Expertise assessment | 1-on-1 meeting  Group I: Last names B - M |

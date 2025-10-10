@@ -9,8 +9,8 @@ location: "Collegeville, MN, USA"
 
 This page provides five scenarios that can be used to discuss the pros and cons of making software products open source.
 
-[Scenario 1: Scientific Computing Library](./SoftwareScenarioSetup1.md)
-[Scenario 2: SaaS Productivity Tool](./SoftwareScenarioSetup2.md)
-[Scenario 3: Machine Learning Infrastructure Framework](./SoftwareScenarioSetup3.md)
-[Scenario 4: Healthcare Data Analytics Platform](./SoftwareScenarioSetup4.md)
-[Scenario 5: Mobile Game Engine](./SoftwareScenarioSetup5.md)
+- [Scenario 1: Scientific Computing Library](./SoftwareScenarioSetup1.md)
+- [Scenario 2: SaaS Productivity Tool](./SoftwareScenarioSetup2.md)
+- [Scenario 3: Machine Learning Infrastructure Framework](./SoftwareScenarioSetup3.md)
+- [Scenario 4: Healthcare Data Analytics Platform](./SoftwareScenarioSetup4.md)
+- [Scenario 5: Mobile Game Engine](./SoftwareScenarioSetup5.md)

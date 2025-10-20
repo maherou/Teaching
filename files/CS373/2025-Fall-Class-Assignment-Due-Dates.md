@@ -54,4 +54,4 @@ location: "Collegeville, MN, USA"
 | 2025-12-08 | Draft SOTF Paper [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | **Complete** version of your paper. Send PDF by email **by 11:59 pm** |
 | 2025-12-09-10 | Final SOTF Talk [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Fall-Final-Presentation-Schedule) |
 | 2025-12-11-13 | Final SOTF Paper [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |
-| 2025-12-11-13 | Final SOTF Interview [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | **In person** |
+| 2025-12-11-13 | Final SOTF Interview [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | **In person** [Level-of-Expertise Guidance](./LevelOfExpertiseAssessment.md)|

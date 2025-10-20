@@ -79,9 +79,11 @@ location: "Collegeville, MN, USA"
 |        | Foundations Phase B paper gap analysis | [(HB, pg 27)](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        | In-class Reveal discussions | |
 |        |        ||
-| Oct 20 | Progress status: Level of Expertise assessment | 1-on-1 meeting  Group I: Last names B - M |
+| Oct 20 | **No Class** | Shift to Wednesday, Oct 22 |
 |        |        ||
-| Oct 24 | Progress status: Level of Expertise assessment | 1-on-1 meeting  Group II: Last names P - Z |
+| Oct 22 | Progress status: Level of Expertise assessment [Level-of-Expertise Guidance](./LevelOfExpertiseAssessment.md)| 1-on-1 meeting  Group I: Last names B - M |
+|        |        ||
+| Oct 24 | Progress status: Level of Expertise assessment [Level-of-Expertise Guidance](./LevelOfExpertiseAssessment.md)| 1-on-1 meeting  Group II: Last names P - Z |
 |        |        ||
 | Oct 27 |[Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
 |        |In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
@@ -90,7 +92,9 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Oct 31 | **No Class** | TGIF |
 |        |        ||
-| Nov 3  | Live Foundations Phase C Presentations Group I | Group I: Last names B - M | 
+| Nov 3 | **No Class** | Shift to Wednesday, Nov 5 |
+|        |        ||
+| Nov 5  | Live Foundations Phase C Presentations Group I | Group I: Last names B - M | 
 |        |        ||
 | Nov 7  | Live Foundations Phase C Presentations Group II | Group I: Last names P - Z |
 |        |        ||
@@ -122,5 +126,5 @@ location: "Collegeville, MN, USA"
 | Dec 9-10  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Fall-Final-Presentation-Schedule) |
 |        | Review presentation checklist | [Presentation checklist: HB, pg 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        |        ||
-| Dec 11-13 | SOTF Expertise Interviews | In person TBD, **paper due the evening before** |
+| Dec 11-13 | SOTF Expertise Interviews [Level-of-Expertise Guidance](./LevelOfExpertiseAssessment.md) | In person TBD, **paper due the evening before** |
 |        |        ||

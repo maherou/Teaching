@@ -10,6 +10,7 @@ location: "Collegeville, MN, USA"
 
 
 ### Whitepapers on Using Generative AI for Computer Science Research:
+- [The Slide Rule Guide: Ideas for If, When, and How to use Generative AI Tools for Education](https://maherou.github.io/files/papers/2025-09-10-The-Slide-Rule-Guide-Heroux.pdf)
 - [*Reflections on Integrating Generative AI Tools in CS Capstone: Fall 2024*, Michael A. Heroux, January 10, 2025](https://maherou.github.io/files/papers/2025-01-10-Generative-AI-Rules-of-Thumb-For-Capstone-Heroux.pdf)
 - [*New AI Models and Scientific Education*, Michael A. Heroux, January 10, 2025](https://maherou.github.io/files/papers/2025-01-10-New-AI-Models-And-Scientific-Education-Heroux.pdf)
 - [*Generative AI Tools Experiences in Computer Science Capstone: Spring 2024*, Michael A. Heroux, June 10, 2024](https://maherou.github.io/files/papers/2024-06-10-Generative-AI-Tools-For-Capstone-Heroux.pdf)

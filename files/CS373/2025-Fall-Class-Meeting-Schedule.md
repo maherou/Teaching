@@ -85,10 +85,11 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Oct 24 | Progress status: Level of Expertise assessment [Level-of-Expertise Guidance](./LevelOfExpertiseAssessment.md)| 1-on-1 meeting  Group II: Last names P - Z |
 |        |        ||
-| Oct 27 |[Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
-|        |In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
+| Oct 27 | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
+|        | [Better Abstracts](../BetterAbstracts) | | 
+|        | [Captions That Work](../CaptionsThatWork) | |
 |        |In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
-|        | Generative AI Experiences: Discussion | [Class Discussion Process](./ClassDiscussionProcess.md) |
+|        |In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        |        ||
 | Oct 31 | **No Class** | TGIF |
 |        |        ||
@@ -98,30 +99,33 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Nov 7  | Live Foundations Phase C Presentations Group II | Group I: Last names P - Z |
 |        |        ||
-| Nov 10 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
+| Nov 10 | **No Class**  | TGIM |
 |        |        ||
-| Nov 14 |  Progress report on demos and AI development tools       | |
+| Nov 14 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
+|        | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
+|        |  Progress report on demos and AI development tools       | As a "Standup", a 1 - 2 minute live status update |
+|        | Generative AI Experiences: Discussion | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        |        ||
 | Nov 17 | **No Class**    | At SC25 |
 |        |        ||
 | Nov 21 | **No Class**    | At SC25 |
 |        |        ||
-| Nov 24 | Progress status 1-on-1  meeting | Via Zoom |
+| Nov 24 | Progress status 1-on-1  meeting | |
 |        |        ||
 | Dec 1  | TBD    ||
 |        |        ||
 |  Dec 5 | Project Explorations Videos | Viewed in class |
 |        | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
-|        | [Better Abstracts](../BetterAbstracts) | Submit Draft Abstract via Email during Class | 
+|        | [Better Abstracts](../BetterAbstracts) | | 
 |        | [Captions That Work](../CaptionsThatWork) | |
-|        |[Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
-|        |Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
-|        |[Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
+|        | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
+|        | Complete Presentation [Bio Form](https://forms.gle/d6xJTCqofyq4jXGh8) | |
+|        | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
 |        |        ||
-| Dec 8  |[Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
-|        |[Capstone Bingo](../Bingo/Capstone-Bingo/) | |
-|        |Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |
-|        |[Official Course Evaluation]() | |
+| Dec 8  | [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
+|        | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
+|        | Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |
+|        | [Official Course Evaluation]() | |
 |        |        ||
 | Dec 9-10  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Fall-Final-Presentation-Schedule) |
 |        | Review presentation checklist | [Presentation checklist: HB, pg 28](../CSCI373CourseHandbookLatestEdition.pdf)  |

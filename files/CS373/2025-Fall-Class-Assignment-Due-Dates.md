@@ -45,8 +45,9 @@ location: "Collegeville, MN, USA"
 | 2025-11-07 | Foundations Phase C in-class presentations Group II [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Last names M - W | 
 | 2025-11-07 | Foundations Phase C paper Group I [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
 | 2025-11-10 | Review of resources | Ensure current annotated bibliography is up to date and accessible to instructor |
-| 2025-11-10 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
-| 2025-11-17 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 
+| 2025-11-14 | In-class 1 - 2 minute standup | Share status of demo/prototype efforts |
+| 2025-11-14 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
+| 2025-11-21 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit via email as a PDF attachment | 
 | 2025-11-21 | Optional Assignment: Create GitHub Pages personal website | Send DH link to website |
 | 2025-12-05 | Project Explorations Video [HB, pg 24](../CSCI373CourseHandbookLatestEdition.pdf) | View in class |
 | 2025-12-05 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/d6xJTCqofyq4jXGh8) |

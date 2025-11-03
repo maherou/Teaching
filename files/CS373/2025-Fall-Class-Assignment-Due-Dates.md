@@ -41,9 +41,8 @@ location: "Collegeville, MN, USA"
 | 2025-10-17 | Foundations Phase B paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=fall2025foundations) in Submissions section |
 | 2025-10-27 | Complete Foundations Phase B paper reviews [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from [EasyChair](https://easychair.org/conferences/?conf=fall2025foundations) Reviews section |
 | 2025-11-05 | Foundations Phase C in-class presentations Group I [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Group I: Last names B - L |
-| 2025-11-05 | Foundations Phase C paper Group II [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
 | 2025-11-07 | Foundations Phase C in-class presentations Group II [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Last names M - W | 
-| 2025-11-07 | Foundations Phase C paper Group I [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
+| 2025-11-10 | Foundations Phase C paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
 | 2025-11-10 | Review of resources | Ensure current annotated bibliography is up to date and accessible to instructor |
 | 2025-11-14 | In-class 1 - 2 minute standup | Share status of demo/prototype efforts |
 | 2025-11-14 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |

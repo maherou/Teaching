@@ -101,9 +101,8 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Nov 10 | **No Class**  | TGIM |
 |        |        ||
-| Nov 14 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
-|        | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
-|        |  Progress report on demos and AI development tools       | As a "Standup", a 1 - 2 minute live status update |
+| Nov 14 | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Come to Dec 1 class with topic. |
+|        |  Progress report on demos and AI development tools | As a "Standup", a 1 - 2 minute live status update |
 |        | Generative AI Experiences: Discussion | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        |        ||
 | Nov 17 | **No Class**    | At SC25 |
@@ -112,7 +111,7 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Nov 24 | Progress status 1-on-1  meeting | |
 |        |        ||
-| Dec 1  | TBD    ||
+| Dec 1  | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
 |        |        ||
 |  Dec 5 | Project Explorations Videos | Viewed in class |
 |        | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |

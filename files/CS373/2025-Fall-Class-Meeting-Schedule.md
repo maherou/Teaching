@@ -111,7 +111,9 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Nov 24 | Progress status 1-on-1  meeting | |
 |        |        ||
-| Dec 1  | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | |
+| Dec 1  | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | Futures Section of SOTF paper, presentation |
+|        |  [Research Software Engineering in the Age of AI, SC25 Panel](https://docs.google.com/presentation/d/1QSNl1q7G5UrZgWNQgHnltv2ciJ57UTpN_2qn-spey30/edit?slide=id.g3986bc7fdb2_1_64#slide=id.g3986bc7fdb2_1_64)
+|        | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | In-class AI-assisted writing assignment |
 |        |        ||
 |  Dec 5 | Project Explorations Videos | Viewed in class |
 |        | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
@@ -124,10 +126,10 @@ location: "Collegeville, MN, USA"
 | Dec 8  | [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 |        | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
 |        | Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |
-|        | [Official Course Evaluation]() | |
+|        | [Official Course Evaluation](https://csbsju.iasystem.org/survey/19160) | |
 |        |        ||
-| Dec 9-10  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Fall-Final-Presentation-Schedule) |
+| Dec 11  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Fall-Final-Presentation-Schedule) |
 |        | Review presentation checklist | [Presentation checklist: HB, pg 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
 |        |        ||
-| Dec 11-13 | SOTF Expertise Interviews [Level-of-Expertise Guidance](./LevelOfExpertiseAssessment.md) | In person TBD, **paper due the evening before** |
+| Dec 12 | SOTF Expertise Interviews [Level-of-Expertise Guidance](./LevelOfExpertiseAssessment.md) | In person TBD, **paper due the evening before** |
 |        |        ||

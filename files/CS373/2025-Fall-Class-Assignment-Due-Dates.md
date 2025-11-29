@@ -49,7 +49,7 @@ location: "Collegeville, MN, USA"
 | 2025-12-01 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit at end of class | 
 | 2025-11-05 | Optional Assignment: Create GitHub Pages personal website | Send DH link to website |
 | 2025-12-05 | Project Explorations Video [HB, pg 24](../CSCI373CourseHandbookLatestEdition.pdf) | View in class |
-| 2025-12-05 | Submit Title, Abstract, Bio information | Google Form is [here](https://forms.gle/FnVj82LkUeZSTcQs7) |
+| 2025-12-05 | Submit Bio information | Google Form is [here](https://forms.gle/FnVj82LkUeZSTcQs7) |
 | 2025-12-08 | Draft SOTF Paper [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | **Complete** version of your paper. Send PDF by email **by 11:59 pm** |
 | 2025-12-11 | Final SOTF Talk [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Fall-Final-Presentation-Schedule) |
 | 2025-12-11 | Final SOTF Paper [HB, pg 26](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |

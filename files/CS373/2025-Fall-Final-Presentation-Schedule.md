@@ -23,7 +23,7 @@ Register in advance: [Zoom Registration Link](https://csbsju.zoom.us/meeting/reg
 | **Time**  | **Speaker** | **Title** |
 | --------  | ----------- | --------- |
 | 9:20 AM   | Tony Krystofiak| Quantum Advantages in Multi-Agent Reinforcement Learning|
-| 9:40 AM   | Evan Eisinger| Analysis of Predicting Professional Golf Success with Random Forests|
+| 9:40 AM   | Evan Eisinger| Using Explainable AI to Combat Bias within Generative AI Images|
 | 10:00 AM  | Emily Strommen| Technical Control and Inclusive Design:The Impact of Web Development onAccessibility|
 | 10:20 AM  | Noah Zent| Modular-Based Community-Preserving Graph Compression|
 | 10:40 AM  | Sam Edwards| Teaching a Digital Humanoid to Walk|
@@ -32,7 +32,7 @@ Register in advance: [Zoom Registration Link](https://csbsju.zoom.us/meeting/reg
 
 | **Time**  | **Speaker** | **Title** |
 | --------  | ----------- | --------- |
-| 11:20 AM  | Owen Talberg| AI Prediction of Golf Scores|
+| 11:20 AM  | Owen Talberg| Analysis of Predicting Professional Golf Success with Random Forests |
 | 11:40 AM  | Giovanni Rodriguez| Improving Weightlifting Safety Using Computer Vision|
 | 12:00 PM  | Jacob Becker| Game Theory and Decision Making in Autonomous Vehicles|
 | 12:20 PM  | Angelica Penafort Galan| Demand Forecasting using Machine Learning|

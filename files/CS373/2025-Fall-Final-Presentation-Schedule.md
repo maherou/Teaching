@@ -48,4 +48,4 @@ Register in advance: [Zoom Registration Link](https://csbsju.zoom.us/meeting/reg
 | 2:20 PM  | Brendan Hemr| Cloud Computing Elasticity Through Auto Scaling and Load Balancing|
 | 2:40 PM  | Jack Potter| Making You Money Through Machine Learning|
 | 3:00 PM  | Ulathi Mpofu| Landing Smart: Pose for Prediction |
-| 3:20 PM  | Nick Jenniges| From Pixels to patterns, understanding how CNNs see|
+| 3:20 PM  | Nick Jenniges| From pixels to patterns, understanding how CNNs "see"|

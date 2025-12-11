@@ -36,7 +36,7 @@ Register in advance: [Zoom Registration Link](https://csbsju.zoom.us/meeting/reg
 | 11:40 AM  | Giovanni Rodriguez| Improving Weightlifting Safety Using Computer Vision|
 | 12:00 PM  | Jacob Becker| Game Theory and Decision Making in Autonomous Vehicles|
 | 12:20 PM  | Angelica Penafort Galan| Demand Forecasting using Machine Learning|
-| 12:40 PM  | Joselyn Rubio Correa| Predicting the Polls: ML in Election Forecasting|
+| 12:40 PM  | Joselyn Rubio-Correa| Predicting the Polls: ML in Election Forecasting|
 | 1:00 PM   | Peter Heroux| Should We Trust AI as Diplomatic Agents?|
 
 ### Session 3: 1:40 AM - 3:40 PM

@@ -43,7 +43,7 @@ Register in advance: [Zoom Registration Link](https://csbsju.zoom.us/meeting/reg
 
 | **Time**  | **Speaker** | **Title** |
 | --------  | ----------- | --------- |
-| 1:40 PM  | Michael Clark| Crime Prediction: Is it worth the risk?|
+| 1:40 PM  | Michaela Clark| Crime Prediction: Is it worth the risk?|
 | 2:00 PM  | Nick St. Peter| Machine Learning in Predicting Elbow Injuries in MLB Pitchers|
 | 2:20 PM  | Brendan Hemr| Cloud Computing Elasticity Through Auto Scaling and Load Balancing|
 | 2:40 PM  | Jack Potter| Making You Money Through Machine Learning|

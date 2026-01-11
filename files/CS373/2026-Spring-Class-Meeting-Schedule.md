@@ -1,0 +1,135 @@
+---
+layout: coursepost
+title: "CS373 - Class Schedule"
+description: Daily schedule
+tags: [Teaching, Writing, Presenting, Research] # add tag
+location: "Collegeville, MN, USA"
+---
+
+## CSCI 373: Fall 2025 Class Schedule
+
+### Michael A. Heroux
+
+| **Date** | **Assignment and Exercises** | **Notes** |
+| ---------- | --- | --- |
+| Aug 25 | Class Introduction | [Knowledge Half Life](./KnowledgeHalfLife.md), [Intro Slides](../IntroToCompSciResearch.pdf) |
+|        |  Course Intro | [Google NotebookLM-generated content about CSCI373](../CSCI373Overview) <br> [Downloadable PDF of Handbook](../CSCI373CourseHandbookLatestEdition.pdf)  |
+|        | Intro to Generative AI Tools | [Generative AI Tools](../GenerativeAITools/2025-08-Heroux-GenerativeAITools.pdf) | 
+|        | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/fall-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Fall-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2025-Fall-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
+|        | First AI-Assisted Task | [Brainstorming On Research Topics](../GenerativeAITools/2025-08-Heroux-BrainstormingOnResearchTopics.pdf)| 
+|        | Second AI-Assisted Task | [Generate Research Report](https://gemini.google.com)| 
+|        | Submit "Two-Truths-and-a-Lie" form | [Submit content here](https://forms.gle/WX12oFyYtphaG1aaA) |
+|        |        ||
+| Aug 29 | Reference librarian (K. Schleck) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees)|
+|        |  [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) | |
+|        |  [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+|        | Individual AI Usage Policy | [AI Usage Policy Development Kit](./AiUsagePolicy.md) |
+|        | Two Truths and a Lie | Class participation event |
+|        | Review potential research topics | **Have Gemini Deep Research papers available**|
+|        |        ||
+| Sep 1  | _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students)|
+|        | Hobby Talks | |
+|        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
+|        |        ||
+| Sep 5  | Progress status 1-on-1  meeting | Via Zoom |
+|        |        ||
+| Sep 8  | [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Sep 5 using a Google Form  |  
+|        | Quiz challenge| Each team takes the quizzes created by other teams |
+|        |  Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
+|        | [AI-assisted Development Exercise](./AiAssistedDevelopment.md) | Getting started with AI development tools |
+|        | Set up [Zotero](https://zotero.org)| We will use Zotero for collecting and sharing resources |
+|        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
+|        | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+|        |        ||
+| Sep 12 | [Effective Mental Models](../MentalModels) | |
+|        | Automated Resource Notifications | [Get automatic updates on content that might interest you](./ResourceNotifications.md)
+|        | [A Better Professional You](./BetterYou.pdf) | |
+|        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
+|        | Review Resources in Zotero | Show instructor progress in finding project resources |
+|        |        ||
+ Sep 15 |  Short-clip Foundations Phase A video in-class viewing ( [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)). | |
+|        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
+|        |        ||
+| Sep 19 | **No Class** | TGIF |
+|        |        ||
+| Sep 22 | Generative AI Experiences: Discussion | |
+|        |[LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | [Overleaf Setup](https://www.overleaf.com) |
+|        |[Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
+|        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess) |
+|        |[Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+|        |        ||
+| Sep 26 | **No Class** | TGIF |
+|        |        ||
+| Sep 29 | Progress status. Review of Zotero resources | |
+|        |        ||
+| Oct 3  | **No Class** | TGIF |
+| Oct 6  | [Technical Research, Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
+|        | Create EasyChair account using CSBSJU email address | [EasyChair website](https://easychair.org) |
+|        | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) | 
+|        | Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
+|        |        ||
+| Oct 10 | Generative AI Experiences: Discussion | [Class Discussion Process](./ClassDiscussionProcess.md) |
+|        | [The science behind dramatically better conversations (Charles Duhigg@TEDxManchester)](https://www.ted.com/talks/charles_duhigg_the_science_behind_dramatically_better_conversations_sep_2025)| |
+|        |[Technical Discussions Exercises.](https://collegeville.github.io/Orator/DiscussionsThatWork/) | [Software Project Scenarios](./SoftwareScenarios.md)|
+|        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
+|        |        ||
+| Oct 13 | **No Class** | Long weekend |
+|        |        ||
+| Oct 17 | Review Thesis Statement | [Thesis Statement](./ThesisStatement.md) |
+|        | Foundations Phase B paper gap analysis | [(HB, pg 27)](../CSCI373CourseHandbookLatestEdition.pdf)  |
+|        | In-class Reveal discussions | |
+|        |        ||
+| Oct 20 | **No Class** | Shift to Wednesday, Oct 22 |
+|        |        ||
+| Oct 22 | Progress status: Level of Expertise assessment [Level-of-Expertise Guidance](./LevelOfExpertiseAssessment.md)| 1-on-1 meeting  Group I: Last names B - M |
+|        |        ||
+| Oct 24 | Progress status: Level of Expertise assessment [Level-of-Expertise Guidance](./LevelOfExpertiseAssessment.md)| 1-on-1 meeting  Group II: Last names P - Z |
+|        |        ||
+| Oct 27 | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
+|        | [Better Abstracts](../BetterAbstracts) | | 
+|        | [Captions That Work](../CaptionsThatWork) | |
+|        |In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
+|        |In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
+|        |        ||
+| Oct 31 | **No Class** | TGIF |
+|        |        ||
+| Nov 3 | **No Class** | Shift to Wednesday, Nov 5 |
+|        |        ||
+| Nov 5  | Live Foundations Phase C Presentations Group I | Group I: Last names B - M | 
+|        |        ||
+| Nov 7  | Live Foundations Phase C Presentations Group II | Group I: Last names P - Z |
+|        |        ||
+| Nov 10 | **No Class**  | TGIM |
+|        |        ||
+| Nov 14 | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | Come to Dec 1 class with topic. |
+|        |  Progress report on demos and AI development tools | As a "Standup", a 1 - 2 minute live status update |
+|        | Generative AI Experiences: Discussion | [Class Discussion Process](./ClassDiscussionProcess.md) |
+|        |        ||
+| Nov 17 | **No Class**    | At SC25 |
+|        |        ||
+| Nov 21 | **No Class**    | At SC25 |
+|        |        ||
+| Nov 24 | Progress status 1-on-1  meeting | |
+|        |        ||
+| Dec 1  | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/)  | Futures Section of SOTF paper, presentation |
+|        |  [Research Software Engineering in the Age of AI, SC25 Panel](https://docs.google.com/presentation/d/1QSNl1q7G5UrZgWNQgHnltv2ciJ57UTpN_2qn-spey30/edit?slide=id.g3986bc7fdb2_1_64#slide=id.g3986bc7fdb2_1_64)
+|        | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | In-class AI-assisted writing assignment |
+|        |        ||
+|  Dec 5 | Project Explorations Videos | Viewed in class |
+|        | Preparations for final weeks, review checklists | [Review of presentation & paper checklists: HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
+|        | [Better Abstracts](../BetterAbstracts) | | 
+|        | [Captions That Work](../CaptionsThatWork) | |
+|        | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
+|        | Complete Presentation [Bio Form](https://forms.gle/wz1ERa5455Hqq9SU7) | |
+|        | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class  |
+|        |        ||
+| Dec 8  | [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
+|        | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
+|        | Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |
+|        | [Official Course Evaluation](https://csbsju.iasystem.org/survey/19160) | |
+|        |        ||
+| Dec 11  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2025-Fall-Final-Presentation-Schedule) |
+|        | Review presentation checklist | [Presentation checklist: HB, pg 28](../CSCI373CourseHandbookLatestEdition.pdf)  |
+|        |        ||
+| Dec 12 | SOTF Expertise Interviews [Level-of-Expertise Guidance](./LevelOfExpertiseAssessment.md) | In person TBD, **paper due the evening before** |
+|        |        ||

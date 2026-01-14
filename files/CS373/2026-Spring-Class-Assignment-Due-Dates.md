@@ -16,16 +16,14 @@ location: "Collegeville, MN, USA"
 | **Date** | **Assignment/Event** | **Notes** |
 | ---------- | --- | --- |
 | **Ongoing** | Find resources in topic area | Ongoing activity throughout the course. [Useful Links](https://maherou.github.io/Teaching/files/CS373/CS373-Links/) |
-| **Ongoing** | Submit [ReVeaL](../RevealDiscussions) content reflections by 12 noon CT **This assignment is due every Friday during semester, except Spring Break and Easter Break** | [Submit here](https://forms.gle/wSqXeDSb6wayUYR59) |
+| **Ongoing** | Submit [ReVeaL](../RevealDiscussions) content reflections by 12 noon CT **This assignment is due every Friday during semester, except Spring Break and Easter Break** | [Submit here](https://forms.gle/Vi1dj1w64Vf4pnPp7) |
 ||||
 | 2026-01-23 | Create a Google Gemini Advanced account | [Gemini Advanced](https://gemini.google.com/) |
 | 2026-01-23 | Sign up for class Slack workspace | [Slack Signup](https://join.slack.com/t/collegevillef-wzw1557/shared_invite/zt-3c22c77m9-JHuiy5_nCFvq46CDKE3EnQ)  | 
-| 2026-01-23 | Submit "Two-Truths-and-a-Lie" form | [Submit content here](https://forms.gle/WX12oFyYtphaG1aaA) |
-| 2026-01-30 | List of 3-5 research topics | Use generative AI tools |
-| 2026-01-30 | Find one foundational resource for your topic and study it | Be prepared to discuss this resource with instructor |
-| 2026-02-02 | Hobby talks | See [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) for details |
-| 2026-02-09 | Handbook Quiz | In-class quiz on the [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) |
-| 2026-02-06 | Preparation for Individual Progress meeting | You will meet individually with the instructor |
+| 2026-01-23 | Submit "Two-Truths-and-a-Lie" form | [Submit content here](https://forms.gle/FmTY1hPtsrJsJNRH9) |
+| 2026-01-26 | Hobby talks | See [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) for details |
+| 2026-02-02 | 3-5 research topics | Use Gemini Deep Research to produce reports |
+| 2026-02-06 | Handbook Quiz | In-class quiz on the [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) |
 | 2026-02-09 | Titles and Abstracts | Details [here](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) |
 | 2026-02-09 | Set up Zotero Group Sharing with instructor | [Zotero Group Instructions](https://www.zotero.org/support/groups)|
 | 2026-02-13 | Set up at least 1 new Google Scholar resource notification. Describe what you set up via email to instructor | [Notifications Setup Guide](./ResourceNotifications.md)

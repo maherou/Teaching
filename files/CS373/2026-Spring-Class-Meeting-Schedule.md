@@ -18,28 +18,28 @@ location: "Collegeville, MN, USA"
 |        | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/spring-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2026-Spring-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2026-Spring-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
 |        | First AI-Assisted Task | [Brainstorming On Research Topics](../GenerativeAITools/2025-08-Heroux-BrainstormingOnResearchTopics.pdf) |
 |        | Second AI-Assisted Task | [Generate Research Report](https://gemini.google.com) |
-|        | Submit "Two-Truths-and-a-Lie" form | [Submit content here](https://forms.gle/WX12oFyYtphaG1aaA) |
-|        |        ||
-| Jan 26 | Reference librarian (K. Schleck) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees) |
+|        | Submit "Two-Truths-and-a-Lie" form | [Submit content here](https://forms.gle/FmTY1hPtsrJsJNRH9) |
 |        | [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) | |
-|        | [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
-|        | Individual AI Usage Policy | [AI Usage Policy Development Kit](./AiUsagePolicy.md) |
-|        | Two Truths and a Lie | Class participation event |
-|        | Review potential research topics | **Have Gemini Deep Research papers available** |
 |        |        ||
-| Feb 2 | _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students) |
-|        | Hobby Talks | |
+| Jan 26 | Hobby Talks | |
+|        |        ||
+| Jan 30 | Reference librarian (K. Schleck) | [ACM Digital Library User Guide](https://libraries.acm.org/binaries/content/assets/libraries/acm-digital-library-user-guide.pdf) <br> [Computer Science Research Guide](https://guides.csbsju.edu/cs/) <br> [Who is on the ACM Pubs Board, me :)](https://www.acm.org/publications/publications-board-committees) |
+|        | _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students) |
+|        | Individual AI Usage Policy | [AI Usage Policy Development Kit](./AiUsagePolicy.md) |
+|        | [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+|        |        ||
+| Feb 2  |  Review potential research topics **Have Gemini Deep Research papers available**| Via Zoom |
+|        |        ||
+| Feb 6  | Two Truths and a Lie | Class participation event |
+|        | [AI-assisted Development Exercise](./AiAssistedDevelopment.md) | Getting started with AI development tools |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        |        ||
-| Feb 6 | Progress status 1-on-1 meeting | Via Zoom |
-|        |        ||
-| Feb 9 | [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Feb 6 using a Google Form |
+| Feb 9  | [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Feb 6 using a Google Form |
 |        | Quiz challenge | Each team takes the quizzes created by other teams |
 |        | Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
-|        | [AI-assisted Development Exercise](./AiAssistedDevelopment.md) | Getting started with AI development tools |
 |        | Set up [Zotero](https://zotero.org) | We will use Zotero for collecting and sharing resources |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
-|        | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+|        | [Personal Progress Form](https://forms.gle/YChagoQhceoM2mCw8) | Complete before leaving class |
 |        |        ||
 | Feb 13 | [Effective Mental Models](../MentalModels) | |
 |        | Automated Resource Notifications | [Get automatic updates on content that might interest you](./ResourceNotifications.md) |
@@ -56,7 +56,7 @@ location: "Collegeville, MN, USA"
 |        | [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | [Overleaf Setup](https://www.overleaf.com) |
 |        | [Writing Exercises](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess) |
-|        | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | Complete before leaving class |
+|        | [Personal Progress Form](https://forms.gle/YChagoQhceoM2mCw8) | Complete before leaving class |
 |        |        ||
 | Feb 27 | **No Class** | TGIF |
 |        |        ||
@@ -106,7 +106,7 @@ location: "Collegeville, MN, USA"
 |        | [Captions That Work](../CaptionsThatWork) | |
 |        | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
 |        | Complete Presentation Bio Form | |
-|        | [Quick Survey](https://forms.gle/v77ztSXy42bzjfKF8) | |
+|        | [Personal Progress Form](https://forms.gle/YChagoQhceoM2mCw8) | |
 |        |        ||
 | May 8  | [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 |        | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |

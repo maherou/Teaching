@@ -20,9 +20,8 @@ location: "Collegeville, MN, USA"
 |        | Intro to Generative AI Tools | [Generative AI Tools](../GenerativeAITools/2025-08-Heroux-GenerativeAITools.pdf) |
 |        | Course Intro | [Google NotebookLM-generated content about CSCI373](../CSCI373Overview) <br> [Downloadable PDF of Handbook](../CSCI373CourseHandbookLatestEdition.pdf) |
 |        | First AI-Assisted Task | [Brainstorming On Research Topics](../GenerativeAITools/2025-08-Heroux-BrainstormingOnResearchTopics.pdf) |
-|        | Second AI-Assisted Task | [Generate Research Report](https://gemini.google.com) |
-|        | Submit "Two-Truths-and-a-Lie" form | [Submit content here](https://forms.gle/FmTY1hPtsrJsJNRH9) |
 |        | [Presentation Exercises](https://collegeville.github.io/Orator/PresentationsThatWork/) | |
+|        | Second AI-Assisted Task (Using Gemini) <br> 1. Select Deep Research Tool <br> 2. Use prompt: Produce report on "topic from first AI-assisted task" <br> 3. Return after 10 or so minutes for result <br> 4. Repeat for each topic of interest to you | [Generate Research Report](https://gemini.google.com) |
 |        |        ||
 | Jan 26 | Hobby Talks | |
 |        |        ||
@@ -30,6 +29,7 @@ location: "Collegeville, MN, USA"
 |        | _A Tale of 3 CS373 Students_ | [Script](../ATaleOfThreeCS373Students) |
 |        | Individual AI Usage Policy | [AI Usage Policy Development Kit](./AiUsagePolicy.md) |
 |        | [Titles and Abstracts Exercises](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) | |
+|        | Submit "Two-Truths-and-a-Lie" form | [Submit content here](https://forms.gle/FmTY1hPtsrJsJNRH9) |
 |        |        ||
 | Feb 2  |  Review potential research topics **Have Gemini Deep Research papers available**| Via Zoom |
 |        |        ||

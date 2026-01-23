@@ -13,6 +13,8 @@ location: "Collegeville, MN, USA"
 | **Date** | **Assignment and Exercises** | **Notes** |
 | ---------- | --- | --- |
 | Jan 23 | Class Introduction | [Knowledge Half Life](./KnowledgeHalfLife.md), [Intro Slides](../IntroToCompSciResearch.pdf) |
+|        | Quiz 1 | [Link](https://pe.app/response_links/2b160f53-1ea3-4c57-bc4d-9c6306e606d8/start) |
+|        | Quiz 2 | [Link](https://pe.app/response_links/2899796b-c79c-4459-95fb-b663acd28e40/start) |
 |        | Important webpages | [Main class webpage (bookmark it)](https://maherou.github.io/Teaching/spring2026-CS373/) <br> [Class Meeting Schedule (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2026-Spring-Class-Meeting-Schedule/) <br> [Assignment and Event Due Dates (updated as needed)](https://maherou.github.io/Teaching/files/CS373/2026-Spring-Class-Assignment-Due-Dates) <br> [Assignments and Grading](https://maherou.github.io/Teaching/files/CS373/Overview-of-Assignments-and-Grading) |
 |        | Breakouts (About 15 minutes):<br> - Four people per group (pre-assigned) <br> - Discuss questions together <br> - One person reports for the group | Three questions: <br> 1. How have you use generative AI tools for academic work? <br> 2. How have these tools had a positive impact on your education? <br> 3. How have they had a negative impact on your education? |
 |        | Intro to Generative AI Tools | [Generative AI Tools](../GenerativeAITools/2025-08-Heroux-GenerativeAITools.pdf) |

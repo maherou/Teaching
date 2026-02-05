@@ -10,14 +10,15 @@ location: "Collegeville, MN, USA"
 
 For the demonstration element of our Explorations assignment, we will use AI-assisted coding.  Numerous tools exist to facilitate the integration of AI bots in designing, developing, testing, and debugging of software.  Each of you will experiment in the early part of the semester with one or more AI tool by producing a [_solitaire simulator_](./Solitaire.md).  The number and capabilities of AI assistants is evolving rapidly.  Presently, here are some possible tools for you to consider.
 
-| Tool | IDE Compatibility | Key Features | Getting Started Hints |
-|------|-------------------|--------------|-----------------------|
-| GitHub Copilot  | VS Code, JetBrains | Natural language to code, easy completions | Visit GitHub Copilot’s page, install the extension for VS Code or JetBrains, and sign up for a GitHub account if needed. Usually requires a subscription after a trial. |
-| Replit         | Browser-based IDE | Collaborative coding, easy sharing, and AI assist features | Go to Replit.com, create a free account, and start a Python repl. No installation needed—runs in the browser. |
-| Zed             | Zed Editor | Minimalist, fast editor with AI coding help (Mac and Linux only for now) | Download Zed from their official site, install it locally, and follow their setup guide. Usually free to use with optional sign-in. |
-| Tabnine         | Multiple IDEs | AI-based completions, multi-language support | Go to the Tabnine website, download the plugin for your chosen IDE, and start with the free tier or upgrade for more features. |
-| CodeWhisperer   | VS Code, others | Context-aware suggestions from Amazon | Check Amazon CodeWhisperer's docs, install their extension in VS Code, and sign in with an AWS account. There may be a free tier or trial available. |
-| OpenAI Codex | API-based | Customizable AI coding via API | Visit OpenAI’s platform page, get API keys, and follow Python or other language-specific examples. This requires an OpenAI account and may have usage costs. |
+| Tool | IDE Compatibility | Why It’s Good for This Course | Getting Started Hints |
+|------|-------------------|-----------------------------------|-----------------------|
+| **GitHub Copilot** | VS Code, JetBrains, Neovim, Visual Studio | Closest to industry-standard AI-assisted development; excellent for learning AI-supported problem decomposition, refactoring, testing, and UI logic while keeping students in the loop. | Install Copilot in VS Code or JetBrains, enable chat, and sign in with a GitHub account. Educational subscriptions or trials are typically available. |
+| **Replit** | Browser-based IDE | Very low setup friction; ideal for rapid prototyping, early UI iterations, and sharing playable versions of the game. Helpful for students new to local toolchains. | Create a Replit account and start a JavaScript, Python, or Java project. Use the built-in AI assistant for debugging and iterative development. |
+| **Amazon Q Developer** | VS Code, JetBrains, AWS Cloud9 | Provides exposure to enterprise-style AI coding assistance and secure coding hints; useful secondary experience even though AWS is not central to the project. | Install the Amazon Q Developer extension and sign in with an AWS account. The free tier is sufficient for coursework. |
+| **Zed** | Zed Editor (macOS, Linux) | Appeals to performance- and tooling-focused students; offers insight into modern editor design with emerging AI features. | Download Zed from the official site and enable AI features during setup. Best for students comfortable exploring newer tools. |
+| **Tabnine** | VS Code, JetBrains, Eclipse, others | Solid AI autocomplete with an emphasis on privacy; useful where conversational AI is less important or restricted. | Install the Tabnine plugin for your IDE and start with the free tier. |
+| **AntiGravity** | Experimental standalone IDE | Interesting for discussing future, intent-driven programming paradigms, but too immature for a full graded implementation. | Follow project documentation and research previews. Best used for demos or conceptual exploration. |
+| **OpenAI Codex** | API-based (not an IDE) | Not well-suited as a primary learning tool; lacks direct IDE interaction and obscures the human-in-the-loop workflow. | Access via the OpenAI platform and API keys; mainly relevant for historical context or experimentation. |
 
 ## Assignment
 1. Develop a [Solitaire Simulator](./Solitaire.md).

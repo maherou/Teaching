@@ -16,6 +16,7 @@ Zotero will help you:
 - Organize sources for papers and projects
 - Share references with your instructor
 - Generate citations and bibliographies in standard formats (APA, MLA, Chicago, etc.)
+- Generate citations in BibTeX format - this is the format we will use
 
 This page walks you through:
 1. Creating a Zotero account  

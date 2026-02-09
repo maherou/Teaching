@@ -25,7 +25,7 @@ location: "Collegeville, MN, USA"
 | 2026-02-02 | 3-5 research topics | Use Gemini Deep Research to produce reports |
 | 2026-02-06 | Handbook Quiz | In-class quiz on the [Course Handbook](../CSCI373CourseHandbookLatestEdition.pdf) |
 | 2026-02-09 | Titles and Abstracts | Details [here](https://collegeville.github.io/Scribe/TitlesAndAbstractsThatWork/) |
-| 2026-02-09 | Set up Zotero Group Sharing with instructor | [Zotero Group Instructions](https://www.zotero.org/support/groups)|
+| 2026-02-09 | Set up Zotero Group Sharing with instructor | [Zotero Setup Instructions](./ZoteroSetup.md)|
 | 2026-02-13 | Set up at least 1 new Google Scholar resource notification. Describe what you set up via email to instructor | [Notifications Setup Guide](./ResourceNotifications.md)
 | 2026-02-16 | Short-clip Foundations Phase A video [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Videos viewed in class  | 
 | 2026-02-20 | Draft Foundations Phase A paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Send PDF by email **by 11:59 pm** |

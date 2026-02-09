@@ -40,7 +40,7 @@ location: "Collegeville, MN, USA"
 | Feb 9  | [Handbook](../CSCI373CourseHandbookLatestEdition.pdf) quiz preparation | Prepare a 10-question quiz for other teams on Feb 6 using a Google Form |
 |        | Quiz challenge | Each team takes the quizzes created by other teams |
 |        | Handbook quiz (instructor edition) | Individually graded quiz on Course Handbook |
-|        | Set up [Zotero](https://zotero.org) | We will use Zotero for collecting and sharing resources |
+|        | [Set up Zotero](./ZoteroSetup.md) | We will use Zotero for collecting and sharing resources |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        | [Personal Progress Form](https://forms.gle/YChagoQhceoM2mCw8) | Complete before leaving class |
 |        |        ||

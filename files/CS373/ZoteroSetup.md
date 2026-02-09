@@ -91,6 +91,85 @@ Over the course of the semester, you should add:
 
 ---
 
+## Collecting Citations and Exporting BibTeX
+
+In computer science, citations are often managed using **BibTeX**, especially when writing in LaTeX, Markdown, or other technical publishing workflows. Zotero provides excellent support for collecting sources and exporting them in BibTeX format.
+
+---
+
+### Collecting Citations in Zotero
+
+There are several reliable ways to add sources to Zotero:
+
+#### 1. Using the Browser Connector (Recommended)
+- Navigate to an article, book, or paper online (library database, Google Scholar, publisher site).
+- Click the **Zotero Connector icon** in your browser.
+- Zotero will automatically capture the citation and, when available, the PDF.
+- Verify that the metadata (title, authors, year, venue) is correct.
+
+This method works especially well for:
+
+- Google Scholar
+- ACM Digital Library
+- IEEE Xplore
+- Publisher sites (Springer, Elsevier, etc.)
+
+#### 2. Adding PDFs Directly
+- Drag a PDF into Zotero Desktop.
+- Right-click the PDF and select **Retrieve Metadata for PDF**.
+- Check the resulting citation carefully—this step is essential.
+
+#### 3. Manual Entry (Use Sparingly)
+- Click **New Item** in Zotero and choose the appropriate type (journal article, book, conference paper).
+- Enter citation details by hand.
+- This is useful only when automated capture fails.
+
+---
+
+### Keeping Citations Clean
+
+Before exporting:
+- Ensure **author names** are correct and consistently formatted.
+- Check **conference or journal names** (avoid abbreviations unless standard).
+- Make sure **year, title, and DOI** fields are present when available.
+
+Clean citations save time later and prevent confusing BibTeX errors.
+
+---
+
+### Exporting Citations in BibTeX Format
+
+You can export BibTeX in two common ways.
+
+#### Option 1: Export Individual or Multiple Entries
+1. Select one or more items in Zotero.
+2. Right-click and choose **Export Items…**
+3. Select **BibTeX** as the format.
+4. Save the `.bib` file.
+
+This is useful when preparing a bibliography for a specific paper or report.
+
+#### Option 2: Export an Entire Collection or Group
+1. Right-click the collection or group in the left panel.
+2. Choose **Export Collection…**
+3. Select **BibTeX**.
+4. Save the `.bib` file.
+
+This is useful for maintaining a shared or evolving bibliography.
+
+---
+
+### Using BibTeX in Your Writing
+
+Once exported, the `.bib` file can be used with:
+- LaTeX (`\bibliography{references}`)
+- Pandoc / Markdown
+- Other academic writing tools that support BibTeX
+
+When writing, you will cite sources using BibTeX keys such as:
+
+---
+
 ## Common Mistakes to Avoid
 
 - ❌ Creating a personal library instead of a group

@@ -44,16 +44,16 @@ location: "Collegeville, MN, USA"
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        | [Personal Progress Form](https://forms.gle/YChagoQhceoM2mCw8) | Complete before leaving class |
 |        |        ||
-| Feb 13 | [Effective Mental Models](../MentalModels) | |
+| Feb 13 | **No Class** | TGIF |
+|        |        ||
+| Feb 16 | [Effective Mental Models](../MentalModels) | |
 |        | Automated Resource Notifications | [Get automatic updates on content that might interest you](./ResourceNotifications.md) |
 |        | [A Better Professional You](./BetterYou.pdf) | |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        | Review Resources in Zotero | Show instructor progress in finding project resources |
 |        |        ||
-| Feb 16 | Short-clip Foundations Phase A video in-class viewing ([HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)) | |
+| Feb 20 | Short-clip Foundations Phase A video in-class viewing ([HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf)) | |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
-|        |        ||
-| Feb 20 | **No Class** | TGIF |
 |        |        ||
 | Feb 23 | Generative AI Experiences: Discussion | |
 |        | [LaTeX Exercises](https://collegeville.github.io/Scribe/UsingLatex/) | [Overleaf Setup](https://www.overleaf.com) |

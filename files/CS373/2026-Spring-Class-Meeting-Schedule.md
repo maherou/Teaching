@@ -67,28 +67,30 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Mar 6 | **No Class** | TGIF |
 | Mar 9 | [Technical Research, Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
-|        | Create EasyChair account using CSBSJU email address | [EasyChair website](https://easychair.org) |
-|        | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) |
 |        | Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
+|        | In-class Generative AI and Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        |        ||
-| Mar 13 | Generative AI Experiences: Discussion | |
-|        | [The science behind dramatically better conversations (Charles Duhigg@TEDxManchester)](https://www.ted.com/talks/charles_duhigg_the_science_behind_dramatically_better_conversations_sep_2025) | |
-|        | [Technical Discussions Exercises](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
-|        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
+| Mar 13 | **No Class** | TGIF |
 |        |        ||
 | Mar 16–20 | **Spring Break** | No class |
 |        |        ||
-| Mar 27 | Review Thesis Statement | |
+| Mar 23 | Create EasyChair account using CSBSJU email address | [EasyChair website](https://easychair.org) |
+|        | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) |
 |        | Foundations Phase B paper gap analysis ([HB, pg 27](../CSCI373CourseHandbookLatestEdition.pdf)) | |
 |        | In-class Reveal discussions | |
+| Mar 27 | **No Class** | TGIF |
+|        |        ||
+| Mar 30-31 | Progress status: Level of Expertise assessment | 1-on-1 meeting |
+|        |        ||
 |        |        ||
 | Apr 3–6 | **Easter Break** | No class |
 |        |        ||
-| Apr 10 | Progress status: Level of Expertise assessment | 1-on-1 meeting Group I |
+| Apr 10 | Live Foundations Phase C Presentations | |
 |        |        ||
-| Apr 13 | Live Foundations Phase C Presentations Group I | Group I: Last names B - M |
+| Apr 13 | [The science behind dramatically better conversations (Charles Duhigg@TEDxManchester)](https://www.ted.com/talks/charles_duhigg_the_science_behind_dramatically_better_conversations_sep_2025) | |
+|        | [Technical Discussions Exercises](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
 |        |        ||
-| Apr 17 | Live Foundations Phase C Presentations Group II | Group II: Last names P - Z |
+| Apr 17 | **No Class** | TGIF |
 |        |        ||
 | Apr 20 | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
 |        | [Better Abstracts](../BetterAbstracts) | |

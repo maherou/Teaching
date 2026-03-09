@@ -42,7 +42,7 @@ location: "Collegeville, MN, USA"
 | 2026-04-17 | Foundations Phase C paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Revise based on team review and new content. Send PDF by email by 11:59 pm |
 | 2026-04-20 | Review of resources | Ensure current annotated bibliography is up to date and accessible to instructor |
 | 2026-04-24 | In-class 1 - 2 minute standup | Share status of demo/prototype efforts |
-| 2026-05-01 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
+| 2026-04-24 | Making Predictions | Watch [the video](https://collegeville.github.io/Scribe/PredictionsThatWork/) before class |
 | 2026-05-01 | Complete [Position Paper](https://collegeville.github.io/Scribe/PositionPapers/) | Submit at end of class | 
 | 2026-04-13 | Optional Assignment: Create GitHub Pages personal website | Send DH link to website |
 | 2026-05-04 | Project Explorations Video [HB, pg 24](../CSCI373CourseHandbookLatestEdition.pdf) | View in class |

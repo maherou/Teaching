@@ -98,12 +98,12 @@ location: "Collegeville, MN, USA"
 |        | In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        |        ||
-| Apr 24 | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | |
+| Apr 24 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Futures Section of SOTF paper |
 |        | Progress report on demos and AI development tools | As a standup |
 |        | Generative AI Experiences: Discussion | |
-|        |        ||
-| May 1 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Futures Section of SOTF paper |
 |        | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | In-class AI-assisted writing |
+|        |        ||
+| May 1  | **No Class** | TGIF |
 |        |        ||
 | May 4 | Project Explorations Videos | Viewed in class |
 |        | Preparations for final weeks, review checklists | [HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf) |

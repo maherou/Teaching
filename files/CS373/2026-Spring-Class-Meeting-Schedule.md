@@ -103,6 +103,8 @@ location: "Collegeville, MN, USA"
 |        | Generative AI Experiences: Discussion | |
 |        | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | In-class AI-assisted writing |
 |        |        ||
+| Apr 27 | **No Class** | At Salishan |
+|        |        ||
 | May 1  | **No Class** | TGIF |
 |        |        ||
 | May 4 | Project Explorations Videos | Viewed in class |

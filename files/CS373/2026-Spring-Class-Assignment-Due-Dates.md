@@ -35,7 +35,7 @@ location: "Collegeville, MN, USA"
 | 2026-03-02 | Review of resources | Ensure current annotated bibliography is up to date and accessible to instructor |
 | 2026-03-06 | Submit revised Foundations Phase A paper as requested [here](https://collegeville.github.io/Scribe/BetterTechnicalWriting/) | |
 | 2026-03-09 | Submit draft thesis statement | [Thesis Statement](./ThesisStatement.md) |
-| 2026-03-27 | Foundations Phase B paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2026foundations) in Submissions section |
+| 2026-03-27 | Foundations Phase B paper [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Upload PDF to [EasyChair](https://easychair.org/conferences/?conf=spring2026foundation) in Submissions section |
 | 2026-04-02 | Complete Foundations Phase B paper reviews [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | Access PDFs from EasyChair Reviews section |
 | 2026-04-10 | Foundations Phase C in-class presentations [HB, pg 22](../CSCI373CourseHandbookLatestEdition.pdf) | |
 | 2026-04-13 | Technical Discussions Assignment | Submit [pre-discussion assignment](https://collegeville.github.io/Orator/DiscussionsThatWork/) via email **prior to class** |

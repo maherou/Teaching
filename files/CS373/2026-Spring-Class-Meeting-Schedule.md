@@ -90,7 +90,7 @@ location: "Collegeville, MN, USA"
 | Apr 13 | [The science behind dramatically better conversations (Charles Duhigg@TEDxManchester)](https://www.ted.com/talks/charles_duhigg_the_science_behind_dramatically_better_conversations_sep_2025) | |
 |        | [Technical Discussions Exercises](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
 |        |        ||
-| Apr 17 | **No Class** | TGIF |
+| Apr 17 | Major Field Test in Computer Science | Standardized test for all CSCI seniors |
 |        |        ||
 | Apr 20 | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
 |        | [Better Abstracts](../BetterAbstracts) | |

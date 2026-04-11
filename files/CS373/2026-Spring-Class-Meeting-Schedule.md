@@ -89,6 +89,8 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Apr 13 | [The science behind dramatically better conversations (Charles Duhigg@TEDxManchester)](https://www.ted.com/talks/charles_duhigg_the_science_behind_dramatically_better_conversations_sep_2025) | |
 |        | [Technical Discussions Exercises](https://collegeville.github.io/Orator/DiscussionsThatWork/) | |
+|        | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | In-class AI-assisted writing |
+|        |  Individual presentation feedback (concurrent with position paper assignment)      ||
 |        |        ||
 | Apr 17 | Major Field Test in Computer Science | Standardized test for all CSCI seniors |
 |        |        ||
@@ -101,7 +103,6 @@ location: "Collegeville, MN, USA"
 | Apr 24 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Futures Section of SOTF paper |
 |        | Progress report on demos and AI development tools | As a standup |
 |        | Generative AI Experiences: Discussion | |
-|        | [Position Papers](https://collegeville.github.io/Scribe/PositionPapers/) | In-class AI-assisted writing |
 |        |        ||
 | Apr 27 | **No Class** | At Salishan |
 |        |        ||

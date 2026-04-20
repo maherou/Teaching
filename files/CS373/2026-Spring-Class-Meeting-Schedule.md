@@ -44,7 +44,7 @@ location: "Collegeville, MN, USA"
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        | [Personal Progress Form](https://forms.gle/YChagoQhceoM2mCw8) | Complete before leaving class |
 |        |        ||
-| Feb 13 | **No Class** | TGIF |
+| Feb 13 | **No Class** | Individual study |
 |        |        ||
 | Feb 16 | [Effective Mental Models](../MentalModels) | |
 |        | Automated Resource Notifications | [Get automatic updates on content that might interest you](./ResourceNotifications.md) |
@@ -61,16 +61,16 @@ location: "Collegeville, MN, USA"
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess) |
 |        | [Personal Progress Form](https://forms.gle/YChagoQhceoM2mCw8) | Complete before leaving class |
 |        |        ||
-| Feb 27 | **No Class** | TGIF |
+| Feb 27 | **No Class** | Individual study |
 |        |        ||
 | Mar 2 | Progress status. Review of Zotero resources | |
 |        |        ||
-| Mar 6 | **No Class** | TGIF |
+| Mar 6 | **No Class** | Individual study |
 | Mar 9 | [Technical Research, Writing and Speaking 2.0](./TechWritingSpeaking2.0.pdf) | |
 |        | Thesis statement for your project | [Thesis Statement](./ThesisStatement.md) |
 |        | In-class Generative AI and Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        |        ||
-| Mar 13 | **No Class** | TGIF |
+| Mar 13 | **No Class** | Individual study |
 |        |        ||
 | Mar 16–20 | **Spring Break** | No class |
 |        |        ||
@@ -78,7 +78,7 @@ location: "Collegeville, MN, USA"
 |        | Intro to Reviewing | [Effective Reviews](../EffectiveReviews) |
 |        | Foundations Phase B paper gap analysis ([HB, pg 27](../CSCI373CourseHandbookLatestEdition.pdf)) | |
 |        | In-class Reveal discussions | |
-| Mar 27 | **No Class** | TGIF |
+| Mar 27 | **No Class** | Individual study |
 |        |        ||
 | Mar 30-31 | Progress status: Level of Expertise assessment | 1-on-1 meeting |
 |        |        ||
@@ -94,19 +94,16 @@ location: "Collegeville, MN, USA"
 |        |        ||
 | Apr 17 | Major Field Test in Computer Science | Standardized test for all CSCI seniors |
 |        |        ||
-| Apr 20 | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
-|        | [Better Abstracts](../BetterAbstracts) | |
-|        | [Captions That Work](../CaptionsThatWork) | |
-|        | In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
+| Apr 20 | In-class TED Talk viewing and discussion | [Liv Boeree, The deadly trap that could create an AI catastrophe](https://www.ted.com/talks/liv_boeree_the_deadly_trap_that_could_create_an_ai_catastrophe) |
 |        | In-class Reveal discussions | [Class Discussion Process](./ClassDiscussionProcess.md) |
 |        |        ||
 | Apr 24 | [Predictions That Work](https://collegeville.github.io/Scribe/PredictionsThatWork/) | Futures Section of SOTF paper |
 |        | Progress report on demos and AI development tools | As a standup |
 |        | Generative AI Experiences: Discussion | |
 |        |        ||
-| Apr 27 | **No Class** | At Salishan |
+| Apr 27 | **No Class** | Individual study |
 |        |        ||
-| May 1  | **No Class** | TGIF |
+| May 1  | **No Class** | Individual study |
 |        |        ||
 | May 4 | Project Explorations Videos | Viewed in class |
 |        | Preparations for final weeks, review checklists | [HB, pg 27, 28](../CSCI373CourseHandbookLatestEdition.pdf) |

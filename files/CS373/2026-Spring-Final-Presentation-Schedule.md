@@ -12,40 +12,30 @@ location: "Collegeville, MN, USA"
 
 Family and friends are welcome to attend in person or via Zoom.  
 
-For virtual participation, register via Zoom to receive the connection link via email. The same Zoom link works for all sessions.
+For virtual participation, register via Zoom to receive the connection link via email.
 
-Register in advance: [Zoom Registration Link]()
+### Session 1: 1:15 PM - 2:25 PM, Tuesday, May 12, 2026
 
-### Thursday, December 11, 2025
-
-### Session 1: 9:20 AM - 11:00 PM
+[Zoom Registration Link for May 12](https://csbsju.zoom.us/meeting/register/hbqFcULVSIOqhjvczhr6TA)
 
 | **Time**  | **Speaker** | **Title** |
 | --------  | ----------- | --------- |
-| 9:20 AM   | 
-| 9:40 AM   | 
-| 10:00 AM  | 
-| 10:20 AM  | 
-| 10:40 AM  | 
+| 1:15 PM   | Bashir Amoud | TBA |
+| 1:35 PM   | Peyton Gremmels | TBA |
+| 1:55 PM   | Reagan Hennen | TBA |
+| 2:15 PM   | Ermiyas Legesse | TBA |
+| 2:35 PM   | Joey Moberg | TBA |
+| 2:55 PM   | William Valverde Zanabriga | TBA |
 
-### Session 2: 11:20 AM - 1:20 PM
+### Session 2: 1:15 PM - 2:25 PM, Wednesday, May 13, 2026
 
-| **Time**  | **Speaker** | **Title** |
-| --------  | ----------- | --------- |
-| 11:20 AM  | 
-| 11:40 AM  | 
-| 12:00 PM  | 
-| 12:20 PM  | 
-| 12:40 PM  | 
-| 1:00 PM   | 
-
-### Session 3: 1:40 AM - 3:40 PM
+[Zoom Registration Link for May 13](https://csbsju.zoom.us/meeting/register/cgntAMhyTmWvQcOl_WKqew)
 
 | **Time**  | **Speaker** | **Title** |
 | --------  | ----------- | --------- |
-| 1:40 PM  | 
-| 2:00 PM  | 
-| 2:20 PM  | 
-| 2:40 PM  | 
-| 3:00 PM  | 
-| 3:20 PM  | 
+| 1:15 PM   | Kainen DuFresne-To | TBA |
+| 1:35 PM   | Noah Hermanson | TBA |
+| 1:55 PM   | Cormac O'Connor | TBA |
+| 2:15 PM   | Kendra Orbeck | TBA |
+| 2:35 PM   | Kody Phommavongxay | TBA |
+| 2:55 PM   | Timmy Rotter | TBA |

@@ -14,7 +14,7 @@ Family and friends are welcome to attend in person or via Zoom.
 
 For virtual participation, register via Zoom to receive the connection link via email.
 
-### Session 1: 1:15 PM - 2:25 PM, Tuesday, May 12, 2026
+### Session 1: 1:15 PM - 3:15 PM, Tuesday, May 12, 2026
 
 [Zoom Registration Link for May 12](https://csbsju.zoom.us/meeting/register/hbqFcULVSIOqhjvczhr6TA)
 
@@ -27,7 +27,7 @@ For virtual participation, register via Zoom to receive the connection link via 
 | 2:35 PM   | Joey Moberg | TBA |
 | 2:55 PM   | William Valverde Zanabriga | TBA |
 
-### Session 2: 1:15 PM - 2:25 PM, Wednesday, May 13, 2026
+### Session 2: 1:15 PM - 3:15 PM, Wednesday, May 13, 2026
 
 [Zoom Registration Link for May 13](https://csbsju.zoom.us/meeting/register/cgntAMhyTmWvQcOl_WKqew)
 

@@ -116,7 +116,7 @@ location: "Collegeville, MN, USA"
 | May 8  | [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 |        | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |
 |        | Menti Quiz Challenge | [Link](https://www.mentimeter.com/app/presentation/al9nm9s2mayvyp167dd1f3xv4qgvu4i4/me45uihw3d4p) |
-|        | [Official Course Evaluation](https://csbsju.iasystem.org/survey/19160) | |
+|        | [Official Course Evaluation](https://csbsju.iasystem.org/survey/19786) | |
 |        |        ||
 | May 12  | Final SOTF Talk [(HB, pg 26)](../CSCI373CourseHandbookLatestEdition.pdf) | [**Formal presentations**](../2026-Spring-Final-Presentation-Schedule) |
 |        | Review presentation checklist | [Presentation checklist: HB, pg 28](../CSCI373CourseHandbookLatestEdition.pdf)  |

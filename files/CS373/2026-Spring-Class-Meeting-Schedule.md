@@ -112,7 +112,7 @@ location: "Collegeville, MN, USA"
 |        | [Talks that Work](https://docs.google.com/presentation/d/18RR58xUXb1QSBwlVpYIxsFdQDxRnaB3TyXY_g8xcTcw/edit?usp=sharing) | |
 |        | Complete [Presentation Biography Form](https://forms.gle/kMZtbUiAMnEABSbk9) | |
 |        | [Personal Progress Form](https://forms.gle/YChagoQhceoM2mCw8) | |
-|        | [Why AI is Unlikely to Become Concious](https://www.ted.com/talks/anil_seth_why_ai_is_unlikely_to_become_conscious) | |
+|        | [Why AI is Unlikely to Become Conscious](https://www.ted.com/talks/anil_seth_why_ai_is_unlikely_to_become_conscious) | |
 |        |        ||
 | May 8  | [Course Retrospective](https://collegeville.github.io/Scribe/Retrospectives/) |  |
 |        | [Capstone Bingo](../Bingo/Capstone-Bingo/) | |

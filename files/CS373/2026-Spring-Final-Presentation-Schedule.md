@@ -23,7 +23,7 @@ For virtual participation, register via Zoom to receive the connection link via 
 | 1:15 PM   | Bashir Amoud | TBA |
 | 1:35 PM   | Peyton Gremmels | Explainable Caries Detection: From Black Boxes to Measured Trust |
 | 1:55 PM   | Reagan Hennen | Forecasting the U.S. Unemployment Rate Using Deep Learning and Explainable AI |
-| 2:15 PM   | Ermiyas Legesse | TBA |
+| 2:15 PM   | Ermiyas Legesse | Using machine learning to predict tennis match outcome |
 | 2:35 PM   | Joey Moberg | TBA |
 | 2:55 PM   | William Valverde Zanabriga | A Machine Learning Approach to Predicting Diabetic Readmissions |
 

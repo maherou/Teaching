@@ -20,7 +20,7 @@ For virtual participation, register via Zoom to receive the connection link via 
 
 | **Time**  | **Speaker** | **Title** |
 | --------  | ----------- | --------- |
-| 1:15 PM   | Bashir Amoud | Algorithmic Optimization in Food Distribution and Global Hunger Reduction |
+| 1:15 PM   | Bashir Amoud | Improving Food Access Through Optimization Algorithms |
 | 1:35 PM   | Peyton Gremmels | Explainable Caries Detection: From Black Boxes to Measured Trust |
 | 1:55 PM   | Kody Phommavongxay | The Reason You Can Watch Videos |
 | 2:15 PM   | Ermiyas Legesse | Using machine learning to predict tennis match outcome |

@@ -1,4 +1,7 @@
 
+_site/
+Gemfile.lock
+
 assets/.DS_Store
 assets/css/.DS_Store
 assets/fonts/.DS_Store
